@@ -130,10 +130,13 @@ O principal exemplo seria uma violação da evolução gradual da consciência, 
 
 
 
-Registros cronológicos deste documento
+## Registros cronológicos deste documento
 
-09/05/2024:
+
+### 09/05/2024:
+
 Screenrec - https://screenrec.com/share/LnCHc4NsJv
+
 Câmera do celular - https://drive.proton.me/urls/PNWNKF0P1W#g5zFATZPfzzh
 
 
