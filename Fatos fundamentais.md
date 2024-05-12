@@ -67,8 +67,7 @@ Nenhuma informação é criada nem destruída dentro de um sistema fechado, o qu
 
 - É extremamente improvável que um biossistema (entende-se por planeta ou qualquer meio que englobe entidades com diversos níveis de complexidade) atingir um nível avançado de evolução e prosperidade, especialmente em seus estágios iniciais, sem a interferência em algum nível de outro biossistema mais avançado;
 
-- Os dois itens anteriores, com a necessidade de que qualquer evento tenha uma causa anterior, provam que não existe origem absoluta de todos os eventos do universo que não tenha nenhuma causa anterior, somente uma rede infinita e interligada de eventos com hierarquia causal sem pontos preferenciais. Segundo esta lógica, a existência de um Deus religioso baseado em dogmas ou de um evento como o Big-Bang são ambos falíveis e incompletos, assim como qualquer tentativa de explicar completamente toda a realidade em um conjunto fechado de leis e eventos.
-
+- Os dois itens anteriores, com a necessidade de que qualquer evento tenha uma causa anterior, provam que não existe origem absoluta de todos os eventos do universo que não tenha nenhuma causa anterior, somente uma rede infinita e interligada de eventos com hierarquia causal sem pontos preferenciais. Segundo esta lógica, a existência de um Deus religioso baseado em dogmas ou de um evento como o Big-Bang são ambos falíveis e incompletos, assim como qualquer tentativa de explicar completamente toda a realidade como originária de um único evento.
 
 ## Mapa universal
 
