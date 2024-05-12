@@ -10,4 +10,6 @@
 
 ## [Movimento de ascensão planetária / Lei da atração / Leis herméticas](https://www.evernote.com/shard/s483/sh/2657ea45-8dae-4a7f-e249-4f8e03a3131a/12GJCpsT8ZtYObhg5q845_bhdGv_Bud3gGGh1oBV1rsI9OEA0jrpwQ6lyw)
 
+## [Refutando o criacionismo](https://www.evernote.com/shard/s483/sh/1e032ea1-7590-5b8a-efbd-606966c64dfb/QZ2KkMcyWcd1POacBJpCTHtUo9MVHyudoC6rLZ6bJOc9KMYd54Qr22FUQg)
+
 ## [Registros gravados](https://www.evernote.com/shard/s483/sh/0edd5ceb-b06c-d219-e128-9064df36e574/sbJOkHLkuocdfjA-JT3WUYp0MJh0xOocfZKX8JXcBwdkhOSE0IfJSHkCOg)
