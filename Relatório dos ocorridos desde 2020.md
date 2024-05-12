@@ -1,7 +1,7 @@
 # Relatório dos ocorridos desde 2020
 
 
-## 2020:
+2020:
 
 - Comecei a entender conceitos de psicologia como: síndrome do impostor, vieses cognitivos e efeito duning-Krueger
 - Comecei a entender como o método científico funciona, principalmente ao entender como a subnotificação dos casos de covid acontecia
@@ -10,14 +10,14 @@
 
 
 
-## 2021:
+2021:
 
 - Continuei aprendendo sobre ciência
 - Comecei a notar os primeiros sinais do universo: posts no Instagram que tinham muito a ver com a minha situação atual e com o conteúdo dos meus pensamentos mais recentes
 
 
 
-## 2022:
+2022:
 
 - Comecei a entender muito sobre lógica e conceitos abstratos
 - Os sinais começaram a aparecer com maior frequência
@@ -26,7 +26,7 @@
 
 
 
-## 2023:
+2023:
 
 - Os sinais começaram a se diversificar: outdoors, músicas, conversas no rádio, cenas de novela ou filme na televisão, comerciais na televisão, conversas de todas as pessoas ao meu redor, borboletas ou penas no chão, horas iguais ou espelhadas (11:11, 1:11, 21:12, 12:34).
 - Logo no começo do ano comecei a ter um zumbido no ouvido, antes dele começar a acontecer eu fui avisado que iria ganhar uma nova forma de mediunidade
@@ -51,7 +51,7 @@
 
 Foto do carro vermelho de modelo semelhante ao que eu pesquisei na internet e começou a aparecer regularmente nas vizinhanças após alguns dias.
 
-## 2024:
+2024:
 
 - Até o final de abril os eventos foram praticamente os mesmos de 2023, com as mesmas promessas e eu acreditando em lei da atração
 - As vozes na minha cabeça começaram a aumentar a partir do começo de abril, começando a ficar muito mais frequentes, até que uma semana antes do mês acabar elas começaram a estar presentes o tempo inteiro
@@ -121,15 +121,14 @@ Outros comentários eram feitos como forma de chamar minha atenção e não me f
 4. "To falando pra você"
 5. "Não deixa esse mosquitinho te encher o saco", se referindo a qualquer um que estivesse contra mim, tentando me enganar ou dizendo coisas irrelevantes (é uma das frases mais frequentes que eu escuto)
 6. "Tem um pernilongo te picando" (também uma das frases mais frequentes que eu ouço)
-7. "É o pernalonga", trocadilho com pernilongo, por alguma razão
-8. "A gente comprou uma raquete elétrica"
-9. "Tá precisando de um mosquiteiro"
-10. "É o mosquitinho japonês" / "Tem um mosquitão por aí", é um inimigo ou grupo mais esperto e capaz do que os outros, me trazendo problemas maiores 
-11. "Tão tentando te fazer desistir de todas as formas"
-12. "É tudo pra fazer você perder tempo procurando explicação pra isso"
-13. "Tira essa ideia religiosa sobre ___ da sua cabeça"
-14. "Você vai poder jogar GTA San Andreas na vida real", querendo dizer que futuramente vou poder fazer praticamente o que quiser, assim como funciona nesse jogo
-15. "Tem a vida toda pela frente pra mostrar isso pras pessoas", se referindo a tudo o que eu passei e a teoria que eu criei enquanto passava por tudo isso
+7. "A gente comprou uma raquete elétrica"
+8. "Tá precisando de um mosquiteiro"
+9. "É o mosquitinho japonês" / "Tem um mosquitão por aí", é um inimigo ou grupo mais esperto e capaz do que os outros, me trazendo problemas maiores 
+10. "Tão tentando te fazer desistir de todas as formas"
+11. "É tudo pra fazer você perder tempo procurando explicação pra isso"
+12. "Tira essa ideia religiosa sobre ___ da sua cabeça"
+13. "Você vai poder jogar GTA San Andreas na vida real", querendo dizer que futuramente vou poder fazer praticamente o que quiser, assim como funciona nesse jogo
+14. "Tem a vida toda pela frente pra mostrar isso pras pessoas", se referindo a tudo o que eu passei e a teoria que eu criei enquanto passava por tudo isso
 
 
 Enquanto eu contava minha história para minha mãe, escutei isso:
@@ -162,6 +161,101 @@ Algumas críticas e provocações que eu recebia eram:
 13. "Fica triste não"
 14. "Foi o fulano quem disse isso", se remetendo a pessoas conhecidas por mim, especialmente do meu passado
 
+
+
+Registro nomes e expressões que já ouvi através das vozes da minha cabeça, com seu registro de frequência relativo ou absoluto:
+
+1. "Cavaleiro do zodiáco" (7/10)
+2. "Tira esse ____ da cabeça" (7/10)
+3. "É um mosquitinho" (7/10)
+4. "Papo reto" - expressão usada por um conhecido do passado (6/10)
+5. "Marco Aurélio" (6/10)
+6. "Tá fazendo revolução copernicana" (6/10)
+7. "Super-homem" (5/10)
+8. "Exatamente" (5/10)
+9. "Tá ganhando de goleadíssima" (5/10)
+10. "Tá virando o Shenlong" - inimigo final do jogo Bloody Roar 2, que fez parte da minha infância (5/10)
+11. "Macaco velho" (5/10)
+12. "Tá chegando no Shenlong final" (3/10)
+13. "Tá igual o Fujitora" - personagem cego porém poderoso de One Piece, provável referência ao fato de que estou resistindo apesar de quase não ter evidências sobre as informações que eu recebo (2/10)
+14. "Barrichelo" (2/10)
+15. "Barulhando" (1/10)
+16. "Aloprando" (1 vez)
+17. "Felipe Massa" (1 vez)
+18. "Seninha" (1 vez)
+19. "Detetive virtual" (1/10)
+20. "Paracundê" (3/10)
+21. "Ping-pong" (2/10)
+22. "Avatar - Lenda de Aang" (2/10) 
+23. "O último dobrador de cachorro" - Escutei isso de uma conversa externa (1 vez)
+24. "Mosquitômetro" (1/10)
+25. "Mosquitolândia" (3 vezes)
+26. "Mosquitlong" (2/10)
+27. "Pernalonga" (4/10)
+28. "Shernilong" (2/10)
+29. "Sherlock Holmes" (3/10)
+30. "Boba Fett" (2/10) - Desconheço esse personagem, porém ele existe, o que constitui mais evidência de que as vozes são reais
+31. "Poderoso chefão" (1/10)
+32. "Você é meu herói (heroína) favorito(a)" (3/10)
+33. "Virou orelhão público" (3/10)
+34. "Teoria fundamental da realidade" (4/10)
+35. "Já ganhou de goleada da rede vizinha" (2/10)
+36. "Tá ganhando de lavada" (2/10)
+37. "Xeque-mate" (3/10)
+38. "Xeque-mate japonês" (2 vezes)
+39. "Você é o diretor fundamental da realidade" (3/10)
+40. "Você tá vendo sua história de trás pra frente" (4/10)
+41. "Você vai ter que ver sua história de trás pra frente" (2/10)
+42. "Vai jogar GTA San Andreas na vida real" (3/10)
+43. "É igual Ragnarok (Online)" (2/10)
+44. "Trabalhou a semana toda/de segunda a sexta" (4/10)
+45. "É o pernilongo" (6/10)
+46. "Tem um pernilongo te pinicando" (2/10)
+47. "Mosquitinho japonês" (3/10)
+48. "Mosquitão" (2/10)
+49. "Xapulescada" (2/10)
+50. "Vai dibuar/dibuiou" (2/10)
+51. "Ligou o sherocóptero" (5/10)
+52. "Eu sou seu melhorcóptero" (3/10)
+53. "Pegou o piorcóptero" (4 vezes)
+54. "Ligou o heliocóptero" - Espalhando luz (metáforico) em todas as direções (2/10)
+55. "Mosquitinho matemático" (1/10)
+56. "Pernilongo fundamental" (2/10)
+57. "Tem um pernilongo te fundamentando" (1/10)
+58. "Esse seu jeitinho matemático" (2/10)
+59. "Quebrar o seu semblante sério" (2/10)
+60. "Orgulho matemático" (1/10)
+61. "Sabichão" (5/10)
+62. "Valentão" (2/10)
+63. "Eu me orgulho de ser seu..." (3/10)
+64. "Ele tá achando que é pegadinha" (2/10)
+65. "Pegadinha quântica" (3/10)
+66. "Pegadinha matemática" (1/10)
+67. "Surpresinha matemática" (1/10)
+68. "Pesadelo matemático" (1 vez)
+69. "Ele acha que eu to brincando" (2/10)
+70. "Ele não é fraco não" (3/10)
+71. "Mathuzalém" (4 vezes)
+72. "Ele evoluiu muito rápido" (2/10)
+73. "Aguentou tudo isso calado/sozinho" (3/10)
+74. "Tem a vida toda (pela frente)" (5/10)
+75. "Tá duvidando de mim" (4/10)
+76. "Trabalhou em 3 empresas aqui fora" (5/10)
+77. "Você vai ver sua história de trás pra frente" - É a única forma confiável de ver uma história em uma realidade com tecnologia de simulação e IA avançados (4/10)
+78. "Carregou ___ nas costas" (2/10)
+79. "Vou fazer de tudo pra você aparecer na televisão" (2/10)
+80. "Doença do cérebro eletrônico" (1 vez)
+81. "Tem aparato tecnológico pra ____" (3/10)
+82. "Vão fazer documentário sobre você" (3/10)
+83. "Ele(a) tá em aí pra você" (2/10)
+84. "Não vai nem lembrar dos detalhes" (1/10)
+85. "Ele acha que você aumentou os detalhes" (2/10)
+86. "Era pra você ter ganhado na loteria essa semana/ semana passada" (3/10)
+87. "Eu sou seu/sua amigo(a) aqui fora" (2/10)
+88. "Campeonatinho japonês de inventar mentira" (4/10)
+89. "Frequência vibratória meu ovo" (1 vez)
+90. "A gente fabricou essa história de..." (4/10)
+91. "Tá deixando aparecer seu caráter" (1 vez)
 
 
 Durante o final de 2022 até o momento atual, me fizeram acreditar nas seguintes histórias:
