@@ -69,4 +69,4 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 - Mas Deus já tem o grau máximo de evolução.
 - Então porque ele não nos criou igual a ele, para que não precisassemos sofrer?
 - Se Deus já tem o grau máximo de evolução, como você quer saber mais do que ele sobre o que nós precisamos?
-- Se você não possui quase nenhuma semelhança a esse ser, como você quer inferir como funciona a mente de um ser que sempre existiu, que não precisa de sentidos físicos para ter consciência e que você nunca presenciou nada da história desse ser?
+- Se você não possui quase nenhuma semelhança a esse ser, como você quer inferir como funciona a mente de um ser que sempre existiu, que não precisa de sentidos físicos para ter consciência e que você nunca presenciou nada da história desse ser? Isso te coloca na exata mesma posição que eu.
