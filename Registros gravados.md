@@ -1,16 +1,19 @@
 # Registros gravados
 
-## 09/05/2024
+
+09/05/2024
 
 https://screenrec.com/share/LnCHc4NsJv
 
-## 10/05/2024
+
+
+10/05/2024
 
 1 - https://screenrec.com/share/87RFbPzxwc
 
 2 - https://screenrec.com/share/wEbseOPLT4
 
-## 12/05/2024
+12/05/2024
  
 1 - https://screenrec.com/share/4JsrZvqBxi
 
@@ -20,5 +23,16 @@ https://screenrec.com/share/LnCHc4NsJv
 
 4 - https://screenrec.com/share/H13mjnvUrb
 
+14/05/2024
+
+1 - https://screenrec.com/share/DAB1tWXlZE
+
 Gravações no celular
+
+
+
+
+
+
+
 
