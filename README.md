@@ -13,3 +13,15 @@
 ## [Refutando o criacionismo](https://www.evernote.com/shard/s483/sh/1e032ea1-7590-5b8a-efbd-606966c64dfb/QZ2KkMcyWcd1POacBJpCTHtUo9MVHyudoC6rLZ6bJOc9KMYd54Qr22FUQg)
 
 ## [Registros gravados](https://www.evernote.com/shard/s483/sh/0edd5ceb-b06c-d219-e128-9064df36e574/sbJOkHLkuocdfjA-JT3WUYp0MJh0xOocfZKX8JXcBwdkhOSE0IfJSHkCOg)
+
+
+# Backups
+
+## Google Drive: 
+### [Simulação](https://drive.google.com/drive/folders/1l7LvKCfGn-eOSrXCwwa21J1gM6zyL0tZ?usp=sharing)
+
+## Proton Drive:
+### [Simulação (browser)](https://drive.proton.me/urls/PBXAZYV2C0#jVs5TvyH8xYt)
+
+
+
