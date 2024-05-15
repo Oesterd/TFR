@@ -47,7 +47,7 @@ Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fen�
 Deste modo, a forma mais eficiente de descobrir a melhor teoria para um fenômeno é tentar descartar todas as teorias concorrentes até que reste apenas a teoria mais provável.
 
 
-9 - Formas de definição/agrupamento/distribuição e parametrização
+9 - Formas de definição/agrupamento/distribuição
 
 
 
@@ -65,3 +65,19 @@ Distribuições mais aprofundadas correm o risco de ser redundantes e distribui�
 Todos os eventos na natureza possuem uma distribuição probabilística associado a sua frequência de ocorrência, da ordem microscópica à ordem macroscópica. Quanto maior a complexidade condicional de um evento, maior a probabilidade de ocorrência e vice-versa, eventos de maior frequência são associados a teorias naturalistas, ao passo que eventos raros são naturalmente associados a teorias fundamentalistas ou religiosas.
 
 Esse raciocínio pode ser estendido para teoria da simulação, no qual existem universos mais prováveis e naturais e improváveis e artificiais, quanto maior a complexidade e arbitrariedade das leis que o regem, mais artificial e improvável e a existência desse universo.
+
+
+11 - Parametrização universal
+
+Qualquer ocorrência, e fato, seja ele concreto ou abstrato, pode ser associado a uma parametrização única, isto é, a uma combinação única de parâmetros irredutíveis.
+
+
+Exemplos:
+
+1. A decomposição de um número em fatores primos;
+2. A assinatura digital humana;
+3. A assinatura eletrônica: decomposição matemática de qualquer evento em um computador em uma combinação de 0s e 1s;
+4. Decomposição de cores em uma combinação única de cores primitivas;
+5. Decomposição de música em notas musicais;
+6. Assinatura cibernética: pegada digital de um ser humano baseada no registro único de eventos associados a este
+7. Trilha de pegadas associada a um conjunto único de eventos
