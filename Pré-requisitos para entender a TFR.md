@@ -2,7 +2,6 @@
 
 
 
-
 1 - Mathematical universe hypothesis
 
 
@@ -80,4 +79,4 @@ Exemplos:
 4. Decomposição de cores em uma combinação única de cores primitivas;
 5. Decomposição de música em notas musicais;
 6. Assinatura cibernética: pegada digital de um ser humano baseada no registro único de eventos associados a este
-7. Trilha de pegadas associada a um conjunto único de eventos
+7. Trilha de pegadas associada a um trajeto único;
