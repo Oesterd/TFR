@@ -143,7 +143,11 @@ Do mesmo modo, sensações físicas e movimentos corporais também podem ser pro
 
 Exemplos: 
 
+https://www.youtube.com/watch?v=2YZJt_Bw3eo
+
 https://www.youtube.com/watch?v=wZZ4Vf3HinA
+
+https://www.youtube.com/watch?v=yoDoHgsNRrw
 
 
 
