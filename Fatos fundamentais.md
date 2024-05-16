@@ -5,7 +5,7 @@
 
 ## Heterogeneidade
 
-É sempre presente, não há conceito de espaço, tempo, energia ou consciência em um universo completamente homogêneo.
+É sempre presente, não há conceito de espaço, tempo, energia ou consciência em um universo completamente homogêneo e isolado.
 
 
 
