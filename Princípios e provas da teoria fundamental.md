@@ -169,7 +169,7 @@ Cada ser senciente possui um conjunto de expectativas inconscientes em relação
 
 Para os seres humanos, isso é particularmente verdade em relação à forma como qualquer acontecimento fora do paradigma científico ou senso comum da época foi recebido pela população, como por exemplo todos os acontecimentos que resultaram na caça às bruxas, pois não havia explicação satisfatória baseada nos conhecimentos da época.
 
-Desta forma, a hipótese de existirem fenômenos mesmo no mundo atual que não possuem explicação científica satisfatoria e portanto requerem explicações que fujam do padrão deve ser levada em conta.
+Desta forma, a hipótese de existirem fenômenos mesmo no mundo atual que não possuem explicação científica satisfatoria e portanto requerem explicações que fujam do padrão, levando em conta a existência de civilizações mais avançadas e tecnologias muito superiores a nossas e com menos limitações físicas do que nós.
 
 
 
