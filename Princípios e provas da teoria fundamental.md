@@ -5,9 +5,11 @@
 
 1 - Teoria de conjuntos e domínio de validade
 
-Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, a única forma de chegar em uma resposta uniforme e objetiva é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo aquilo que foi deixado para trás.
+Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, a única forma de chegar em uma resposta uniforme e objetiva é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
 
 Deste modo, a forma mais eficiente de descobrir a melhor teoria para um fenômeno é tentar descartar todas as teorias concorrentes até que reste apenas a teoria mais provável.
+
+
 
 
 2 - Diferença entre conceitos arbitrários e fundamentais
@@ -18,8 +20,8 @@ Exemplos:
 
 1. A definição de unidades físicas (metro, segundo, kilo, celsius, ampere, etc);
 2. Escolha do sistema de coordenadas;
-3. Escolha de palavras para denominar um objeto, conceito, ser vivo, situação;
-4. Representações de um número decimal
+3. Representações de um número decimal;
+4. Escolha de palavras para denominar um objeto, conceito, ser vivo, situação;
 5. Regras gramaticais;
 
 
@@ -27,29 +29,56 @@ Conceitos fundamentais: são conceitos de existência permanente e independentes
 
 Exemplos:
 
-1.  Espaço e tempo;
-2. Posição relativa;
-3. Movimento e velocidade;
-4. Consciência;
-5. Conservação de quantidades fundamentais: energia, massa e carga
-6. Limitação fundamental*
+1. Conservação de quantidades fundamentais: energia, massa e carga;
+2. Espaço e tempo;
+3. Posição relativa;
+4. Movimento e velocidade;
+5. Consciência;
+6. Limitações fundamentais
 
-Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes
+Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes.
 
+
+
+3 - Dedução, indução e causa
+
+Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
+
+Indução: é o processo de formular uma lei geral a partir de uma sequência de eventos que seguem um padrão lógico, bastando apenas uma ocorrência fora do padrão para descartar a lei ingerida como verdadeira.
+
+Abdução: é o processo de encontrar a melhor premissa que explique um evento, as hipóteses são testadas uma a uma e a melhor é encontrada como sendo a mais provável.
+
+https://www.youtube.com/watch?v=9xWZ4Pixo70
 3 - Correlação e causa
 
-Correlação: são eventos que ocorrem simultaneamente.
+Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
 
-Definição lógica: quando A acontece, B também acontece, mas há exceções, isso pode ser explicado através de um terceiro fator.
+Definição geral: frequentemente quando A acontece, B também acontece, quando o padrão é quebrado a explicação se deve a um evento C que é a causa comum de ambos.
 
-Causa: são eventos interdependentes, a existência de um depende do outro e um só pode ocorrer após o outro.
+Causa: são eventos interdependentes, um dos eventos só pode existir com a ocorrência com do outro.
 
-Definição lógica: sempre que A acontece, B também acontece, sem exceção, seja ao mesmo tempo ou em sequência.
+Definição geral: todas as vezes que A acontece, B também acontece, seja ao mesmo tempo ou em sequência.
 
 https://www.youtube.com/watch?v=XRJuic6gURU
+3 - Teorias naturalistas vs teorias teleológicas
+
+Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de fatos fundamentais e permanentes, todos os fatos fundamentais estão interconectados de maneira circular e possuem evidências empíricas, de modo a não restar espaço para definições arbitrárias.
+
+Exemplos: teoria da seleção natural, condicionamento clássico e behaviorismo, versão probabilística da termodinâmica, reducionismo quântico.
+
+Teorias teleológicas: teorias que possuem definições arbitrárias como fatos fundamentais e explicações para os eventos, porém sem nenhuma evidência empírica.
+
+Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento antivacina.
+
+Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
+
+
+
 3 - Probabilidades
 
-Probabilidade condicional
+Sempre que houver dificuldades de utilizar os raciocínios de indução e abdução, os conhecimentos de probabilidade descritos abaixo devem ser aplicados como forma de auxílio.
+
+Teorema da multiplicação de probabilidades
 
 Complexidade condicional se refere ao conjunto de condições presentes simultaneamentes, seguindo a regra do E e diminuindo a probabilidade em progressão geométrica de acordo com o número de condições simultâneas.
 
@@ -61,7 +90,7 @@ Teorias de distribuição
 
 
 
-Todos os eventos na natureza possuem uma distribuição probabilística associado a sua frequência de ocorrência, da ordem microscópica à ordem macroscópica. Quanto maior a complexidade condicional de um evento*, maior a probabilidade de ocorrência e vice-versa, eventos de maior frequência são associados a teorias naturalistas, ao passo que eventos raros são naturalmente associados a teorias fundamentalistas ou religiosas.
+Todos os eventos na natureza possuem uma distribuição probabilística associado a sua frequência de ocorrência, da ordem microscópica à ordem macroscópica, quanto maior a complexidade condicional de um evento, maior a probabilidade de ocorrência e vice-versa, eventos de maior frequência são associados a teorias naturalistas, ao passo que eventos raros são naturalmente associados a teorias fundamentalistas ou religiosas.
 
 Esse raciocínio pode ser estendido para teoria da simulação, no qual existem universos mais prováveis e naturais e improváveis e artificiais, quanto maior a complexidade e arbitrariedade das leis que o regem, mais artificial e improvável e a existência desse universo.
 
@@ -70,8 +99,33 @@ Exemplos:
 1. Distribuição de peso e altura em uma população;
 2. Distribuição de índole/caráter em uma população;
 3. Distribuição de resultados em um jogo de dois dados;
-4. Distribuição de eventos de acordo com o nível de complexidade e condicionais
+4. Distribuição de eventos de acordo com o nível de complexidade condicional.
 
+
+8 - Entropia e suas consequências lógicas
+
+
+Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave para explicar uma vasta gama de conceitos fundamentais como a passagem do tempo e a segunda lei da termodinâmica e está relacionado ao fator de complexidade de algo.
+
+Exemplos:
+
+- Para cada objeto frágil intacto, há inúmeras maneiras de destruí-lo, mas para cada conjunto de cacos, há apenas uma maneira de retornar no tempo e chegar ao objeto original, e esta reconstrução temporal tem o mesmo resultado para todos os casos.
+- Um conjunto de moléculas em alta velocidade tem muito mais chance de adentrar um conjunto lento de moléculas e alterar seu estado do que o contrário, ou seja, é muito mais provável que o calor sempre flua de uma região mais quente para uma região mais fria.
+
+https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
+
+4 - Múltiplas linhas do tempo
+
+Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada linha do tempo é definida de forma única pela sequência particular de eventos pertencente a ela, 
+
+5 - Limitação fundamental
+
+Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
+
+- Eventos de curta duração são mais fáceis de serem fabricados do que eventos de longa duração;
+- Arquivos e documentos salvos em servidores interligados espalhados pelo mundo são significativamente maís difíceis de serem manipulados;
+- Manuscritos são mais seguros do que documentos eletrônicos em geral;
+- Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
 
 
@@ -97,9 +151,7 @@ Exemplos:
 
 
 
-5 - Múltiplas linhas do tempo
 
-Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada linha do tempo é definida de forma única pela sequência particular de eventos pertencente a ela, 
 
 
 6 - Parametrização universal
@@ -114,7 +166,7 @@ Exemplos:
 3. A assinatura eletrônica: decomposição matemática de qualquer evento em um computador em uma combinação de 0s e 1s;
 4. Decomposição de cores em uma combinação única de cores primitivas;
 5. Decomposição de música em notas musicais;
-6. Assinatura cibernética: pegada digital de um ser humano baseada no registro único de eventos associados a este;
+6. Assinatura cibernética: pegada digital de um ser humano baseada no registro único de eventos associados a este, como especificações do computador e navegador e hábitos de navegação;
 7. Trilha de pegadas associada a um trajeto único;
 
 
@@ -131,23 +183,19 @@ Desta forma, partindo do pressuposto que cada informação recebida e produzida 
 Do mesmo modo, sensações físicas e movimentos corporais também podem ser produzidos e controlados externamentes, através do mesmo princípio do parágrafo anterior.
 
 
-Provas espalhadas pela internet: 
+Possíveis evidências espalhadas pela internet: 
 
-Exemplos reais
+Exemplos do mundo real
 https://www.youtube.com/watch?v=2YZJt_Bw3eohttps://www.youtube.com/watch?v=wZZ4Vf3HinAhttps://www.youtube.com/watch?v=yoDoHgsNRrwSteins;Gate 
 https://www.youtube.com/watch?v=FeG4JH9f180Prestar atenção na parte da letra: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida".
 
-Lembrar de colocar traduzir a parte em japonês manualmente em caso da legenda não funcionar ou houver manipulação externa
-
 Gantz
 
-Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância
-
-Em caso de manipulação dos números e títulos dos capítulos, ler os capítulos que começam com essa página:
+Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância, em caso de manipulação dos números e títulos dos capítulos, ler os capítulos que começam com essa página:
 
 
 
-Resumo: seres humanos são fabricados e destruídos "do nada", utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado, podendo ser reproduzida indefinidamente.
+Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
 
 
 6 - Mathematical universe hypothesis
@@ -161,18 +209,15 @@ https://www.youtube.com/watch?v=HGG4HmlotJEhttps://www.youtube.com/watch?v=8gwJB
 
 
 https://www.youtube.com/watch?v=I4pQbo5MQOs
-Resumo: O objetivo é provar que a TFR não é incompatível com o teorema de Godel, pois a teoria pode ser provada por raciocínio de indução e múltiplos experimentos com os fatos da realidade, utilizando algoritmicamente o paradgima científico de Karl Popper.
+Resumo do vídeo: teorias baseadas em axiomas não podem ser provadas dentro delas mesmas, ou seja, utilizando os próprios axiomas, sendo portanto necessária uma concordância com uma outra teoria totalmente independente para que a prova seja possível.
 
-8 - Entropia e tempo
-
-
-https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
+O objetivo é provar que a TFR não é incompatível com o teorema de Godel, pois a teoria pode ser provada por raciocínio de indução e múltiplos experimentos com os fatos da realidade, utilizando algoritmicamente o paradgima científico de Karl Popper.
 
 
 9 - Livre arbítrio
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
-Resumo: livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, se o livre-arbítrio fosse um fato fundamental ele existiria em todos os seres sencientes, ao invés de ser um caso particular de seres mais inteligentes como seres humanos avançados.
+Resumo do vídeo: livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
 
 10 - Cérebro artificial
 
