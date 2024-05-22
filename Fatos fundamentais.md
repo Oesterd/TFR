@@ -5,21 +5,40 @@
 
 ## Heterogeneidade
 
-É principal conceito fundamental e está sempre presente, não há conceito de espaço, tempo, energia ou consciência em um universo completamente homogêneo e isolado.
+É principal conceito fundamental e está sempre presente em algum nível, não existe senso de espaço ou de tempo, energia ou consciência em um universo aboslutamente homogêneo espacial e temporalmente e que existe de forma absoluta, totalmente fechado em si mesmo e sem universos paralelos.
 
 
-Se imagine flutuando no espaço siberal e com capacidade de remover ou adicionar objetos, e alterar todos os seus sentidos físicos, processos corporais e propriedades do espaço ao redor, tente definir os seguintes conceitos, sem recorrer ao relativismo, sob as seguintes condições:
+1. O senso de espaço é uma combinação do senso de posição e de movimento;
+2. O senso de tempo depende de uma quebra em um padrão completamente homogêneo de eventos;
+3. Ambos os conceitos dependem da existência de pelo menos uma consciência, ou seja, uma flutuação cibernética de qualquer magnitude não nula, dentro deste universo absoluto e fechado.
+
+Para descrever completamente os sensos e conceitos de tempo e espaço, será necessário que o leitor se imagine como um ponto esférico homogêneo com consciência e todos os sentidos físicos coexistindo dentro desta esfera, seus sentidos sofrem variações aleatórias, você possui a capacidade de flutuar, em uma série de cenários hipotéticos, sendo impossível fugir da recorrência matemática.
+
+Estes conceitos serão descritos removendo a complexidade e heterogeneidade do cenário em questão de forma gradual e algoritmica.
 
 
+Senso de posição
 
-Posição: remova gradualmente os objetos até que reste apenas você, ou equivalentemente, torne a sia visão completamente homogênea, como um papel de parede de cor sólida, qual a posição do seu corpo como um todo?
+Cenário de complexidade máxima: você se encontra em um espaço completamente heterogêneo, temporal e espacialmente, com objetos distribuídos de forma aleatória e ondas eletromagnéticas de toda natureza percorrendo o espaço sem padrão espacial ou temporal definido.
 
-Movimento: desta vez, torne todos os seus sentidos temporalmente homogêneos, sem movimentos em sua visão ou variações em seu paladar e tato, como você define seu movimento?
+Cenário de complexidade mediana: você se encontra em um espaço completamente razoavelmente heterogêneo, temporal e espacialmente, com objetos distribuídos de forma igualmente espaçada e ondas eletromagnéticas de toda natureza chegando até você e voltando sempre na mesma posição relativa ao centro de sua esfera e com espaçamento temporal homogêneo.
 
-Senso espacial (posição e movimento): torne todos os seus sentidos espacialmente e temporalmente homogêneos, ou de forma equivalente, se imagine em um espaço completamente vazio e com o mínimo possível de flutuações temporais, como você descreveria seu senso espacial?  
+Cenário de complexidade mínima: você se encontra em um espaço completamente homogêneo, temporal e espacialmente, sem objetos ao redor e sem ondas eletromagnéticas de qualquer natureza ao redor, tornando este espaço completamente livre de padrões heterogêneos.
+
+Em todos os casos, seus sentidos internos funcionam normalmente você sente as ondas eletromagnéticas como variações na sua visão, audição e sensações comporais.
+
+
+Senso de movimento
+
+Cenário de complexidade máxima: o mesmo cenário para o senso de posição, com seus sentidos internos funcionando normalmente.
+
+Cenário de complexidade mediana: também o mesmo cenário para o senso de posição, porém com seus sentidos internos razoavelmente disfuncionais.
+
+Cenário de complexidade mínima: novamente o mesmo cenário para o senso de posição, desta vez com flutuações mínimas nos seus sentidos físicos.
+
+
 
 Senso temporal: repita os passos descritos para o senso espacial e imagine que sua consciência esteja lentamente adormecendo, até que tenha chegado ao mais próximo do absoluto silêncio, qual a sensação de passagem do tempo na sua perspectiva? E para um observador externo que esteja te vendo como uma simulação em um computador?
-
 
 
 ## Essência inexistente
