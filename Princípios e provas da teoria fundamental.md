@@ -2,7 +2,6 @@
 
 
 
-
 1 - Teoria de conjuntos e domínio de validade
 
 Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, a única forma de chegar em uma resposta uniforme e objetiva é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
@@ -102,23 +101,12 @@ Exemplos:
 4. Distribuição de eventos de acordo com o nível de complexidade condicional.
 
 
-8 - Entropia e suas consequências lógicas
 
 
-Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave para explicar uma vasta gama de conceitos fundamentais como a passagem do tempo e a segunda lei da termodinâmica e está relacionado ao fator de complexidade de algo.
-
-Exemplos:
-
-- Para cada objeto frágil intacto, há inúmeras maneiras de destruí-lo, mas para cada conjunto de cacos, há apenas uma maneira de retornar no tempo e chegar ao objeto original, e esta reconstrução temporal tem o mesmo resultado para todos os casos.
-- Um conjunto de moléculas em alta velocidade tem muito mais chance de adentrar um conjunto lento de moléculas e alterar seu estado do que o contrário, ou seja, é muito mais provável que o calor sempre flua de uma região mais quente para uma região mais fria.
-
-https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-
-4 - Múltiplas linhas do tempo
 
 Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada linha do tempo é definida de forma única pela sequência particular de eventos pertencente a ela, 
 
-5 - Limitação fundamental
+5 - Limite das manipulações
 
 Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
 
@@ -128,7 +116,13 @@ Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
 
+5 - Limite de unicidade
 
+Por raciocínio de indução, é possível concluir que há um limite fundamental de estados únicos de existência de modo geral e individualizado, de modo que uma extensão desse número de estados levaria à redudancia.
+
+Em outras palavras, há um limite de expressões faciais, emoções, anatomias, processos químicos e biológicos, frequências sonoras, cores e formatos geométricos não redundantes, para cada um detes casos, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
+
+Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto.
 
 
 4 - Formas de categorização/agrupamento/distribuição
@@ -143,14 +137,35 @@ Distribuições mais aprofundadas correm o risco de ser redundantes e distribui�
 Exemplos:
 
 1. Círculo de personalidades: 16 personalities vs Big Five;
-2. Distribuição de unidades dimensionais: a divisão de um dia em 24 horas/de um metro em 100 centímetros;
-3. Distribuição de renda;
-4. Teoria de gênero;
-5. Criação de um idioma;
-6. Distribuição de energia.
+2. Sistema internacional de unidades vs sistema americano de unidades;
+3. Bases numéricas;
+4. Distribuição de renda;
+5. Teoria de gênero;
+6. Criação de um idioma;
+7. Distribuição de energia.
 
 
 
+8 - Entropia e suas consequências lógicas
+
+
+Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave para explicar uma vasta gama de conceitos fundamentais como a passagem do tempo e a segunda lei da termodinâmica e está relacionado ao fator de complexidade de algo.
+
+
+
+https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
+
+4 - Múltiplas linhas do tempo
+
+
+
+4 - Humildade situacional
+
+Cada ser senciente possui um conjunto de expectativas inconscientes em relação ao mundo que o rodeia, de modo que uma quebras no padrão de acontecimentos geram fortes reações psicológicas.
+
+Para os seres humanos, isso é particularmente verdade em relação à forma como qualquer acontecimento fora do paradigma científico ou senso comum da época foi recebido pela população, como por exemplo todos os acontecimentos que resultaram na caça às bruxas, pois não havia explicação satisfatória baseada nos conhecimentos da época.
+
+Desta forma, a hipótese de existirem fenômenos mesmo no mundo atual que não possuem explicação científica satisfatoria e portanto requerem explicações que fujam do padrão deve ser levada em conta.
 
 
 
@@ -196,6 +211,14 @@ Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância, e
 
 
 Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
+
+
+6 - Registros universais
+
+Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
+
+Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
+
 
 
 6 - Mathematical universe hypothesis
