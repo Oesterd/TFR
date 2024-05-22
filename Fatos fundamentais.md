@@ -5,7 +5,20 @@
 
 ## Heterogeneidade
 
-É sempre presente, não há conceito de espaço, tempo, energia ou consciência em um universo completamente homogêneo e isolado.
+É principal conceito fundamental e está sempre presente, não há conceito de espaço, tempo, energia ou consciência em um universo completamente homogêneo e isolado.
+
+
+Se imagine flutuando no espaço siberal e com capacidade de remover ou adicionar objetos, e alterar todos os seus sentidos físicos, processos corporais e propriedades do espaço ao redor, tente definir os seguintes conceitos, sem recorrer ao relativismo, sob as seguintes condições:
+
+
+
+Posição: remova gradualmente os objetos até que reste apenas você, ou equivalentemente, torne a sia visão completamente homogênea, como um papel de parede de cor sólida, qual a posição do seu corpo como um todo?
+
+Movimento: desta vez, torne todos os seus sentidos temporalmente homogêneos, sem movimentos em sua visão ou variações em seu paladar e tato, como você define seu movimento?
+
+Senso espacial (posição e movimento): torne todos os seus sentidos espacialmente e temporalmente homogêneos, ou de forma equivalente, se imagine em um espaço completamente vazio e com o mínimo possível de flutuações temporais, como você descreveria seu senso espacial?  
+
+Senso temporal: repita os passos descritos para o senso espacial e imagine que sua consciência esteja lentamente adormecendo, até que tenha chegado ao mais próximo do absoluto silêncio, qual a sensação de passagem do tempo na sua perspectiva? E para um observador externo que esteja te vendo como uma simulação em um computador?
 
 
 
