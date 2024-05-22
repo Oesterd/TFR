@@ -157,6 +157,10 @@ https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 
 4 - Múltiplas linhas do tempo
 
+A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
+
+https://www.youtube.com/shorts/jBn28a3I2BA
+
 
 
 4 - Humildade situacional
