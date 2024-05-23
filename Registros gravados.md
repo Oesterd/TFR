@@ -27,7 +27,32 @@ https://screenrec.com/share/LnCHc4NsJv
 
 1 - https://screenrec.com/share/DAB1tWXlZE
 
-Gravações no celular
+17/05/2024
+
+1 - https://screenrec.com/share/jabiP30TKB
+
+2 - https://screenrec.com/share/itCQ7mzfTK
+
+Registros no celular
+
+https://photos.app.goo.gl/5z95H5QT7wqsJ5Jo8
+
+
+
+
+
+Canais no youtube e twitch
+
+https://www.youtube.com/@Independent-nc6lf
+
+https://www.youtube.com/channel/UCovEgVCOGv36OUX7OpR-7Rg
+
+https://www.twitch.tv/alternativesource
+
+
+
+
+
 
 
 
