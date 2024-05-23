@@ -11,6 +11,8 @@ Deste modo, a forma mais eficiente de descobrir a melhor teoria para um fenômen
 
 
 
+
+
 2 - Diferença entre conceitos arbitrários e fundamentais
 
 Conceitos arbitrários: são conceitos criados pela consciência humana e que possuem essência vazia, ou seja, podem ser substituídos por qualquer equivalente.
@@ -37,7 +39,35 @@ Exemplos:
 
 Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes.
 
+3 - Teorias naturalistas e teleológicas
+Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de leis presentes na natureza e possuírem evidências empíricas.
 
+Exemplos: teoria da seleção natural, condicionamento clássico e behaviorismo, versão probabilística da termodinâmica, reducionismo quântico.
+
+Teorias teleológicas: teorias que possuem definições arbitrárias como fatos fundamentais e explicações para os eventos, porém sem nenhuma evidência empírica.
+
+Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento antivacina.
+
+Teorias fundamentais: teorias que afirmam que os eventos são consequências lógicas fatos fundamentais de natureza permanente e matemática, além de possuírem evidências empíricas de nível local e também global através de uma regressão entrópica em múltiplas linhas do tempo que percorrem múltiplas camadas de simulação.
+
+Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
+
+4 - Limite de unicidade de eventos
+
+Por raciocínio de indução, é possível concluir que há um limite fundamental de eventos únicos de modo geral e individualizado, de modo que uma extensão desse número de estados levaria à redudancia.
+
+Em outras palavras, há um limite de expressões faciais, emoções, anatomias, processos químicos e biológicos, frequências sonoras, cores e formatos geométricos não redundantes, para cada um detes casos, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
+
+Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto.
+
+
+7 - Gödel's completeness theorem 
+
+
+https://www.youtube.com/watch?v=I4pQbo5MQOs
+Resumo do vídeo: teorias baseadas em axiomas não podem ser provadas dentro delas mesmas, ou seja, utilizando os próprios axiomas, sendo portanto necessária uma concordância com uma outra teoria totalmente independente para que a prova seja possível.
+
+O objetivo é provar que a TFR não é incompatível com o teorema de Godel, pois a teoria pode ser provada por raciocínio de indução e múltiplos experimentos com os fatos da realidade, utilizando algoritmicamente o paradgima científico de Karl Popper.
 
 3 - Dedução, indução e causa
 
@@ -59,17 +89,6 @@ Causa: são eventos interdependentes, um dos eventos só pode existir com a ocor
 Definição geral: todas as vezes que A acontece, B também acontece, seja ao mesmo tempo ou em sequência.
 
 https://www.youtube.com/watch?v=XRJuic6gURU
-3 - Teorias naturalistas vs teorias teleológicas
-
-Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de fatos fundamentais e permanentes, todos os fatos fundamentais estão interconectados de maneira circular e possuem evidências empíricas, de modo a não restar espaço para definições arbitrárias.
-
-Exemplos: teoria da seleção natural, condicionamento clássico e behaviorismo, versão probabilística da termodinâmica, reducionismo quântico.
-
-Teorias teleológicas: teorias que possuem definições arbitrárias como fatos fundamentais e explicações para os eventos, porém sem nenhuma evidência empírica.
-
-Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento antivacina.
-
-Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
 
 
 
@@ -116,14 +135,6 @@ Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
 
-5 - Limite de unicidade
-
-Por raciocínio de indução, é possível concluir que há um limite fundamental de estados únicos de existência de modo geral e individualizado, de modo que uma extensão desse número de estados levaria à redudancia.
-
-Em outras palavras, há um limite de expressões faciais, emoções, anatomias, processos químicos e biológicos, frequências sonoras, cores e formatos geométricos não redundantes, para cada um detes casos, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
-
-Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto.
-
 
 4 - Formas de categorização/agrupamento/distribuição
 
@@ -160,15 +171,6 @@ https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
 
 https://www.youtube.com/watch?v=mTIjHJUEMlA
-
-4 - Humildade situacional
-
-Cada ser senciente possui um conjunto de expectativas inconscientes em relação ao mundo que o rodeia, de modo que uma quebras no padrão de acontecimentos geram fortes reações psicológicas.
-
-Para os seres humanos, isso é particularmente verdade em relação à forma como qualquer acontecimento fora do paradigma científico ou senso comum da época foi recebido pela população, como por exemplo todos os acontecimentos que resultaram na caça às bruxas, pois não havia explicação satisfatória baseada nos conhecimentos da época.
-
-Desta forma, a hipótese de existirem fenômenos mesmo no mundo atual que não possuem explicação científica satisfatoria e portanto requerem explicações que fujam do padrão, levando em conta a existência de civilizações mais avançadas e tecnologias muito superiores a nossas e com menos limitações físicas do que nós.
-
 
 
 6 - Parametrização universal
@@ -228,17 +230,6 @@ Estes registros são equivalentes aos chamados pelas regiliões de registros aka
 
 https://www.youtube.com/watch?v=HGG4HmlotJEhttps://www.youtube.com/watch?v=8gwJB19qdJA&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=2
 
-
-
-7 - Gödel's completeness theorem 
-
-
-https://www.youtube.com/watch?v=I4pQbo5MQOs
-Resumo do vídeo: teorias baseadas em axiomas não podem ser provadas dentro delas mesmas, ou seja, utilizando os próprios axiomas, sendo portanto necessária uma concordância com uma outra teoria totalmente independente para que a prova seja possível.
-
-O objetivo é provar que a TFR não é incompatível com o teorema de Godel, pois a teoria pode ser provada por raciocínio de indução e múltiplos experimentos com os fatos da realidade, utilizando algoritmicamente o paradgima científico de Karl Popper.
-
-
 9 - Livre arbítrio
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
@@ -252,13 +243,24 @@ https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
 
+10 - Jogo de interesses na criação e administração de simulações
+
+Partindo do princípio do limite de unicidade, sabendo que todos os seres estão sujeitos ao mesmo conjunto finito sensações físicas, sentimentos, pensamentos, desejos e ambições, pode-se induzir que todo o jogo de interesses que é observado na história e no presente deste planeta pode ser estendido para todos os seres sencientes de todos os universos.
+
+Em decorrência deste fato, existem importantes considerações a serem feitas para analisar o porquê da criação de universos com combinações específicas das leis da física, recorrendo a uma análise da história universal absoluta como uma combinação da história de múltiplos universos locais, na qual decisões são tomadas pesando as consequências de escolhadas passadas em uma projeção para o futuro.
+
+Pensando como uma civilização cujo interesse é manter o poder como uma oligarquia ou monarquia, as principais estratégias de longo prazo envolvem manter consciências presas em uma simulalação sem que estas saibam disto, portanto as alterações na simulações devem ser sutis e com padrão simples, cuja explicação aparente pode ser reduzida a uma explicação naturalista de nível local.
+
+No entanto, recorrendo à distribuição normal universal, é simples deduzir que hajam seres e civilizações com todos tipos de interesse, no qual estes podem e são alterados o tempo todo a depender das circustâncias externas, como política vingente e chances de vitória de cada grupo de seres.
+
+
 11 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
 A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
 11.1 - Teoria eletromagnética naturalista
 
-A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância quando todas as explicações naturais acabaram.
+A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância, quando todas as explicações naturais cessaram.
 
 Definições arbitrárias
 
@@ -266,6 +268,9 @@ Definições arbitrárias
 2. Os efeitos gerados pelas cargas no campo homogêneo, a princípio;
 3. A simetria entre campo e carga, no que se refere aos efeitos que um gera no outro, também a princípio
 4. As partículas fundamentais possuem um coeficiente de solidez, que varia de 0 a 1, no qual 0 define uma partícula completamente gasosa e 1 define uma partícula completamente sólida, recorrência matemática é necessária nesse caso.
+5. Um espaço arbitrário definido como átomo é composto de um núcleo e uma nuvem eletrônica;
+6. O núcleo é composto de protons e neutrons conectados entre si;
+7. A nuvem eletrônica é composta de elétrons que orbitam o núcleo com um movimento probabilístico e imprevisível;
 
 Fatos fundamentais
 
@@ -280,7 +285,7 @@ Fatos fundamentais
 9. Partículas positivas são aceleradas na direção e sentido dos vetores, partículas negativas também, porém no sentido oposto;
 10. Partículas neutras não são afetadas pelo campo.
 
-Consequências lógicas dos fundamentos da teoria
+Consequências lógicas dos fatos fundamentais e definições arbitrárias
 
 1. Partículas de cargas iguais se repelem devido aos efeitos gerados no campo, assim como partículas de cargas opostas se atraem;
 2. Em um espaço com pouca ou nenhuma resistência, a coexistência de múltiplas partículas pode gerar movimentos caóticos, correntes elétricas ou agrupamentos em redes, a depender do tipo de agrupamento de cargas;
@@ -288,18 +293,14 @@ Consequências lógicas dos fundamentos da teoria
 4. Quando uma partícula oscila em uma direção fixa, vibrações são geradas em todas as direções no plano perpendicular à linha de movimento da oscilação, assim como uma pedra caindo em 90 graus na água gera ondas concêntricas, esse é o efeito de geração de ondas eletromagnéticas por meio da aceleração de uma carga explicada de forma simplificada;
 5. A aceleração de partículas gera um movimento reverso no campo elétrico que reduz a velocidade das partículas, semelhante a um amortecimento de um oscilador harmônico;
 6. Uma carga com movimento oscilatório no eixo z e movimento retilíneo uniforme no eixo y gera, por simetria e cancelamento de vetores, oscilações de mesmo período e amplitude no eixo x, esta é a razão pela qual o campo elétrico e magnético são perpendiculares entre si em uma onda eletromagnética;
-7. Um espaço arbitrário definido como átomo é composto de um núcleo e uma nuvem eletrônica;
-8. O núcleo é composto de protons e neutrons conectados entre si;
-9. As partículas do núcleo estão conectadas porque é atribuido a elas um coeficiente de solidez menor que 1, permitindo que uma atravesse a outra sem que sejam repelidas pela força elétrica;
-10. Os neutrons estão presentes no núcleo porque um menor coeficiente de solidez para os protons não é suficiente para impedir uma repulsão entre eles, portanto eles atuam como uma cola entre as partículas;
-11. A razão para a existência de um núcleo dessa forma se deve à enorme quantidade de energia armarzenada neste, sendo útil para a criação de armas nucleares como bombas;
-12. A nuvem eletrônica é composta de elétrons que orbitam o núcleo com um movimento probabilístico e imprevisível;
-13. Uma vez que o movimento orbital dos elétrons envolve aceleração radial, os elétrons perdem energia cinética devido ao fato explicado na consequência 5;
-14. Essa perda de energia reduz a distância radial dos elétrons ao núcleo, que no caso limite resultaria em todos os elétrons sendo absorvidos pelo núcleo, impedindo a formação de moléculas, pois eventualmente tudo se agregaria como um único corpo;
-15. Sendo inevitável a perda de energia dos elétrons de acordo com o desenvolvimento lógico dos próprios fatos fundamentais da teoria, é necessário aplicar uma explicação teleológica, na qual a energia dos elétrons é devolvida por meio de uma linha de código de computador na simulação externa, aumentando o raio de sua órbita;
-16. O movimento probabilístico dos elétrons se deve a uma linha de código que translada os elétrons automaticamente sempre que eles estão perto de se colidir, evitando novamente a perda de energia e a situação descrita na consequência 13;
-17. Os elétrons seguem o princípio da incerteza de Heisenberg, sendo assim não é possível saber sua posição e velocidade vetorial ao mesmo tempo;
-18. Quando um elétron é visto de forma estática, como em uma foto, é possível saber sua posição mas não sua velocidade;
-19. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
-20. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão tanto a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
-21. 
+7. As partículas do núcleo estão conectadas porque é atribuido a elas um coeficiente de solidez menor que 1, permitindo que uma atravesse a outra sem que sejam repelidas pela força elétrica;
+8. Os neutrons estão presentes no núcleo porque um menor coeficiente de solidez para os protons não é suficiente para impedir uma repulsão entre eles, portanto eles atuam como uma cola entre as partículas;
+9. A razão para a existência de um núcleo dessa forma se deve à enorme quantidade de energia armarzenada neste, sendo útil para a criação de armas nucleares como bombas;
+10. Uma vez que o movimento orbital dos elétrons envolve aceleração radial, os elétrons perdem energia cinética devido ao fato explicado na consequência 5;
+11. Essa perda de energia reduz a distância radial dos elétrons ao núcleo, que no caso limite resultaria em todos os elétrons sendo absorvidos pelo núcleo, impedindo a formação de moléculas, pois eventualmente tudo se agregaria como um único corpo;
+12. Sendo inevitável a perda de energia dos elétrons de acordo com o desenvolvimento lógico dos próprios fatos fundamentais da teoria, é necessário aplicar uma explicação teleológica, na qual a energia dos elétrons é devolvida por meio de uma linha de código de computador na simulação externa, aumentando o raio de sua órbita;
+13. O movimento probabilístico dos elétrons se deve a uma linha de código que translada os elétrons automaticamente sempre que eles estão perto de se colidir, evitando novamente a perda de energia e a situação descrita na consequência 13;
+14. Os elétrons seguem o princípio da incerteza de Heisenberg, sendo assim não é possível saber sua posição e velocidade vetorial ao mesmo tempo;
+15. Quando um elétron é visto de forma estática, como em uma foto, é possível saber sua posição mas não sua velocidade;
+16. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
+17. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão tanto a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
