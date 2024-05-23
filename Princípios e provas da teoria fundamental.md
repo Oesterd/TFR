@@ -162,7 +162,6 @@ A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo,
 https://www.youtube.com/shorts/jBn28a3I2BA
 
 
-
 4 - Humildade situacional
 
 Cada ser senciente possui um conjunto de expectativas inconscientes em relação ao mundo que o rodeia, de modo que uma quebras no padrão de acontecimentos geram fortes reações psicológicas.
@@ -253,3 +252,50 @@ https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 11 - Teoria do reforço de comportamento e IAs
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
+
+11 - Teoria eletromagnética corpuscular
+
+A teoria electromagnética corpuscular é uma teoria naturalista, o que significa que ela parte de fatos fundamentais empiricamente verificáveis e deduz todas as suas consequências lógicas a partir destes, sem inserções arbitrárias ou teleológicas.
+
+Definições arbitrárias
+
+1. Os nomes carga positiva e negativa;
+2. Os efeitos gerados pelas cargas no campo homogêneo, a princípio;
+3. A simetria entre campo e carga, no que se refere aos efeitos que um gera no outro, também a princípio
+4. As partículas fundamentais possuem um coeficiente de solidez, que varia de 0 a 1, no qual 0 define uma partícula completamente gasosa e 1 define uma partícula completamente sólida, recorrência matemática é necessária nesse caso.
+
+Fatos fundamentais
+
+1. É necessário pelo menos 3 tipos de cargas, duas cargas pelo axioma do duplo parâmetro, de efeitos opostos e uma terceira carga neutra, para explicar a existência do núcleo;
+2. Existe um campo elétrico homogêneo que permeia todo o espaço de forma uniforme;
+3. O formato mais prováel das partículas ou cargas fundamentais é também o mais simples, esférico;
+4. A inserção das partículas no campo geram efeitos neste de acordo com o formato e carga das partículas;
+5. O campo elétrico pode ser representado por um campo vetorial, no qual cada vetor possui direção, sentido e módulo e dita o movimento das partículas fundamentais de acordo com a carga delas.
+6. Partículas de carga positiva reajusta o campo elétrico de modo que todos os vetores apontem do centro da esfera para fora, em direção radial;
+7. Partículas neutras não alteram o campo;
+8. Partículas negativas causam o mesmo efeito no campo que as positivas. exceto pelo sentido oposto dos vetores. de fora para o centro da esfera;
+9. Partículas positivas são aceleradas na direção e sentido dos vetores, partículas negativas também, porém no sentido oposto;
+10. Partículas neutras não são afetadas pelo campo.
+
+Consequências lógicas dos fundamentos da teoria
+
+1. Partículas de cargas iguais se repelem devido aos efeitos gerados no campo, assim como partículas de cargas opostas se atraem;
+2. Em um espaço com pouca ou nenhuma resistência, a coexistência de múltiplas partículas pode gerar movimentos caóticos, correntes elétricas ou agrupamentos em redes, a depender do tipo de agrupamento de cargas;
+3. Uma partícula carregada em movimento retilíneo uniforme gera um efeito no campo elétrico, no qual vetores na mesma direção do movimento se cancelam e vetores em direções perpendiculares se somam, em decorência da simetria esférica, esse efeito é semelhante ao movimento causado na água pelo trajeto de uma bala e recebe o nome de campo magnético nesta teoria;
+4. Quando uma partícula oscila em uma direção fixa, vibrações são geradas em todas as direções no plano perpendicular à linha de movimento da oscilação, assim como uma pedra caindo em 90 graus na água gera ondas concêntricas, esse é o efeito de geração de ondas eletromagnéticas por meio da aceleração de uma carga explicada de forma simplificada;
+5. A aceleração de partículas gera um movimento reverso no campo elétrico que reduz a velocidade das partículas, semelhante a um amortecimento de um oscilador harmônico;
+6. Uma carga com movimento oscilatório no eixo z e movimento retilíneo uniforme no eixo y gera, por simetria e cancelamento de vetores, oscilações de mesmo período e amplitude no eixo x, esta é a razão pela qual o campo elétrico e magnético são perpendiculares entre si em uma onda eletromagnética;
+7. Um espaço arbitrário definido como átomo é composto de um núcleo e uma nuvem eletrônica;
+8. O núcleo é composto de protons e neutrons conectados entre si;
+9. As partículas do núcleo estão conectadas porque é atribuido a elas um coeficiente de solidez menor que 1, permitindo que uma atravesse a outra sem que sejam repelidas pela força elétrica;
+10. Os neutrons estão presentes no núcleo porque um menor coeficiente de solidez para os protons não é suficiente para impedir uma repulsão entre eles, portanto eles atuam como uma cola entre as partículas;
+11. A razão para a existência de um núcleo dessa forma se deve à enorme quantidade de energia armarzenada neste, sendo útil para a criação de armas nucleares como bombas;
+12. A nuvem eletrônica é composta de elétrons que orbitam o núcleo com um movimento probabilístico e imprevisível;
+13. Uma vez que o movimento orbital dos elétrons envolve aceleração radial, os elétrons perdem energia cinética devido ao fato explicado na consequência Nº 5;
+14. Essa perda de energia reduz a distância radial dos elétrons ao núcleo, que no caso limite resultaria em todos os elétrons sendo absorvidos pelo núcleo, impedindo a formação de moléculas, pois eventualmente tudo se agregaria como um único corpo;
+15. Sendo inevitável a perda de energia dos elétrons de acordo com o desenvolvimento lógico dos próprios fatos fundamentais da teoria, é necessário aplicar uma explicação teleológica, na qual a energia dos elétrons é devolvida por meio de uma linha de código de computador na simulação externa, aumentando o raio de sua órbita;
+16. O movimento probabilístico dos elétrons se deve a uma linha de código que translada os elétrons automaticamente sempre que eles estão perto de se colidir, evitando novamente a perda de energia e a situação descrita na consequência 13;
+17. Os elétrons seguem o princípio da incerteza de Heisenberg, sendo assim não é possível saber sua posição e velocidade vetorial ao mesmo tempo;
+18. Quando um elétron é visto de forma estática, como um frame congelado em um computador, é possível saber sua posição mas não sua velocidade;
+19. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
+20. 
