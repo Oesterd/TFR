@@ -159,8 +159,7 @@ https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 
 A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
 
-https://www.youtube.com/shorts/jBn28a3I2BA
-
+https://www.youtube.com/watch?v=mTIjHJUEMlA
 
 4 - Humildade situacional
 
@@ -205,7 +204,7 @@ Possíveis evidências espalhadas pela internet:
 
 Exemplos do mundo real
 https://www.youtube.com/watch?v=2YZJt_Bw3eohttps://www.youtube.com/watch?v=wZZ4Vf3HinAhttps://www.youtube.com/watch?v=yoDoHgsNRrwSteins;Gate 
-https://www.youtube.com/watch?v=FeG4JH9f180Prestar atenção na parte da letra: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida".
+https://www.youtube.com/watch?v=FeG4JH9f180Na letra há uma parte que diz: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida", dando indícios que essa é a forma com que sinais do universos são captadas pelos seres humanos.
 
 Gantz
 
@@ -213,7 +212,7 @@ Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância, e
 
 
 
-Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
+Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
 
 
 6 - Registros universais
@@ -253,9 +252,13 @@ https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
 
-11 - Teoria eletromagnética corpuscular
+11 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
-A teoria electromagnética corpuscular é uma teoria naturalista, o que significa que ela parte de fatos fundamentais empiricamente verificáveis e deduz todas as suas consequências lógicas a partir destes, sem inserções arbitrárias ou teleológicas.
+A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
+
+11.1 - Teoria eletromagnética naturalista
+
+A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância quando todas as explicações naturais acabaram.
 
 Definições arbitrárias
 
@@ -291,11 +294,12 @@ Consequências lógicas dos fundamentos da teoria
 10. Os neutrons estão presentes no núcleo porque um menor coeficiente de solidez para os protons não é suficiente para impedir uma repulsão entre eles, portanto eles atuam como uma cola entre as partículas;
 11. A razão para a existência de um núcleo dessa forma se deve à enorme quantidade de energia armarzenada neste, sendo útil para a criação de armas nucleares como bombas;
 12. A nuvem eletrônica é composta de elétrons que orbitam o núcleo com um movimento probabilístico e imprevisível;
-13. Uma vez que o movimento orbital dos elétrons envolve aceleração radial, os elétrons perdem energia cinética devido ao fato explicado na consequência Nº 5;
+13. Uma vez que o movimento orbital dos elétrons envolve aceleração radial, os elétrons perdem energia cinética devido ao fato explicado na consequência 5;
 14. Essa perda de energia reduz a distância radial dos elétrons ao núcleo, que no caso limite resultaria em todos os elétrons sendo absorvidos pelo núcleo, impedindo a formação de moléculas, pois eventualmente tudo se agregaria como um único corpo;
 15. Sendo inevitável a perda de energia dos elétrons de acordo com o desenvolvimento lógico dos próprios fatos fundamentais da teoria, é necessário aplicar uma explicação teleológica, na qual a energia dos elétrons é devolvida por meio de uma linha de código de computador na simulação externa, aumentando o raio de sua órbita;
 16. O movimento probabilístico dos elétrons se deve a uma linha de código que translada os elétrons automaticamente sempre que eles estão perto de se colidir, evitando novamente a perda de energia e a situação descrita na consequência 13;
 17. Os elétrons seguem o princípio da incerteza de Heisenberg, sendo assim não é possível saber sua posição e velocidade vetorial ao mesmo tempo;
-18. Quando um elétron é visto de forma estática, como um frame congelado em um computador, é possível saber sua posição mas não sua velocidade;
+18. Quando um elétron é visto de forma estática, como em uma foto, é possível saber sua posição mas não sua velocidade;
 19. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
-20. 
+20. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão tanto a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
+21. 
