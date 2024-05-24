@@ -54,22 +54,37 @@ Em geral, teorias naturalistas são consideradas teorias científicas, enquanto 
 
 4 - Limite de unicidade de eventos
 
-Por raciocínio de indução, é possível concluir que há um limite fundamental de eventos únicos de modo geral e individualizado, de modo que uma extensão desse número de estados levaria à redudancia.
+Suponhamos que o número de eventos únicos ou estados de existências completamente originais seja infinito, isto significa que na prática, hajam infinitos formatos geométricos, cores, tipos de sons, processos químicos e biológicos, expressões faciais, emoções, idiomas e modos de agir, havendo portanto infinitas combinações desses eventos, resultando em infinitas sequências de eventos originais, cuja redudância seja completamente nula.
 
-Em outras palavras, há um limite de expressões faciais, emoções, anatomias, processos químicos e biológicos, frequências sonoras, cores e formatos geométricos não redundantes, para cada um detes casos, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
+Os efeitos deste fato seriam uma impossibilidade da formação de vida complexa, uma vez que qualquer forma deste tipo depende de um nível mínimo de previsibilidade, seja em fatores externos ou internos ao próprio ser.
 
-Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto.
+Portanto, devido à nossa existência como vida complexa por um prazo longo o suficiente, é possível concluir que há um limite fundamental de eventos únicos de modo geral e individualizado, de modo que uma extensão desse número de estados levaria à redudancia.
+
+Em outras palavras, há um limite de estados de existências totalmente únicos, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
+
+Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada.
 
 
-7 - Gödel's completeness theorem 
+5 - Formas de categorização/agrupamento/distribuição
 
 
-https://www.youtube.com/watch?v=I4pQbo5MQOs
-Resumo do vídeo: teorias baseadas em axiomas não podem ser provadas dentro delas mesmas, ou seja, utilizando os próprios axiomas, sendo portanto necessária uma concordância com uma outra teoria totalmente independente para que a prova seja possível.
 
-O objetivo é provar que a TFR não é incompatível com o teorema de Godel, pois a teoria pode ser provada por raciocínio de indução e múltiplos experimentos com os fatos da realidade, utilizando algoritmicamente o paradgima científico de Karl Popper.
 
-3 - Dedução, indução e causa
+Um conjunto fechado pode ser reorganizado de várias maneiras e a escolha de qual forma é, a princípio, completamente arbitrária, a importância de cada escolha é definida pela objetivo a ser atingido. 
+
+Distribuições mais aprofundadas correm o risco de ser redundantes e distribuições mais simples correm o risco de ser ambíguas, existindo desta forma um limiar mínimo de informação não redudante a ser apresentado em uma distribuição, constituindo assim um equilíbrio perfeito a ser alcançado.
+
+Exemplos:
+
+1. Círculo de personalidades: 16 personalities vs Big Five;
+2. Sistema internacional de unidades vs sistema americano de unidades;
+3. Bases numéricas;
+4. Distribuição de renda;
+5. Teoria de gênero;
+6. Criação de um idioma;
+7. Distribuição de energia.
+
+6 - Dedução, indução e causa
 
 Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
 
@@ -78,6 +93,18 @@ Indução: é o processo de formular uma lei geral a partir de uma sequência de
 Abdução: é o processo de encontrar a melhor premissa que explique um evento, as hipóteses são testadas uma a uma e a melhor é encontrada como sendo a mais provável.
 
 https://www.youtube.com/watch?v=9xWZ4Pixo70
+
+7 - Teorema da incompletude de Godel 
+
+
+O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formar externo e independente, para que a prova seja possível.
+
+Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois partindo do limite da unicidade de eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com todos os eventos únicos da realidade, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
+
+https://www.youtube.com/watch?v=I4pQbo5MQOs
+
+
+
 3 - Correlação e causa
 
 Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
@@ -135,25 +162,6 @@ Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
 
-
-4 - Formas de categorização/agrupamento/distribuição
-
-
-
-
-Um conjunto fechado pode ser reorganizado de várias maneiras e a escolha de qual forma é, a princípio, completamente arbitrária, a importância de cada escolha é definida pela objetivo a ser atingido. 
-
-Distribuições mais aprofundadas correm o risco de ser redundantes e distribuições mais simples correm o risco de ser ambíguas, existindo desta forma um limiar mínimo de informação não redudante a ser apresentado em uma distribuição, constituindo assim um equilíbrio perfeito a ser alcançado.
-
-Exemplos:
-
-1. Círculo de personalidades: 16 personalities vs Big Five;
-2. Sistema internacional de unidades vs sistema americano de unidades;
-3. Bases numéricas;
-4. Distribuição de renda;
-5. Teoria de gênero;
-6. Criação de um idioma;
-7. Distribuição de energia.
 
 
 
