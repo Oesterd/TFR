@@ -6,6 +6,8 @@
 
 ## [Fatos fundamentais e permanentes](https://www.evernote.com/shard/s483/sh/39299f2c-1975-be12-e55e-a6debe81a2d6/nbItm3o3X2CF2kDBkXg_hQcGELJNmt9lxzXnn4AdK99u0dK8UxP-_XUQqQ)
 
+## [Perguntas importante em relação à TFR e outras teorias](https://www.evernote.com/shard/s483/sh/f2af07c0-bc01-8dc2-6942-e4401d0e6b84/Pk8TopEZBG4D0pJNw3seHgajrAKVY_4yrpFbzXI-eS8gww9frGkuZX0q7w)
+
 ## [Relatório dos ocorridos desde 2020](https://www.evernote.com/shard/s483/sh/0e8c9043-41f2-91f2-dae3-87edd4524cfc/3qUpZPunAgkfq7gUI5EM639LKOjeQ9LOfSPnPksCf7j_GaZul_HEQfpvUA)
 
 ## [Movimento de ascensão planetária / Lei da atração / Leis herméticas](https://www.evernote.com/shard/s483/sh/2657ea45-8dae-4a7f-e249-4f8e03a3131a/12GJCpsT8ZtYObhg5q845_bhdGv_Bud3gGGh1oBV1rsI9OEA0jrpwQ6lyw)
