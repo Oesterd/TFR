@@ -10,9 +10,6 @@ Deste modo, a forma mais eficiente de descobrir a melhor teoria para um fenômen
 
 
 
-
-
-
 2 - Diferença entre conceitos arbitrários e fundamentais
 
 Conceitos arbitrários: são conceitos criados pela consciência humana e que possuem essência vazia, ou seja, podem ser substituídos por qualquer equivalente.
@@ -20,7 +17,7 @@ Conceitos arbitrários: são conceitos criados pela consciência humana e que po
 Exemplos:
 
 1. A definição de unidades físicas (metro, segundo, kilo, celsius, ampere, etc);
-2. Escolha do sistema de coordenadas;
+2. Escolha do sistema de coordenadas e sua origem;
 3. Representações de um número decimal;
 4. Escolha de palavras para denominar um objeto, conceito, ser vivo, situação;
 5. Regras gramaticais;
@@ -39,6 +36,7 @@ Exemplos:
 
 Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes.
 
+
 3 - Teorias naturalistas e teleológicas
 Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de leis presentes na natureza e possuírem evidências empíricas.
 
@@ -52,7 +50,18 @@ Teorias fundamentais: teorias que afirmam que os eventos são consequências ló
 
 Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
 
-4 - Limite de unicidade de eventos
+
+4 - Dedução, indução e causa
+
+Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
+
+Indução: é o processo de formular uma lei geral a partir de uma sequência de eventos que seguem um padrão lógico, bastando apenas uma ocorrência fora do padrão para descartar a lei ingerida como verdadeira.
+
+Abdução: é o processo de encontrar a melhor premissa que explique um evento, as hipóteses são testadas uma a uma e a melhor é encontrada como sendo a mais provável.
+
+https://www.youtube.com/watch?v=9xWZ4Pixo70
+
+5 - Limite de unicidade de eventos
 
 Suponhamos que o número de eventos únicos ou estados de existências completamente originais seja infinito, isto significa que na prática, hajam infinitos formatos geométricos, cores, tipos de sons, processos químicos e biológicos, expressões faciais, emoções, idiomas e modos de agir, havendo portanto infinitas combinações desses eventos, resultando em infinitas sequências de eventos originais, cuja redudância seja completamente nula.
 
@@ -65,7 +74,7 @@ Em outras palavras, há um limite de estados de existências totalmente únicos,
 Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada.
 
 
-5 - Formas de categorização/agrupamento/distribuição
+6 - Formas de categorização/agrupamento/distribuição
 
 
 
@@ -84,15 +93,6 @@ Exemplos:
 6. Criação de um idioma;
 7. Distribuição de energia.
 
-6 - Dedução, indução e causa
-
-Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
-
-Indução: é o processo de formular uma lei geral a partir de uma sequência de eventos que seguem um padrão lógico, bastando apenas uma ocorrência fora do padrão para descartar a lei ingerida como verdadeira.
-
-Abdução: é o processo de encontrar a melhor premissa que explique um evento, as hipóteses são testadas uma a uma e a melhor é encontrada como sendo a mais provável.
-
-https://www.youtube.com/watch?v=9xWZ4Pixo70
 
 7 - Teorema da incompletude de Godel 
 
@@ -103,9 +103,7 @@ Este fato não impede que a teoria fundamental da realidade seja provada como ve
 
 https://www.youtube.com/watch?v=I4pQbo5MQOs
 
-
-
-3 - Correlação e causa
+8 - Correlação e causa
 
 Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
 
@@ -117,9 +115,7 @@ Definição geral: todas as vezes que A acontece, B também acontece, seja ao me
 
 https://www.youtube.com/watch?v=XRJuic6gURU
 
-
-
-3 - Probabilidades
+9 - Probabilidades
 
 Sempre que houver dificuldades de utilizar os raciocínios de indução e abdução, os conhecimentos de probabilidade descritos abaixo devem ser aplicados como forma de auxílio.
 
@@ -152,7 +148,7 @@ Exemplos:
 
 Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada linha do tempo é definida de forma única pela sequência particular de eventos pertencente a ela, 
 
-5 - Limite das manipulações
+10 - Limite das manipulações
 
 Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
 
@@ -174,14 +170,14 @@ Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
 
-4 - Múltiplas linhas do tempo
+11 - Múltiplas linhas do tempo
 
 A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
 
 https://www.youtube.com/watch?v=mTIjHJUEMlA
 
 
-6 - Parametrização universal
+12 - Parametrização universal
 
 Qualquer ocorrência, e fato, seja ele concreto ou abstrato, pode ser associado a uma parametrização única, isto é, a uma combinação única de parâmetros irredutíveis.
 
@@ -225,7 +221,7 @@ Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância, e
 Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
 
 
-6 - Registros universais
+13 - Registros universais
 
 Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
 
@@ -238,20 +234,20 @@ Estes registros são equivalentes aos chamados pelas regiliões de registros aka
 
 https://www.youtube.com/watch?v=HGG4HmlotJEhttps://www.youtube.com/watch?v=8gwJB19qdJA&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=2
 
-9 - Livre arbítrio
+14 - Livre arbítrio
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
 Resumo do vídeo: livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
 
-10 - Cérebro artificial
+15 - Cérebro artificial
 
 https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=5
 
-11 - Teoria do reforço de comportamento e IAs
+16 - Teoria do reforço de comportamento e IAs
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
 
-10 - Jogo de interesses na criação e administração de simulações
+17 - Jogo de interesses na criação e administração de simulações
 
 Partindo do princípio do limite de unicidade, sabendo que todos os seres estão sujeitos ao mesmo conjunto finito sensações físicas, sentimentos, pensamentos, desejos e ambições, pode-se induzir que todo o jogo de interesses que é observado na história e no presente deste planeta pode ser estendido para todos os seres sencientes de todos os universos.
 
@@ -262,11 +258,11 @@ Pensando como uma civilização cujo interesse é manter o poder como uma oligar
 No entanto, recorrendo à distribuição normal universal, é simples deduzir que hajam seres e civilizações com todos tipos de interesse, no qual estes podem e são alterados o tempo todo a depender das circustâncias externas, como política vingente e chances de vitória de cada grupo de seres.
 
 
-11 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
+18 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
 A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
-11.1 - Teoria eletromagnética naturalista
+18.1 - Teoria eletromagnética naturalista
 
 A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância, quando todas as explicações naturais cessaram.
 
