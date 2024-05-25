@@ -1,6 +1,6 @@
 # Introdução
 
-Este é um documento que criei devido a circustâncias emergenciais, pois venho tenho distorções da na percepção da realidade que vêm aumentando de forma gradual, estas percepções, no meu ponto de vista, não podem ser explicadas como disfunções no cérebro, mas sim como manipulações cibernéticas dentro do paradigma da teoria da simulação. Abaixo seguem links que descrevem minhas experiências que me levaram a tirar estas conclusões, bem como uma explicação da teoria em desenvolvimento por mim para explicar como funciona a teoria da simulação.
+Este é um documento que criei devido a circustâncias emergenciais, pois venho tenho distorções da na percepção da realidade que vêm aumentando de forma gradual, estas percepções, no meu ponto de vista, não podem ser explicadas como disfunções no cérebro, mas sim como manipulações cibernéticas dentro do paradigma da teoria da simulação. Abaixo seguem links que descrevem minhas experiências que me levaram a tirar estas conclusões, uma explicação da teoria em desenvolvimento por mim para explicar como funciona a teoria da simulação e um fluxograma explicando o porque provar esta teoria é importante para garantir minha saúde no longo prazo.
 
 # Teoria fundamental da realidade
 
@@ -23,6 +23,8 @@ Este é um documento que criei devido a circustâncias emergenciais, pois venho 
 ## [Refutando o criacionismo](https://www.evernote.com/shard/s483/sh/1e032ea1-7590-5b8a-efbd-606966c64dfb/QZ2KkMcyWcd1POacBJpCTHtUo9MVHyudoC6rLZ6bJOc9KMYd54Qr22FUQg)
 
 ## [Registros gravados](https://www.evernote.com/shard/s483/sh/0edd5ceb-b06c-d219-e128-9064df36e574/sbJOkHLkuocdfjA-JT3WUYp0MJh0xOocfZKX8JXcBwdkhOSE0IfJSHkCOg)
+
+## [Laudo clínico cerebral](https://github.com/Oesterd/TFR/blob/main/Cl%C3%ADnica%20S%C3%A3o%20Marcelo%20(Marista)%20-%2013-05-2014%20-%20Resson%C3%A2ncia%20Magn%C3%A9tica.pdf)
 
 
 # Backups
