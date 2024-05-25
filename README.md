@@ -1,6 +1,6 @@
 # Introdução
 
-Este é um documento que criei devido a circustâncias emergenciais, pois venho tenho distorções da na percepção da realidade que vêm aumentando de forma gradual, estas percepções, no meu ponto de vista, não podem ser explicadas como disfunções no cérebro, mas sim como manipulações cibernéticas dentro do paradigma da teoria da simulação. Abaixo seguem links que descrevem minhas experiências que me levaram a tirar estas conclusões, uma explicação da teoria em desenvolvimento por mim para explicar como funciona a teoria da simulação e um fluxograma explicando o porque provar esta teoria é importante para garantir minha saúde no longo prazo.
+Este é um documento que criei devido a circustâncias emergenciais, pois venho tenho distorções da na percepção da realidade que vêm aumentando, em média, de forma gradual, estas percepções não podem ser explicadas no meu ponto de vista como disfunções no cérebro, mas sim como manipulações cibernéticas dentro do paradigma da teoria da simulação. Abaixo seguem links que descrevem minhas experiências que me levaram a tirar estas conclusões, uma explicação da teoria em desenvolvimento por mim para explicar como funciona a teoria da simulação e um fluxograma explicando o porque acredito que provar esta teoria como verdadeira é importante para garantir minha saúde no longo prazo.
 
 # Teoria fundamental da realidade
 
@@ -12,17 +12,17 @@ Este é um documento que criei devido a circustâncias emergenciais, pois venho 
 
 ## [Perguntas importante em relação à TFR e outras teorias](https://www.evernote.com/shard/s483/sh/f2af07c0-bc01-8dc2-6942-e4401d0e6b84/Pk8TopEZBG4D0pJNw3seHgajrAKVY_4yrpFbzXI-eS8gww9frGkuZX0q7w)
 
-## [Como funciona o jogo de interesses nas simulações](https://www.evernote.com/shard/s483/sh/df23663e-0ea4-77d4-7302-11f51a541835/NAl7MjBsAl2gMj4ohcbYSI0-9ZHnv7SeKTKbXm2FxFOw8Jj6aeLshrssFA)
-
 ## [Fatores manipuláveis na simulação](https://www.evernote.com/shard/s483/sh/5bf149f1-d17f-7239-96b2-ba803247c620/3YLZbyYuIizXR-Dy8FTkWgKiOE0wnGQb6Uvtv1HCkQtScvHWcveuiGq1VQ)
 
-# Outras informações importantes
+## [Como funciona o jogo de interesses nas simulações](https://www.evernote.com/shard/s483/sh/df23663e-0ea4-77d4-7302-11f51a541835/NAl7MjBsAl2gMj4ohcbYSI0-9ZHnv7SeKTKbXm2FxFOw8Jj6aeLshrssFA)
+
+## [Refutando o criacionismo](https://www.evernote.com/shard/s483/sh/1e032ea1-7590-5b8a-efbd-606966c64dfb/QZ2KkMcyWcd1POacBJpCTHtUo9MVHyudoC6rLZ6bJOc9KMYd54Qr22FUQg)
+
+# Registros de eventos
 
 ## [Relatório dos ocorridos desde 2020](https://www.evernote.com/shard/s483/sh/0e8c9043-41f2-91f2-dae3-87edd4524cfc/3qUpZPunAgkfq7gUI5EM639LKOjeQ9LOfSPnPksCf7j_GaZul_HEQfpvUA)
 
 ## [Movimento de ascensão planetária / Lei da atração / Leis herméticas](https://www.evernote.com/shard/s483/sh/2657ea45-8dae-4a7f-e249-4f8e03a3131a/12GJCpsT8ZtYObhg5q845_bhdGv_Bud3gGGh1oBV1rsI9OEA0jrpwQ6lyw)
-
-## [Refutando o criacionismo](https://www.evernote.com/shard/s483/sh/1e032ea1-7590-5b8a-efbd-606966c64dfb/QZ2KkMcyWcd1POacBJpCTHtUo9MVHyudoC6rLZ6bJOc9KMYd54Qr22FUQg)
 
 ## [Registros gravados](https://www.evernote.com/shard/s483/sh/0edd5ceb-b06c-d219-e128-9064df36e574/sbJOkHLkuocdfjA-JT3WUYp0MJh0xOocfZKX8JXcBwdkhOSE0IfJSHkCOg)
 
