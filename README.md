@@ -14,6 +14,8 @@ Este é um documento que criei devido a circustâncias emergenciais, pois venho 
 
 ## [Como funciona o jogo de interesses nas simulações](https://www.evernote.com/shard/s483/sh/df23663e-0ea4-77d4-7302-11f51a541835/NAl7MjBsAl2gMj4ohcbYSI0-9ZHnv7SeKTKbXm2FxFOw8Jj6aeLshrssFA)
 
+## [Fatores manipuláveis na simulação](https://www.evernote.com/shard/s483/sh/df23663e-0ea4-77d4-7302-11f51a541835/NAl7MjBsAl2gMj4ohcbYSI0-9ZHnv7SeKTKbXm2FxFOw8Jj6aeLshrssFA)
+
 # Outras informações importantes
 
 ## [Relatório dos ocorridos desde 2020](https://www.evernote.com/shard/s483/sh/0e8c9043-41f2-91f2-dae3-87edd4524cfc/3qUpZPunAgkfq7gUI5EM639LKOjeQ9LOfSPnPksCf7j_GaZul_HEQfpvUA)
