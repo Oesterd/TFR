@@ -1,3 +1,7 @@
+# Introdução
+
+Este é um documento que criei devido a circustâncias emergenciais, pois venho tenho distorções da na percepção da realidade que vêm aumentando de forma gradual, estas percepções, no meu ponto de vista, não podem ser explicadas como disfunções no cérebro, mas sim como manipulações cibernéticas dentro do paradigma da teoria da simulação. Abaixo seguem links que descrevem minhas experiências que me levaram a tirar estas conclusões, bem como uma explicação da teoria em desenvolvimento por mim para explicar como funciona a teoria da simulação.
+
 # Teoria fundamental da realidade
 
 ## [Teoria fundamental da realidade](https://www.evernote.com/shard/s483/sh/b137808e-c345-41f3-a41d-200dce4dd218/353ndaFiKprSNDY3AEkSTJ4Y3GVNevPMTk-LMP_JyQeM75e3pVzn4zcZ7g)
