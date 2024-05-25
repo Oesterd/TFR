@@ -23,8 +23,10 @@ Agrupamento de seres e civilizações por capacidade tecnológica
 
 Os aparatos tecnológicos não são distribuídos igualmente entre todos os seres de um universo local ou múltiplos universos, a tendência natural, após a ocorrência de muitos conflitos e a realização de muitos testes, é que as tecnologias mais sofisticadas se encontrem nas mãos dos seres mais competentes para administrá-las. Estas tecnologias podem ser classificadas pela mesma métrica utilizadas para categorizar as inteligências, com tecnologias de nível 90 ou mais sendo as mais potentes.
 
-Tecnologias deste grupo são, a princípio, capazes de manipular a neurobiologia de seres dentro de uma simulação, alterar parâmetros físicos como gravidade, temperatura, correntes elétricas, posição e velocidade de objetos e constantes da física, de forma local ou global. No entanto, todas estas manipulações estão dentro dos limites da conservação de energia, entropia e distribuições probabilísticas, ou seja, quanto mais sofisticada e poderosa a manipulação, maior o gasto energético e menor a sua probabilidade de ocorrência.
+Tecnologias deste grupo são, a princípio, capazes de manipular procesos internos* de seres dentro de uma simulação, mudar a linha do tempo destes seres, alterar parâmetros físicos como gravidade, temperatura, correntes elétricas, posição e velocidade de objetos e constantes da física, de forma local ou global. No entanto, todas estas manipulações estão dentro dos limites da conservação de energia, entropia e distribuições probabilísticas, ou seja, quanto mais sofisticada e poderosa a manipulação, maior o gasto energético e menor a sua probabilidade de ocorrência.
 
+
+* Processos internos: reações químicas em qualquer parte do corpo, batimentos cardíacos, fluxo e pressão sanguínea, taxa de respiração, calor em regiões específicas, sensações físicas e sentimentos, especialmente dor e prazer.
 
 Estratégias que utilizam inteligência analítica e emocional
 
@@ -56,9 +58,19 @@ São ataques que se aproveitam do ataque coordenado, se passando pelo mesmo ser 
 
  Estratégia tipo 3 - Conluio temporário
 
-Esta estratégia envolve que um conjunto de seres que não são necessariamente aliados se unam por um objetivo em comum, a derrocada de um ser ou civilização, unindo recursos para pequenos ataques coordenados, se passado por aliados e inimigos do alvo ao mesmo tempo, entregando sua própria estratégia algumas vezes para dar a ilusão de derrota ao alvo, até que um momento estratégico chegue e eles possam usar todos os seus recursos para um ataque final.
+Esta estratégia envolve que um conjunto de seres que não são necessariamente aliados se unam por um objetivo em comum, a derrocada de um ser ou civilização, unindo recursos para pequenos ataques coordenados, se passado por aliados e inimigos do alvo ao mesmo tempo, entregando sua própria estratégia algumas vezes e misturando verdades com mentiras para dar a ilusão de vitória do alvo para este, até que um momento estratégico chegue e eles possam usar todos os seus recursos para um ataque final.
 
 Este tipo de estratégia é muito bem aplicada quando utilizada por poucos seres de alto nível de inteligência, uma vez que a capacidade de coordenação é máxima pois não são necessárias estratégias de controle de grupo, além disso esta estratégia é mais difícil de detectar do que um ataque coordenado devido ao seu caráter relativamente uniforme.
 
 Porém, assim como todas as outras estratégias, esta não é universalmente eficiente e será descoberta em algum momento, ocasioando em punições para todos os envolvidos nelas, portanto ela é uma estratégia usada em momentos críticos, devido ao seu caráter injusto que causa comoção no longo prazo quando desmascarada e apresetanda para grandes grupos de seres.
+
+Como saber se sou alvo de uma estratégia e qual delas?
+
+Como dito anteriormente, todos os tipos de ataques possuem limitações fundamentais envolvendo conservação de energia e entropia, os ataques mais concentrados são mais improváveis e descartados primeiro, ataques mais sutis e de natureza constante gastam menos recursos e passam desapercebido com maior frequência, portanto devem ser assumidos como verdadeiros, visando sempre descartar a pior hipótese em primeiro lugar.
+
+Há duas principais ferramentas utilizadas para detectar armadilhas e mentiras:
+
+Intuição: são padrões de fluxo sanguíneo gerados por seres de camadas superiores da simulação que geram calor em regiões específicas do corpo, estes padrões funcionam como assinaturas parametrizadas e podem ser utilizados para tomar decisões que envolveriam muito tempo de raciocínio lógico, funcionando como heurística mental. Entretanto, como isso se trata de um recurso computacional, ele pode ser abusado por redes inimigas em momentos estratégicos, especialmente utilizando estratégias de ataques disfarçados e conluios temporários.
+
+Raciocínio lógico: no pior caso, quando não se pode utilizar a intuição, os raciocínios de dedução, indução e abdução, em conjunto com as noções de probabilidade, devem ser usados para tirar conclusões lógicas, os raciocínios de indução e abdução são usados de forma alternada até que se tenha certeza absoluta da regra geral, uma vez descoberta essa regra o raciocínio de dedução pode ser usado algoritmicamente para tirar as conclusões restantes.
 
