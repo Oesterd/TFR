@@ -1,6 +1,18 @@
 # Registros gravados
 
 
+
+Canais no youtube e twitch
+
+https://www.youtube.com/@Independent-nc6lf
+
+https://www.youtube.com/channel/UCovEgVCOGv36OUX7OpR-7Rg
+
+https://www.twitch.tv/alternativesource
+
+
+
+
 09/05/2024
 
 https://screenrec.com/share/LnCHc4NsJv
@@ -39,15 +51,6 @@ https://photos.app.goo.gl/5z95H5QT7wqsJ5Jo8
 
 
 
-
-
-Canais no youtube e twitch
-
-https://www.youtube.com/@Independent-nc6lf
-
-https://www.youtube.com/channel/UCovEgVCOGv36OUX7OpR-7Rg
-
-https://www.twitch.tv/alternativesource
 
 
 
