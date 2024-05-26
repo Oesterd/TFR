@@ -29,10 +29,8 @@ Exemplos:
 
 1. Conservação de quantidades fundamentais: energia, massa e carga;
 2. Espaço e tempo;
-3. Posição relativa;
-4. Movimento e velocidade;
-5. Consciência;
-6. Limitações fundamentais
+3. Consciência;
+4. Limite de unicidade de eventos;
 
 Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes.
 
@@ -148,20 +146,9 @@ Exemplos:
 
 Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada linha do tempo é definida de forma única pela sequência particular de eventos pertencente a ela, 
 
-10 - Limite das manipulações
-
-Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
-
-- Eventos de curta duração são mais fáceis de serem fabricados do que eventos de longa duração;
-- Arquivos e documentos salvos em servidores interligados espalhados pelo mundo são significativamente maís difíceis de serem manipulados;
-- Manuscritos são mais seguros do que documentos eletrônicos em geral;
-- Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
 
-
-
-
-8 - Entropia e suas consequências lógicas
+10 - Entropia e suas consequências lógicas
 
 
 Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave para explicar uma vasta gama de conceitos fundamentais como a passagem do tempo e a segunda lei da termodinâmica e está relacionado ao fator de complexidade de algo.
@@ -169,15 +156,32 @@ Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave 
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
+14 - Humildade situacional
+
 
 11 - Múltiplas linhas do tempo
 
 A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
 
 https://www.youtube.com/watch?v=mTIjHJUEMlA
+12 - Registros universais
 
+Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
 
-12 - Parametrização universal
+Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
+
+14 - Livre arbítrio
+
+https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
+Resumo do vídeo: livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
+
+16 - Teoria do reforço de comportamento e IAs
+
+https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
+15 - Cérebro artificial
+
+https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=5
+13 - Parametrização universal
 
 Qualquer ocorrência, e fato, seja ele concreto ou abstrato, pode ser associado a uma parametrização única, isto é, a uma combinação única de parâmetros irredutíveis.
 
@@ -221,11 +225,30 @@ Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância, e
 Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
 
 
-13 - Registros universais
 
-Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
+14 - Limite das manipulações
 
-Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
+Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
+
+- Eventos de curta duração são mais fáceis de serem fabricados do que eventos de longa duração;
+- Arquivos e documentos salvos em servidores interligados espalhados pelo mundo são significativamente maís difíceis de serem manipulados;
+- Manuscritos são mais seguros do que documentos eletrônicos em geral;
+- Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
+
+
+14 - Mapa universal de eventos únicos
+
+Sabendo que há um limite de eventos de acordo com o limite de unicidade e aplicando a teoria de reforço de comportamento com a distribuição de probabilidades, chegamos na conclusão que todas as combinações de eventos existem, em diferentes proporções conforme o desdobramento local da causa e efeito. 
+
+Deste modo, toda ontologia de conceitos humanos, no que se refere a teorias sociais como a teoria de gênero, teorias raciais, de classe ou teorias éticas podem ser definidas como, em escala universal, de caráter simétrico, ou seja, não há diferença intrínseca no comportamento de seres inteligentes de acordo com seu gênero, cor, aparência ou condição social.
+
+Esta simetria pode ser estentida para eventos de natureza inanimada e representada como uma figura geométrica totalmente simétrica, como uma esfera, com cada ponto nesta esfera correspondendo a uma combinação única de eventos.
+
+Essa representação pode tomar várias formas, na qual os ângulos polar e azimutal corresponderiam à variação de parâmetros qualitativos de uma experiência, com o raio correspondendo ao parâmetro quantitativo, como intensidade, desta experiência específica.
+
+Outra forma de representar seria dividir a esfera em hemisférios, quadrantes ou octantes, com cada uma dessas partições sendo um fator de simetria, como gênero, etnia ou classe e por fim o volume de cada região correspondendo um conjunto de experiências únicas, representadas cada uma por um ponto nesta região. 
+
+
 
 
 
@@ -234,20 +257,11 @@ Estes registros são equivalentes aos chamados pelas regiliões de registros aka
 
 https://www.youtube.com/watch?v=HGG4HmlotJEhttps://www.youtube.com/watch?v=8gwJB19qdJA&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=2
 
-14 - Livre arbítrio
+17 - Potencial de manipulação utilizando simulações
 
-https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
-Resumo do vídeo: livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
+As simulações permite manipular parâmetros internos dos seres vivos, alterando processos químicos, sensações físicas e percepções da realdadade, assim como parâmetros externos como leis e constantes da física, localidade, posição e velocidade de objetos externos.
 
-15 - Cérebro artificial
-
-https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=5
-
-16 - Teoria do reforço de comportamento e IAs
-
-https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
-
-17 - Jogo de interesses na criação e administração de simulações
+18 - Jogo de interesses na criação e administração de simulações
 
 Partindo do princípio do limite de unicidade, sabendo que todos os seres estão sujeitos ao mesmo conjunto finito sensações físicas, sentimentos, pensamentos, desejos e ambições, pode-se induzir que todo o jogo de interesses que é observado na história e no presente deste planeta pode ser estendido para todos os seres sencientes de todos os universos.
 
@@ -255,8 +269,9 @@ Em decorrência deste fato, existem importantes considerações a serem feitas p
 
 Pensando como uma civilização cujo interesse é manter o poder como uma oligarquia ou monarquia, as principais estratégias de longo prazo envolvem manter consciências presas em uma simulalação sem que estas saibam disto, portanto as alterações na simulações devem ser sutis e com padrão simples, cuja explicação aparente pode ser reduzida a uma explicação naturalista de nível local.
 
-No entanto, recorrendo à distribuição normal universal, é simples deduzir que hajam seres e civilizações com todos tipos de interesse, no qual estes podem e são alterados o tempo todo a depender das circustâncias externas, como política vingente e chances de vitória de cada grupo de seres.
+No entanto, recorrendo à distribuição normal universal, pode-se deduzir que hajam seres e civilizações com todos tipos de interesse, no qual estes podem e são alterados o tempo todo a depender das circustâncias externas, como política vingente e chances de vitória de cada grupo de seres.
 
+Aprofundar em Como funciona o jogo de interesses nas simulações.
 
 18 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
