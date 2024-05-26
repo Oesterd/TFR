@@ -156,15 +156,15 @@ Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave 
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-14 - Humildade situacional
+11 - Humildade situacional
 
 
-11 - Múltiplas linhas do tempo
+12 - Múltiplas linhas do tempo
 
 A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
 
 https://www.youtube.com/watch?v=mTIjHJUEMlA
-12 - Registros universais
+13 - Registros universais
 
 Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
 
@@ -175,13 +175,13 @@ Estes registros são equivalentes aos chamados pelas regiliões de registros aka
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
 Resumo do vídeo: livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
 
-16 - Teoria do reforço de comportamento e IAs
+15 - Teoria do reforço de comportamento e IAs
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
-15 - Cérebro artificial
+16 - Cérebro artificial
 
 https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=5
-13 - Parametrização universal
+17 - Parametrização universal
 
 Qualquer ocorrência, e fato, seja ele concreto ou abstrato, pode ser associado a uma parametrização única, isto é, a uma combinação única de parâmetros irredutíveis.
 
@@ -226,7 +226,7 @@ Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicaç
 
 
 
-14 - Limite das manipulações
+18 - Limite das manipulações
 
 Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
 
@@ -236,7 +236,7 @@ Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
 
-14 - Mapa universal de eventos únicos
+19 - Mapa universal de eventos únicos
 
 Sabendo que há um limite de eventos de acordo com o limite de unicidade e aplicando a teoria de reforço de comportamento com a distribuição de probabilidades, chegamos na conclusão que todas as combinações de eventos existem, em diferentes proporções conforme o desdobramento local da causa e efeito. 
 
@@ -250,18 +250,11 @@ Outra forma de representar seria dividir a esfera em hemisférios, quadrantes ou
 
 
 
-
-
-6 - Mathematical universe hypothesis
-
-
-https://www.youtube.com/watch?v=HGG4HmlotJEhttps://www.youtube.com/watch?v=8gwJB19qdJA&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=2
-
-17 - Potencial de manipulação utilizando simulações
+20 - Potencial de manipulação utilizando simulações
 
 As simulações permite manipular parâmetros internos dos seres vivos, alterando processos químicos, sensações físicas e percepções da realdadade, assim como parâmetros externos como leis e constantes da física, localidade, posição e velocidade de objetos externos.
 
-18 - Jogo de interesses na criação e administração de simulações
+21 - Jogo de interesses na criação e administração de simulações
 
 Partindo do princípio do limite de unicidade, sabendo que todos os seres estão sujeitos ao mesmo conjunto finito sensações físicas, sentimentos, pensamentos, desejos e ambições, pode-se induzir que todo o jogo de interesses que é observado na história e no presente deste planeta pode ser estendido para todos os seres sencientes de todos os universos.
 
@@ -273,11 +266,11 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-18 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
+22 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
 A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
-18.1 - Teoria eletromagnética naturalista
+22.1 - Teoria eletromagnética naturalista
 
 A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância, quando todas as explicações naturais cessaram.
 
