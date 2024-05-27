@@ -67,11 +67,13 @@ Portanto, devido à nossa existência como vida complexa por um prazo longo o su
 
 Em outras palavras, há um limite de estados de existências totalmente únicos, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
 
-Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada.
+Corolário 1: Conjunto fechado de todos os eventos
 
-6 - Causalidade cíclica
+A partir do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada.
 
-Do limite da unicidade de eventos e seu corolário, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que não seja causa de algo posterior.
+Corolário 2: Causalidade cíclica
+
+Do limite da unicidade de eventos e seu primeiro corolário, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que não seja causa de algo posterior.
 
 Todos os eventos estão interligados em um sistema fechado e sua hierarquia causal é um efeito apenas local, pois em escala global todos os eventos possuem o mesmo grau de importância.
 
@@ -182,33 +184,16 @@ Consciência mínima temporal-espacial: pode haver um ou mais sentidos, com est�
 
 A partir deste ponto, a consciência cresce em complexidade e organização a medida que seus sentidos se adaptam aos estímulos externos e informações são passadas de acordo com a genética e evolução natural dos seres.
 
-12 - Humildade situacional
 
+https://youtu.be/9ksLuRoEq6A
 
-13 - Múltiplas linhas do tempo
+15 - Aparente livre arbítrio
 
-A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
-
-https://www.youtube.com/watch?v=mTIjHJUEMlA
-14 - Registros universais
-
-Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
-
-Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
-
-
-15 - Livre arbítrio
-
-O livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
+O livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos com todos os níveis de consciência, desde bactérias e vírus até o ser racional mais inteligente, no entanto, ele parece ser um caso especial de seres mais inteligentes como animais de médio porte, no mínimo, constituindo uma clara contradição no que deveria ser uma regra geral.
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
 
-16 - Teoria do reforço de comportamento e IAs
 
-https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
-17 - Cérebro artificial
-
-https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=5
 18 - Parametrização universal
 
 O paradgima do universo simulacional se embasa no fato que tudo pode ser parametrizado em padrões de correntes elétricas em transistores e linhas de código de alto nível no computador responsável por gerenciar a simulação de nível inferior. A administração de uma simulação permite controlar todos os parâmetros visíveis da simulação que não sejam fatos fundamentais de nível matemático e lógico, seguem abaixo listas de fatores que podem ser manipulados em uma simulação.
@@ -278,6 +263,34 @@ Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância, e
 
 Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
 
+16 - Teoria do reforço de comportamento e IAs
+
+https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
+12 - Humildade situacional
+
+Nem sempre se pode tirar conclusões sobre a explicação de um evento baseado no conjunto atual de conhecimentos acumulados, este fato possui registros ao longo da história da humanidade, especialmente com a insistência em permanecer em paradigmas científicos ultrapassados na idade média, resultando em mortes e torturas, como a morte do italiano Giordano Bruno e a caça às bruxas.
+
+Assim como no passado, a mesma situação pode estar ocorrendo neste exato momento, em que situações e fenômenos ocorrem sem que o corpo atual de conhecimento mais atual e mais aceito da humanidade seja capaz de fornecer uma explicação satisfatória para estes, sendo então buscar alternativas menos reconhecidas pelas linhas de pensamento dominantes da ciência.
+
+Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão. 
+
+
+13 - Teoria da realidade simulacional
+
+Seguindo a linha de raciocínio da humildade situacional, podemos conceber civilizações futuras com mais conhecimento e técnicas e menos limitações do que nós temos hoje, sendo capazes de realizar os feitos descritos na seção de parametrização universal, com manipulação de leis da física, objetos inanimados e seres vivos.
+
+Para realizar este objetivo, recursos computacionais seriam gastos, respeitando 
+
+
+14 - Registros universais
+
+Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
+
+Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
+
+13 - Múltiplas linhas do tempo
+
+A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
 
 
 19 - Limite das manipulações
