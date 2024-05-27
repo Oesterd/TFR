@@ -2,7 +2,6 @@
 
 
 
-
 1 - Teoria de conjuntos e domínio de validade
 
 Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, a única forma de chegar em uma resposta uniforme e objetiva é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
@@ -72,8 +71,14 @@ Em outras palavras, há um limite de estados de existências totalmente únicos,
 
 Corolário: do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada.
 
+6 - Causalidade cíclica
 
-6 - Formas de categorização/agrupamento/distribuição
+Do limite da unicidade de eventos e seu corolário, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que não seja causa de algo posterior.
+
+Todos os eventos estão interligados em um sistema fechado e sua hierarquia causal é um efeito apenas local, pois em escala global todos os eventos possuem o mesmo grau de importância.
+
+
+7 - Formas de categorização/agrupamento/distribuição
 
 
 
@@ -93,7 +98,7 @@ Exemplos:
 7. Distribuição de energia.
 
 
-7 - Teorema da incompletude de Godel 
+8 - Teorema da incompletude de Godel 
 
 
 O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formar externo e independente, para que a prova seja possível.
@@ -102,7 +107,7 @@ Este fato não impede que a teoria fundamental da realidade seja provada como ve
 
 https://www.youtube.com/watch?v=I4pQbo5MQOs
 
-8 - Correlação e causa
+9 - Correlação e causa
 
 Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
 
@@ -114,7 +119,7 @@ Definição geral: todas as vezes que A acontece, B também acontece, seja ao me
 
 https://www.youtube.com/watch?v=XRJuic6gURU
 
-9 - Probabilidades
+10 - Probabilidades
 
 Sempre que houver dificuldades de utilizar os raciocínios de indução e abdução, os conhecimentos de probabilidade descritos abaixo devem ser aplicados como forma de auxílio.
 
@@ -149,7 +154,7 @@ Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada li
 
 
 
-10 - Entropia e suas consequências lógicas
+11 - Entropia e suas consequências lógicas
 
 
 Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave para explicar uma vasta gama de conceitos fundamentais como a passagem do tempo e a segunda lei da termodinâmica e está relacionado ao fator de complexidade de algo.
@@ -157,32 +162,33 @@ Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave 
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-11 - Humildade situacional
+12 - Humildade situacional
 
 
-12 - Múltiplas linhas do tempo
+13 - Múltiplas linhas do tempo
 
 A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
 
 https://www.youtube.com/watch?v=mTIjHJUEMlA
-13 - Registros universais
+14 - Registros universais
 
 Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
 
 Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
 
-14 - Livre arbítrio
+15 - Livre arbítrio
+
+O livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
-Resumo do vídeo: livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos, desde bactérias e vírus até o ser racional mais inteligente, ao invés de ser um caso particular de consciências mais complexas.
 
-15 - Teoria do reforço de comportamento e IAs
+16 - Teoria do reforço de comportamento e IAs
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
-16 - Cérebro artificial
+17 - Cérebro artificial
 
 https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=5
-17 - Parametrização universal
+18 - Parametrização universal
 
 Qualquer ocorrência, e fato, seja ele concreto ou abstrato, pode ser associado a uma parametrização única, isto é, a uma combinação única de parâmetros irredutíveis.
 
@@ -236,7 +242,7 @@ Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicaç
 
 
 
-18 - Limite das manipulações
+19 - Limite das manipulações
 
 Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
 
@@ -247,9 +253,9 @@ Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
 
-19 - Mapa universal de eventos únicos
+20 - Mapa universal de eventos únicos
 
-Sabendo que há um limite de eventos de acordo com o limite de unicidade e aplicando a teoria de reforço de comportamento com a distribuição de probabilidades, chegamos na conclusão que todas as combinações de eventos existem, em diferentes proporções conforme o desdobramento local da causa e efeito. 
+Sabendo que há um limite de eventos de acordo com o limite de unicidade e aplicando a teoria de reforço de comportamento com a distribuição de probabilidades, chegamos na conclusão que todas as combinações de eventos existem, em diferentes proporções conforme o desdobramento local da causa e efeito.
 
 Deste modo, toda ontologia de conceitos humanos, no que se refere a teorias sociais como a teoria de gênero, teorias raciais, de classe ou teorias éticas podem ser definidas como, em escala universal, de caráter simétrico, ou seja, não há diferença intrínseca no comportamento de seres inteligentes de acordo com seu gênero, cor, aparência ou condição social.
 
@@ -259,13 +265,15 @@ Essa representação pode tomar várias formas, na qual os ângulos polar e azim
 
 Outra forma de representar seria dividir a esfera em hemisférios, quadrantes ou octantes, com cada uma dessas partições sendo um fator de simetria, como gênero, etnia ou classe e por fim o volume de cada região correspondendo um conjunto de experiências únicas, representadas cada uma por um ponto nesta região. 
 
+Esta mesma esfera de estados universais pode estar representada no vídeo contendo o encerramento de Steins Gate 0 acima, na parte "Órbita de fotos e universo", sugerindo que assim como a órbita de partículas ocorrem em átomos, objetos e seres orbitam a esfera de eventos, e cada curva nesta esfera corresponde a uma sequência única de eventos, conhecida como linha do tempo.
 
 
-20 - Potencial de manipulação utilizando simulações
+
+21 - Potencial de manipulação utilizando simulações
 
 As simulações permite manipular parâmetros internos dos seres vivos, alterando processos químicos, sensações físicas e percepções da realdadade, assim como parâmetros externos como leis e constantes da física, localidade, posição e velocidade de objetos externos.
 
-21 - Jogo de interesses na criação e administração de simulações
+22 - Jogo de interesses na criação e administração de simulações
 
 Partindo do princípio do limite de unicidade, sabendo que todos os seres estão sujeitos ao mesmo conjunto finito sensações físicas, sentimentos, pensamentos, desejos e ambições, pode-se induzir que todo o jogo de interesses que é observado na história e no presente deste planeta pode ser estendido para todos os seres sencientes de todos os universos.
 
@@ -277,11 +285,11 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-22 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
+23 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
 A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
-22.1 - Teoria eletromagnética naturalista
+23.1 - Teoria eletromagnética naturalista
 
 A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância, quando todas as explicações naturais cessaram.
 
