@@ -44,8 +44,6 @@ Teorias teleológicas: teorias que possuem definições arbitrárias como fatos 
 
 Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento antivacina.
 
-Teorias fundamentais: teorias que afirmam que os eventos são consequências lógicas fatos fundamentais de natureza permanente e matemática, além de possuírem evidências empíricas de nível local e também global através de uma regressão entrópica em múltiplas linhas do tempo que percorrem múltiplas camadas de simulação.
-
 Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
 
 
@@ -157,11 +155,33 @@ Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada li
 11 - Entropia e suas consequências lógicas
 
 
-Entropia é um conceito fundamental relacionado a probabilidades, sendo a chave para explicar uma vasta gama de conceitos fundamentais como a passagem do tempo e a segunda lei da termodinâmica e está relacionado ao fator de complexidade de algo.
+Entropia é um conceito fundamental relacionado a nível de ordem/desordem e probabilidades, o nível de organização de um sistema é inversamente proporcional à sua entropia, portanto estados de alta entropia são desorganizados e vice-versa. Por esta lógica, a entropia tende sempre a crescer ou se manter estável, pois a desordem tende sempre a aumentar e nunca diminuir, em qualquer sistema fechado.
 
+A entropia pode ser reduzida localmente quando há gasto energético envolvido para aumentar a entropia de outro sistema, no qual o menor sistema que contém ambos o sistemas continua com o mesmo nível de entropia. Esse processo de minimização de entropia também pode ser entendido como a maximização de energia, assim como o oposto também é verdade.
+
+Uma gama de conceitos pode ser explicados através da entropia como:
+
+1. Senso de tempo;
+2. Grau de complexidade de uma consciência;
+3. O fluxo de calor de meios mais quentes para mais frios;
+4. O processo de difusão e osmose;
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
+12 - O crescimento gradual da consciência
+
+Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
+
+Segue abaixo uma sequência de 3 níveis de consciência, do nível mais baixo para o mais alto
+
+Consciência nula (caso ideal): não há sentidos físicos e estímulos externos, de qualquer intensidade e duração, nem mesmo vindo de flutuações probabilísticas fundamentais.
+
+Consciência mínima temporal: há apenas um sentido físico e estímulos externos que variam de modo totalmente homogêneo no espaço, deixando apenas uma noção de tempo para a consciência em questão.
+
+Consciência mínima temporal-espacial: pode haver um ou mais sentidos, com estímulos externos que possuem algum grau de heterogeneidade espacial, concedendo desta vez uma noção de espaço para a consciência.
+
+A partir deste ponto, a consciência cresce em complexidade e organização a medida que seus sentidos se adaptam aos estímulos externos e informações são passadas de acordo com a genética e evolução natural dos seres.
+
 12 - Humildade situacional
 
 
@@ -175,6 +195,7 @@ https://www.youtube.com/watch?v=mTIjHJUEMlA
 Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
 
 Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
+
 
 15 - Livre arbítrio
 
@@ -190,31 +211,48 @@ https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 https://www.youtube.com/watch?v=9ksLuRoEq6A&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=5
 18 - Parametrização universal
 
-Qualquer ocorrência, e fato, seja ele concreto ou abstrato, pode ser associado a uma parametrização única, isto é, a uma combinação única de parâmetros irredutíveis.
+O paradgima do universo simulacional se embasa no fato que tudo pode ser parametrizado em padrões de correntes elétricas em transistores e linhas de código de alto nível no computador responsável por gerenciar a simulação de nível inferior. A administração de uma simulação permite controlar todos os parâmetros visíveis da simulação que não sejam fatos fundamentais de nível matemático e lógico, seguem abaixo listas de fatores que podem ser manipulados em uma simulação.
+
+Diferentes fatores possuem diferentes níveis de dificuldade no se que se refere a manipulá-los e isto depende da complexidade condicional associada nesta manipulação, portanto alguns fatores são alterados com mais frequência do que outros.
 
 
-Exemplos:
+Fatores externos:
 
-1. A decomposição de um número em fatores primos;
-2. A assinatura digital humana;
-3. A assinatura eletrônica: decomposição matemática de qualquer evento em um computador em uma combinação de 0s e 1s;
-4. Decomposição de cores em uma combinação única de cores primitivas;
-5. Decomposição de música em notas musicais;
-6. Assinatura cibernética: pegada digital de um ser humano baseada no registro único de eventos associados a este, como especificações do computador e navegador e hábitos de navegação;
-7. Trilha de pegadas associada a um trajeto único;
+1. Parâmetros matemáticos de objetos;
+2. Conservação local de energia, massa e carga;
+3. Posição. velocidade e existência local de objetos;
+4. Propriedades internas de objetos;
+5. Leis e constantes da física.
 
 
-Corolário: parametrização e manipulação humana
+Consequências das manipulações de fatores externos:
 
-Existe uma assinatura única para cada estado físico e mental como uma combinação de fatores fisiológicos e neurológicos.
+Movimento, aparecimento e desaparecimento de objetos: objetos físicos podem ser parametrizados em correntes elétricas em um computador, sendo tratados como objetos matemáticos que podem ser manipulados que podem ser associados uma posição, velocidade e existência local. O movimento dos objeto pode explicado como uma alteração nos dois primeiros fatores, enquanto o  aparecimento e desparecimento de objetos pode ser explicado através das múltiplas camadas de simulações, na qual cada uma corresponde a um universo local, a movimentação de um objeto entre estas camadas gera o efeito de aparecimento e desaparecimento.
 
-Fatores fisiológicos: pressão arterial, batimentos cardíacos, taxa de entrada e saída de oxigênio, expressões faciais, temperatura corporal, lágrimas, fluxo de sangue no corpo e arrepio capilar.
 
-Fatores neurológicos: correntes elétricas ao longo do corpo e neurotransmissores pelo cérebro.
+Diferentes equações e constantes fundamentais da física: leis e constantes da física podem ser descontruídas em equações e valores numéricos, que assim como o caso anterior, possuem natureza matemática e podem ser tratados como linhas de código em um computador. Estas equações e valores podem ser associados a classes e subclasses de objetos, podendo ser alterados em escala local ou global. 
 
-Desta forma, partindo do pressuposto que cada informação recebida e produzida através dos 5 sentidos possui uma assinatura única no cérebro, essas mesmas informações podem ser produzidas externamente e manipuladas através de aparatos tecnológicos avaçados, desde que eles sejam capazes de produzir a exata assinatura biológica.
 
-Do mesmo modo, sensações físicas e movimentos corporais também podem ser produzidos e controlados externamentes, através do mesmo princípio do parágrafo anterior.
+Alteração na composição e funcionamento interno de objetos: a manipulação da composição e funcionamento interno de objetos consiste na alteração de parâmetros de classe globais e de parâmetros matemáticos como posição, velocidade e existência local dos componentes que compoem o objeto em questão, resultando em alterações macroscópicas através de manipulações de ordem microscópica.
+
+
+Seres vivos:
+
+1. Reações químicas no cérebro;
+2. Contração muscular;
+3. Fluxo e pressão sanguínea;
+4. Metabolismo;
+5. Sentidos físicos.
+
+Consequências das manipulações de seres vivos:
+
+Alucinações sensoriais: existe uma assinatura de corrente elétrica e sensações corporais para cada imagem, som, tato, paladar e olfato percebidos pelo cérebro, este padrão pode ser recriado com grande precisão, a depender dos recursos utilizados na manipulação destes fatores, criando portanto alucinações nos 5 sentidos.
+
+Intuição: são padrões de fluxo sanguíneo aplicados em diferentes parte do corpo, especialmente em regiões mais sensíveis como o cérebro, tais padrões podem ser correlacionados com pensamentos e emoções particulares de um contexto, gerando uma heurística que permite um atalho ao tomar decisões que, usando apenas o raciocínio lógico, requiririam grandes quantidades de tempo destes fatores, criando portanto alucinações nos 5 sentidos.
+
+Falsos estados emocionais: assim como no caso anterior, cada estado emocional possui uma assinatura única de fatores neuroquímicos e biológicos, podendo ser recriados até um certo limite, especialmente por prolongamento de reações emocionais já iniciadas.
+
+
 
 
 Possíveis evidências espalhadas pela internet: 
@@ -224,7 +262,7 @@ https://www.youtube.com/watch?v=2YZJt_Bw3eo
 https://www.youtube.com/watch?v=wZZ4Vf3HinA
 https://www.youtube.com/watch?v=HjoCEpTH8YgFonte: https://handaru.net/?p=166
 
-https://www.youtube.com/watch?v=iTZ2N-HJbwA
+https://www.youtube.com/watch?v=ZkxUzDzwexE
 https://www.youtube.com/watch?v=TYbRNQ3LxwU
 https://www.youtube.com/watch?v=8BrLNgKLWzs
 
@@ -267,11 +305,6 @@ Outra forma de representar seria dividir a esfera em hemisférios, quadrantes ou
 
 Esta mesma esfera de estados universais pode estar representada no vídeo contendo o encerramento de Steins Gate 0 acima, na parte "Órbita de fotos e universo", sugerindo que assim como a órbita de partículas ocorrem em átomos, objetos e seres orbitam a esfera de eventos, e cada curva nesta esfera corresponde a uma sequência única de eventos, conhecida como linha do tempo.
 
-
-
-21 - Potencial de manipulação utilizando simulações
-
-As simulações permite manipular parâmetros internos dos seres vivos, alterando processos químicos, sensações físicas e percepções da realdadade, assim como parâmetros externos como leis e constantes da física, localidade, posição e velocidade de objetos externos.
 
 22 - Jogo de interesses na criação e administração de simulações
 
@@ -335,3 +368,7 @@ Consequências lógicas dos fatos fundamentais e definições arbitrárias
 15. Quando um elétron é visto de forma estática, como em uma foto, é possível saber sua posição mas não sua velocidade;
 16. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
 17. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão tanto a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
+
+
+24 - Teoria fundamental
+É uma teoria que afirmam que os eventos são consequências lógicas fatos fundamentais de natureza permanente e matemática, além de possuírem evidências empíricas de nível local e também global, recorrendo ao fato da causalidade cíclica através de uma regressão entrópica em múltiplas linhas do tempo que percorrem múltiplas camadas de simulação.
