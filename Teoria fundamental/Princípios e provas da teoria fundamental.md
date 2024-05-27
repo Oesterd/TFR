@@ -2,6 +2,7 @@
 
 
 
+
 1 - Teoria de conjuntos e domínio de validade
 
 Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, a única forma de chegar em uma resposta uniforme e objetiva é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
@@ -213,7 +214,16 @@ Do mesmo modo, sensações físicas e movimentos corporais também podem ser pro
 Possíveis evidências espalhadas pela internet: 
 
 Exemplos do mundo real
-https://www.youtube.com/watch?v=2YZJt_Bw3eohttps://www.youtube.com/watch?v=wZZ4Vf3HinAhttps://www.youtube.com/watch?v=yoDoHgsNRrwSteins;Gate 
+https://www.youtube.com/watch?v=2YZJt_Bw3eo
+https://www.youtube.com/watch?v=wZZ4Vf3HinA
+https://www.youtube.com/watch?v=HjoCEpTH8YgFonte: https://handaru.net/?p=166
+
+https://www.youtube.com/watch?v=iTZ2N-HJbwA
+https://www.youtube.com/watch?v=TYbRNQ3LxwU
+https://www.youtube.com/watch?v=8BrLNgKLWzs
+
+
+Steins;Gate 
 https://www.youtube.com/watch?v=FeG4JH9f180Na letra há uma parte que diz: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida", dando indícios que essa é a forma com que sinais do universos são captadas pelos seres humanos.
 
 Gantz
@@ -231,6 +241,7 @@ Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicaç
 Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
 
 - Eventos de curta duração são mais fáceis de serem fabricados do que eventos de longa duração;
+- Manipulações que se aproveitam de fatos recorrentes ou acontecimentos no presente também são comuns do que manipulações que envolvem criar algo completamente novo ou fora do padrão;
 - Arquivos e documentos salvos em servidores interligados espalhados pelo mundo são significativamente maís difíceis de serem manipulados;
 - Manuscritos são mais seguros do que documentos eletrônicos em geral;
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
