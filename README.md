@@ -1,8 +1,8 @@
 # Introdução
 
-Este é um documento que criei devido a circustâncias emergenciais, pois venho tenho distorções da na percepção da realidade que vêm aumentando, em média, de forma gradual, estas percepções não podem ser explicadas no meu ponto de vista como disfunções no cérebro, mas sim como manipulações cibernéticas dentro do paradigma da teoria da simulação.
+Este é um documento que criei devido a circustâncias emergenciais, pois venho tendo distorções na percepção da realidade que vêm aumentando, em média, de forma gradual, estas percepções não podem ser explicadas no meu ponto de vista como disfunções no cérebro, mas sim como manipulações cibernéticas dentro do paradigma da teoria da simulação.
 
-Abaixo há links que descrevem minhas experiências que me levaram a tirar estas conclusões, uma explicação da teoria em desenvolvimento por mim para explicar como funciona a teoria da simulação e um fluxograma explicando o porque acredito que provar esta teoria como verdadeira é importante para garantir minha saúde no longo prazo.
+Segue abaixo links que descrevem as experiências que me levaram a tirar estas conclusões, uma explicação da teoria em desenvolvimento por mim para explicar como funciona a teoria da simulação e um fluxograma explicando o porque acredito que provar esta teoria como verdadeira é importante para garantir minha saúde no longo prazo e também de outras pessoas.
 
 # Teoria fundamental da realidade
 
