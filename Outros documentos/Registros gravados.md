@@ -25,8 +25,10 @@ https://screenrec.com/share/LnCHc4NsJv
 
 2 - https://screenrec.com/share/wEbseOPLT4
 
+
 12/05/2024
  
+
 1 - https://screenrec.com/share/4JsrZvqBxi
 
 2 - https://screenrec.com/share/FWo0bjVy1z
@@ -35,15 +37,21 @@ https://screenrec.com/share/LnCHc4NsJv
 
 4 - https://screenrec.com/share/H13mjnvUrb
 
+
 14/05/2024
 
 1 - https://screenrec.com/share/DAB1tWXlZE
+
 
 17/05/2024
 
 1 - https://screenrec.com/share/jabiP30TKB
 
 2 - https://screenrec.com/share/itCQ7mzfTK
+
+29/05/2024
+
+1 - https://screenrec.com/share/f5sgx6bQi0
 
 Registros no celular
 
