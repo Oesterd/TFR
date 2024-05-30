@@ -1,7 +1,6 @@
 # Refutando o criacionismo
 
-Essa refutação não irá usar argumentos éticos e morais ou fatos científicos mas argumentos puramente lógicos, o Deus usado nessa argumentação será o Deus cristão, mas a argumentação serve para todos os casos.
-
+Essa refutação não irá usar argumentos éticos e morais ou fatos científicos mas argumentos puramente lógicos, o Deus usado nessa argumentação será o Deus cristão, mas a argumentação serve para todas as religiões que descrevem a criação do universo como originária de um único evento, ou mais específicamente, de um único ser ou consciência.
 
 
 
