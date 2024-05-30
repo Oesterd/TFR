@@ -26,6 +26,8 @@ Segue abaixo links que descrevem as experiências que me levaram a tirar estas c
 
 ## [Movimento de ascensão planetária / Lei da atração / Leis herméticas](https://www.evernote.com/shard/s483/sh/2657ea45-8dae-4a7f-e249-4f8e03a3131a/12GJCpsT8ZtYObhg5q845_bhdGv_Bud3gGGh1oBV1rsI9OEA0jrpwQ6lyw)
 
+## [Relatos semelhantes ao redor do mundo](https://www.evernote.com/shard/s483/sh/1e544938-d2da-bcf8-bcbd-22e31b30d982/C9RXMUB7GX4cOANwnyD3-IGvgunhw6-tduyI7uJzgT392BVMfnu0DGOEzw)
+
 ## [Registros gravados](https://www.evernote.com/shard/s483/sh/0edd5ceb-b06c-d219-e128-9064df36e574/sbJOkHLkuocdfjA-JT3WUYp0MJh0xOocfZKX8JXcBwdkhOSE0IfJSHkCOg)
 
 ## [Laudo clínico cerebral](https://github.com/Oesterd/TFR/blob/003559915c01a0140f19d744c854af1181339e06/Outros%20documentos/Cl%C3%ADnica%20S%C3%A3o%20Marcelo%20(Marista)%20-%2013-05-2014%20-%20Resson%C3%A2ncia%20Magn%C3%A9tica.pdf)
