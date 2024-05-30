@@ -4,11 +4,12 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 
 
 
-## Se Deus criou tudo, quem criou Deus?
+
+Se Deus criou tudo, quem criou Deus?
 
 
 
-### 1. Deus se criou sozinho
+1. Deus se criou sozinho
 
 - Então Deus nunca foi criado.
 - E se for qual o problema?
@@ -16,7 +17,7 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 
 
 
-### 2. Deus é eterno
+2. Deus é eterno
 
 - O que existia antes de Deus criar tudo?
 - Nada, Deus criou tudo do zero.
@@ -24,7 +25,7 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 - Todas as coisas já existem na mente de Deus.
 - Você quer dizer que Deus consegue ter uma mente mesmo sem nenhum dos sentidos físicos?
 - Isso mesmo.
-- Então Deus não nos criou a sua imagem e semelhança.
+- Então Deus não nos criou a sua imagem e semelhança, pois temos mentes diferentes.
 - Sim, mas é Deus quem sabe de todas as coisas.
 - Como um ser que nunca passou pela experiência semelhante a de suas criações sabe o que é melhor pra elas?
 - Mas Deus já tem o grau máximo de evolução.
@@ -34,7 +35,7 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 
 
 
-### 3. Deus foi criado sozinho
+3. Deus foi criado sozinho
 
 - O que existia antes de Deus ser criado?
 - Nada, Deus foi a primeira coisa a existir.
@@ -49,7 +50,7 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 
 
 
-### 4. Isso é muito para nós seres humanos sabermos
+4. Isso é muito para nós seres humanos sabermos
 
 - Então porque Deus nos deu a capacidade de pensar e fazer perguntas?
 - Deus nos deu essa capacidade para sermos capazes de guiarmos nossa própria evolução, não pra questionarmos sua existência.
@@ -57,15 +58,19 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 - Claro que permite, sou eu que estou dizendo que não somos capazes nem precisamos saber tudo sobre Deus.
 - Se você não é capaz de entender como as leis do universo funciona, você acha que ninguém mais é capaz?
 - Claro que não, mas eu acho que você nunca vai conseguir as suas respostas.
-- E se eu já tiver descoberto todas as respostas e você é quem não entendeu?
+- E se as respostas já foram descobertas e você é quem não entendeu?
 - E por que você precisa que as pessoas pensem igual a você?
 - Se estamos todos sob as mesmas leis, porque não explicar para todos como essas leis funcionam para que possamos tomar decisões corretas?
 
 
 
-### 5. Deus sabe de todas as coisas
+5. Deus sabe de todas as coisas
 
 - Mas Deus já tem o grau máximo de evolução.
 - Então porque ele não nos criou igual a ele, para que não precisassemos sofrer?
 - Se Deus já tem o grau máximo de evolução, como você quer saber mais do que ele sobre o que nós precisamos?
 - Se você não possui quase nenhuma semelhança a esse ser, como você quer inferir como funciona a mente de um ser que sempre existiu, que não precisa de sentidos físicos para ter consciência e que você nunca presenciou nada da história desse ser? Isso te coloca na exata mesma posição que eu.
+
+
+
+
