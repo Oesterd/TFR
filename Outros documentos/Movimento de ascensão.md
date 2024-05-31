@@ -3,7 +3,7 @@
 
 
 
-## Supostas mensagens do anjo Ariel:
+Supostas mensagens do anjo Ariel:
 
 Link: https://drive.proton.me/urls/SK947G8Q18#NdIRGpv1zGFX
 
@@ -11,13 +11,13 @@ Link: https://drive.proton.me/urls/SK947G8Q18#NdIRGpv1zGFX
 Link: https://drive.proton.me/urls/3HHY9XHCMW#xzybYgWj6pMj
 
 
-## Grupo arcturiano
+Grupo arcturiano
 
 
-## O Conselho Arcturiano da 9D:
+O Conselho Arcturiano da 9D:
 
 
-### “Teoria da simulação e como você se sente sobre isso”
+“Teoria da simulação e como você se sente sobre isso”
 
 
 https://www.sementesdasestrelas.com.br/2023/04/o-conselho-arcturiano-da-9d-teoria-da-simulacao-e-como-voce-se-sente-sobre-isso.html
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=PrHq88xdhgw
 Link: https://screenrec.com/share/87RFbPzxwc
 
 
-## “Estamos despertando sua imortalidade” (1)
+“Estamos despertando sua imortalidade” (1)
 
 
 https://www.sementesdasestrelas.com.br/2023/06/o-conselho-arcturiano-da-9d-estamos-despertando-sua-imortalidade.html
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=0sa1KKSpAM8
 
 
 
-## “Novas atualizações do chakra do coração e seus efeitos em você” (2)
+“Novas atualizações do chakra do coração e seus efeitos em você” (2)
 
 
 https://www.sementesdasestrelas.com.br/2023/05/o-conselho-arcturiano-da-9d-novas-atualizacoes-do-chakra-do-coracao-e-seus-efeitos-em-voce-2.html
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=Zxoo5YrysXo
 
 
 
-## “Aquilo em que você acredita importa?” (3)
+“Aquilo em que você acredita importa?” (3)
 
 
 https://www.sementesdasestrelas.com.br/2023/05/o-conselho-arcturiano-da-9d-aquilo-em-que-voce-acredita-importa.html
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=dD1HI8ZFXzs
 
 
 
-## “Faça todos os seus problemas desaparecerem” (4)
+“Faça todos os seus problemas desaparecerem” (4)
 
 
 https://www.sementesdasestrelas.com.br/2023/04/o-conselho-arcturiano-da-9d-faca-todos-os-seus-problemas-desaparecerem.html
@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=gjvsGLtENk4
 
 
 
-## “Sensíveis, vocês estão acessando seus dons" (5)
+“Sensíveis, vocês estão acessando seus dons" (5)
 
 
 https://www.sementesdasestrelas.com.br/2023/05/o-conselho-arcturiano-da-9d-sensiveis-voces-estao-acessando-seus-dons.html
@@ -88,7 +88,7 @@ https://danielscranton.com/sensitive-ones-you-are-accessing-your-gifts-%E2%88%9E
 https://www.youtube.com/watch?v=KYQQOpSp7Kk
 
 
-## “Você precisa saber disso e aplicá-lo a tudo” (6)
+“Você precisa saber disso e aplicá-lo a tudo” (6)
 
 
 https://www.sementesdasestrelas.com.br/2024/03/o-conselho-arcturiano-da-9d-voce-precisa-saber-disso-e-aplica-lo-a-tudo-2.html
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=5S1mAFdEfvQ
 Resumo: se você vê desgraça no mundo exterior, a causa disso é sua baixa vibração e pensamentos, portanto sua responsabilidade mudar de linha do tempo.
 
 
-## “Os OVNIs Abatidos Sobre a América do Norte” (7)
+“Os OVNIs Abatidos Sobre a América do Norte” (7)
 
 
 https://www.sementesdasestrelas.com.br/2023/02/o-conselho-arcturiano-da-9d-os-ovnis-abatidos-sobre-a-america-do-norte.html
@@ -110,7 +110,7 @@ https://danielscranton.com/the-ufos-shot-down-over-north-america-%E2%88%9Ethe-9d
 https://www.youtube.com/watch?v=E7W5ssEYqQU
 
 
-## “O mundo exterior está mentindo para você” (8)
+“O mundo exterior está mentindo para você” (8)
 
 
 https://www.sementesdasestrelas.com.br/2022/02/o-mundo-exterior-esta-mentindo-para-voce.html
@@ -124,7 +124,7 @@ Resumo: as manifestações anteriores não são a medida do seu progresso espiri
 Contradição com o artigo “Você precisa saber disso e aplicá-lo a tudo” (6)
 
 
-## “Antes de você retornar ao caótico mundo exterior” (9)
+“Antes de você retornar ao caótico mundo exterior” (9)
 
 
 https://www.sementesdasestrelas.com.br/2023/05/o-conselho-arcturiano-da-9d-antes-de-voce-retornar-ao-caotico-mundo-exterior.html
@@ -135,7 +135,7 @@ https://www.youtube.com/watch?v=7xoEpKWNOYA
 
 
 
-## “Novos ajudantes e ajuda chegando através das portais físicos” (10)
+“Novos ajudantes e ajuda chegando através das portais físicos” (10)
 
 
 https://www.sementesdasestrelas.com.br/2023/05/o-conselho-arcturiano-da-9d-novos-ajudantes-e-ajuda-chegando-atraves-das-portais-fisicos.html
@@ -148,23 +148,34 @@ https://www.youtube.com/watch?v=3vJdB6m0YK8
 
 
 
-## Promessas:
+Promessas:
 
-### Kryon - “Mude seu próprio DNA”
+Kryon - “Mude seu próprio DNA”
 
 
 https://www.sementesdasestrelas.com.br/2024/05/kryon-mude-seu-proprio-dna.html
 
 
 
-### Aurora Ray – “Energia grátis”
+Aurora Ray – “Energia grátis”
 
 
 https://www.sementesdasestrelas.com.br/2023/03/aurora-ray-energia-gratis.html
 
+
+Aurora Ray – “A vida na 5D”
+
+
+https://www.sementesdasestrelas.com.br/2023/05/aurora-ray-a-vida-na-5d.html
+
+
+O Conselho Arcturiano da 9D – “Telecinesia, viagem no tempo, levitação e telepatia”
+
+
+https://www.sementesdasestrelas.com.br/2021/01/viagem-no-tempo.html
  					 		 		 				
 
-### O Conselho Arcturiano da 9D – “A Nova Terra que está chegando”
+O Conselho Arcturiano da 9D – “A Nova Terra que está chegando”
 
 
 https://www.sementesdasestrelas.com.br/2023/12/o-conselho-arcturiano-da-9d-a-nova-terra-que-esta-chegando.html
@@ -174,7 +185,7 @@ https://danielscranton.com/the-new-earth-thats-coming-%E2%88%9Ethe-9d-arcturian-
 https://www.youtube.com/watch?v=_KGhn-PySdU
 
 
-### “Ajuda Vindo de Arcturus (sem Interferência)”
+“Ajuda Vindo de Arcturus (sem Interferência)”
 
 
 https://www.sementesdasestrelas.com.br/2023/04/o-conselho-arcturiano-da-9d-ajuda-vindo-de-arcturus-sem-interferencia.html
