@@ -20,7 +20,7 @@ Exemplos:
 2. Escolha do sistema de coordenadas e sua origem;
 3. Representações de um número decimal;
 4. Escolha de palavras para denominar um objeto, conceito, ser vivo, situação;
-5. Regras gramaticais;
+5. Alguns conjuntos de regras gramaticais;
 
 
 Conceitos fundamentais: são conceitos de existência permanente e independentes da existência de qualquer consciência, estes conceitos podem ser descobertos, compreendidos e definidos, mas nunca criados.
@@ -36,11 +36,12 @@ Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes
 
 
 3 - Teorias naturalistas e teleológicas
-Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de leis presentes na natureza e possuírem evidências empíricas.
 
-Exemplos: teoria da seleção natural, condicionamento clássico e behaviorismo, versão probabilística da termodinâmica, reducionismo quântico.
+Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de leis presentes na natureza e possuem evidências empíricas.
 
-Teorias teleológicas: teorias que possuem definições arbitrárias como fatos fundamentais e explicações para os eventos, porém sem nenhuma evidência empírica.
+Exemplos: teoria da seleção natural, condicionamento clássico e behaviorismo, versão probabilística da termodinâmica.
+
+Teorias teleológicas: teorias que possuem definições arbitrárias como postulados e explicações para os eventos, porém sem nenhuma evidência empírica.
 
 Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento antivacina.
 
@@ -51,7 +52,7 @@ Em geral, teorias naturalistas são consideradas teorias científicas, enquanto 
 
 Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
 
-Indução: é o processo de formular uma lei geral a partir de uma sequência de eventos que seguem um padrão lógico, bastando apenas uma ocorrência fora do padrão para descartar a lei ingerida como verdadeira.
+Indução: é o processo de formular uma lei geral a partir de uma sequência de eventos que seguem um padrão lógico, bastando apenas uma ocorrência fora do padrão para descartar a lei inferida como verdadeira.
 
 Abdução: é o processo de encontrar a melhor premissa que explique um evento, as hipóteses são testadas uma a uma e a melhor é encontrada como sendo a mais provável.
 
@@ -59,26 +60,20 @@ https://www.youtube.com/watch?v=9xWZ4Pixo70
 
 5 - Limite de unicidade de eventos
 
-Suponhamos que o número de eventos únicos ou estados de existências completamente originais seja infinito, isto significa que na prática, hajam infinitos formatos geométricos, cores, tipos de sons, processos químicos e biológicos, expressões faciais, emoções, idiomas e modos de agir, havendo portanto infinitas combinações desses eventos, resultando em infinitas sequências de eventos originais, cuja redudância seja completamente nula.
+Suponhamos que o número de eventos únicos ou estados de existência completamente originais seja infinito, isto significa que na prática, hajam infinitos formatos geométricos, cores, tipos de sons, processos químicos e biológicos, expressões faciais, emoções, idiomas e modos de agir, havendo portanto infinitas combinações desses eventos, resultando em infinitas sequências de eventos originais, cuja redudância seja completamente nula.
 
 Os efeitos deste fato seriam uma impossibilidade da formação de vida complexa, uma vez que qualquer forma deste tipo depende de um nível mínimo de previsibilidade, seja em fatores externos ou internos ao próprio ser.
 
-Portanto, devido à nossa existência como vida complexa por um prazo longo o suficiente, é possível concluir que há um limite fundamental de eventos únicos de modo geral e individualizado, de modo que uma extensão desse número de estados levaria à redudancia.
+Portanto, devido à nossa existência como vida complexa por um prazo longo o suficiente, é possível concluir que há um limite fundamental de eventos únicos de modo geral e individualizado, culminando em um limite de interações e histórias originais advindas dos fatos fundamentais.
 
-Em outras palavras, há um limite de estados de existências totalmente únicos, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
+Além disso, esse limite pode ser associado a um número natural a depender do conjunto de regras estabelecidas a princípio para definir tal número.
 
-Corolário 1: Conjunto fechado de todos os eventos
+Corolário: Conjunto fechado de todos os eventos
 
 A partir do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada.
 
-Corolário 2: Causalidade cíclica
 
-Do limite da unicidade de eventos e seu primeiro corolário, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que não seja causa de algo posterior.
-
-Todos os eventos estão interligados em um sistema fechado e sua hierarquia causal é um efeito apenas local, pois em escala global todos os eventos possuem o mesmo grau de importância.
-
-
-7 - Formas de categorização/agrupamento/distribuição
+6 - Formas de categorização/agrupamento/distribuição
 
 
 
@@ -98,28 +93,28 @@ Exemplos:
 7. Distribuição de energia.
 
 
-8 - Teorema da incompletude de Godel 
+7 - Teorema da incompletude de Godel 
 
 
-O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formar externo e independente, para que a prova seja possível.
+O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível.
 
 Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois partindo do limite da unicidade de eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com todos os eventos únicos da realidade, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
 
 https://www.youtube.com/watch?v=I4pQbo5MQOs
 
-9 - Correlação e causa
+8 - Correlação e causalidade
 
 Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
 
 Definição geral: frequentemente quando A acontece, B também acontece, quando o padrão é quebrado a explicação se deve a um evento C que é a causa comum de ambos.
 
-Causa: são eventos interdependentes, um dos eventos só pode existir com a ocorrência com do outro.
+Causalidade: são eventos interdependentes, um dos eventos só pode existir com a ocorrência com do outro.
 
 Definição geral: todas as vezes que A acontece, B também acontece, seja ao mesmo tempo ou em sequência.
 
 https://www.youtube.com/watch?v=XRJuic6gURU
 
-10 - Probabilidades
+9 - Probabilidades
 
 Sempre que houver dificuldades de utilizar os raciocínios de indução e abdução, os conhecimentos de probabilidade descritos abaixo devem ser aplicados como forma de auxílio.
 
@@ -147,58 +142,123 @@ Exemplos:
 4. Distribuição de eventos de acordo com o nível de complexidade condicional.
 
 
+10 - Entropia e suas consequências lógicas
 
 
+Entropia é um conceito fundamental relacionado a nível de ordem/desordem e probabilidades, o nível de organização de um sistema é inversamente proporcional à sua entropia, portanto estados de alta entropia são desorganizados e vice-versa. Por esta lógica, a entropia tende sempre a crescer ou se manter estável, pois levando em conta as probabilidades, a desordem tende sempre a aumentar e nunca diminuir, em qualquer sistema fechado.
 
-Existem múltiplas linhas do tempo para cada ser humano e cada universo, cada linha do tempo é definida de forma única pela sequência particular de eventos pertencente a ela, 
-
-
-
-11 - Entropia e suas consequências lógicas
-
-
-Entropia é um conceito fundamental relacionado a nível de ordem/desordem e probabilidades, o nível de organização de um sistema é inversamente proporcional à sua entropia, portanto estados de alta entropia são desorganizados e vice-versa. Por esta lógica, a entropia tende sempre a crescer ou se manter estável, pois a desordem tende sempre a aumentar e nunca diminuir, em qualquer sistema fechado.
-
-A entropia pode ser reduzida localmente quando há gasto energético envolvido para aumentar a entropia de outro sistema, no qual o menor sistema que contém ambos o sistemas continua com o mesmo nível de entropia. Esse processo de minimização de entropia também pode ser entendido como a maximização de energia, assim como o oposto também é verdade.
+A entropia pode ser reduzida localmente quando há gasto energético envolvido para aumentar a entropia de outro sistema, no qual o menor sistema que contém ambos o sistemas continua com o mesmo nível de entropia, esse processo de minimização de entropia também pode ser entendido como a maximização de energia, assim como o oposto também é verdade.
 
 Uma gama de conceitos pode ser explicados através da entropia como:
 
 1. Senso de tempo;
 2. Grau de complexidade de uma consciência;
 3. O fluxo de calor de meios mais quentes para mais frios;
-4. O processo de difusão e osmose;
+4. Os processos de difusão e osmose;
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-12 - O crescimento gradual da consciência
+11 - O crescimento gradual da consciência
 
 Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
 
-Segue abaixo uma sequência de 3 níveis de consciência, do nível mais baixo para o mais alto
+Segue abaixo uma sequência de 3 níveis de consciência, do nível mais baixo para o mais alto:
 
-Consciência nula (caso ideal): não há sentidos físicos e estímulos externos, de qualquer intensidade e duração, nem mesmo vindo de flutuações probabilísticas fundamentais.
+Consciência nula (caso ideal): não há sentidos físicos e estímulos externos, de qualquer intensidade e duração, nem mesmo vindo de flutuações fundamentais de energia.
 
 Consciência mínima temporal: há apenas um sentido físico e estímulos externos que variam de modo totalmente homogêneo no espaço, deixando apenas uma noção de tempo para a consciência em questão.
 
 Consciência mínima temporal-espacial: pode haver um ou mais sentidos, com estímulos externos que possuem algum grau de heterogeneidade espacial, concedendo desta vez uma noção de espaço para a consciência.
 
-A partir deste ponto, a consciência cresce em complexidade e organização a medida que seus sentidos se adaptam aos estímulos externos e informações são passadas de acordo com a genética e evolução natural dos seres.
+A partir deste ponto, a consciência cresce em complexidade e organização a medida que seus sentidos se tornam mais complexos, se adaptam aos estímulos externos e informações são passadas de acordo com a genética e evolução natural dos seres.
 
 
 https://youtu.be/9ksLuRoEq6A
 
-15 - Aparente livre arbítrio
+12 - Aparente livre arbítrio
 
-O livre-arbítrio de fato não existe, o que existe é uma aparente existência de escolhas, caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos com todos os níveis de consciência, desde bactérias e vírus até o ser racional mais inteligente, no entanto, ele parece ser um caso especial de seres mais inteligentes como animais de médio porte, no mínimo, constituindo uma clara contradição no que deveria ser uma regra geral.
+Se definirmos como livre arbítrio a capaidade de analisar entre possíveis decisões e realizá-las como uma propriedade intrínseca de todos os seres e independente de condições e causas anteriores, veremos que o livre-arbítrio de fato não existe, o que existe é uma gama de escolhas que tem uma aparente independência de qualquer fator externo ou anterior.
+
+Caso o livre-arbítrio fosse um fato fundamental ele estaria presente em todos os seres vivos com todos os níveis de consciência em todos os momentos, no entanto, ele parece ser um caso especial de seres inteligentes com um cérebro desenvolvido, em bom estado e em vigília.
+
+Exceções do livre arbítrio (reduzido ou nulo):
+
+- Seres microscópicos: bactérias, vírus, protozoários;
+- Seres pequenos: formigas, baratas, aranhas, abelhas;
+- Qualquer ser em estado de sono;
+- Pessoas com deformações no cérebro;
+- Pessoas sob efeito de álcool ou drogas;
+- Bebês;
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
+13 - Teoria polivagal
+
+13 - Teoria do reforço de comportamento e IAs
+
+https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
 
 
-18 - Parametrização universal
+15 - Humildade situacional
 
-O paradgima do universo simulacional se embasa no fato que tudo pode ser parametrizado em padrões de correntes elétricas em transistores e linhas de código de alto nível no computador responsável por gerenciar a simulação de nível inferior. A administração de uma simulação permite controlar todos os parâmetros visíveis da simulação que não sejam fatos fundamentais de nível matemático e lógico, seguem abaixo listas de fatores que podem ser manipulados em uma simulação.
+Nem sempre se pode tirar conclusões sobre a explicação de um evento baseado no conjunto atual de conhecimentos acumulados, este fato possui registros ao longo da história da humanidade, especialmente com a insistência em permanecer em paradigmas científicos ultrapassados na idade média, resultando em mortes e torturas, como a morte do italiano Giordano Bruno e a caça às bruxas.
 
-Diferentes fatores possuem diferentes níveis de dificuldade no se que se refere a manipulá-los e isto depende da complexidade condicional associada nesta manipulação, portanto alguns fatores são alterados com mais frequência do que outros.
+Assim como no passado, a mesma situação pode estar ocorrendo neste exato momento, em que situações e fenômenos ocorrem sem que o corpo atual de conhecimento mais atual e mais aceito da humanidade seja capaz de fornecer uma explicação satisfatória para estes, sendo então buscar alternativas menos reconhecidas pelas linhas de pensamento dominantes da ciência.
+
+Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão. 
+
+
+16 - Teoria da realidade simulacional
+
+Seguindo a linha de raciocínio da humildade situacional, podemos conceber civilizações futuras com mais conhecimento e técnicas e menos limitações do que nós temos hoje, sendo capazes de realizar os feitos descritos na seção de parametrização universal, com manipulação de leis da física, objetos inanimados e seres vivos.
+
+Para realizar este objetivo, recursos computacionais seriam gastos, respeitando 
+
+17 - Parametrização universal
+
+Retornando ao limite de unicidade de eventos junto ao seu corolário, é possível definir unicamente cada evento, objeto ou conceito em uma combinação específica de fatores fundamentais e irredutíveis, configurando uma posição única para este evento no mapa de eventos.
+
+Será dada abaixo uma sequência de exemplos, que partem do caso geral para o particular, de como parametrizar qualquer evento ou conceito:
+
+
+Parametrização de universos
+
+1. Combinação única de leis e constantes da física;
+2. Pela sequência exata de eventos que se deu em um grande intervalo de tempo.
+
+Parametrização de objetos
+
+1. Conjunto de constituíntes fundamentais;
+2. Configuração microscópica.
+
+Parametrização de um ser vivo
+
+1. Composição química, qualitativa e quantitativamente;
+2. Neurobiologia;
+3. Padrões de comportamento em um intervalo considerável.
+
+Parametrização de estados físicos ou mentais
+
+Um estado físico ou mental, quando analizado no intervalo de sua duração, pode ser decomposto nos seguinte fatores, em ordem de confiabilidade:
+
+1. Conjunto e quantidade de neurotransmissores presentes no cérebro;
+2. Batimentos cardíacos;
+3. Fluxo e pressão sanguínea;
+4. Coloração da pele, especialmente no rosto;
+5. Contração dos pelos pelo corpo;
+6. Expressões corporais;
+7. Taxa de respiração;
+8. Expressão facial;
+
+
+
+
+
+
+
+13 - Manipulação universal
+
+O paradgima do universo simulacional se embasa no fato que tudo pode ser parametrizado em correntes elétricas em transistores e linhas de código de alto nível no computador responsável por gerenciar a simulação de nível inferior. A administração de uma simulação permite controlar todos os parâmetros visíveis da simulação que não sejam fatos fundamentais de nível matemático e lógico, seguem abaixo listas de fatores que podem ser manipulados em uma simulação.
+
 
 
 Fatores externos:
@@ -257,30 +317,11 @@ https://www.youtube.com/watch?v=FeG4JH9f180Na letra há uma parte que diz: "Domi
 
 Gantz
 
-Ler os capítulos 368 ao 372, o contexto anterior não tem muita importância, em caso de manipulação dos números e títulos dos capítulos, ler os capítulos que começam com essa página:
+Ler os capítulos 368 ao 372 do mangá Gantz, o contexto anterior não tem muita importância para a compreensão do conceito de parametrização humana:
 
 
 
-Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades.
-
-16 - Teoria do reforço de comportamento e IAs
-
-https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=wL64jqYn4CE&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
-12 - Humildade situacional
-
-Nem sempre se pode tirar conclusões sobre a explicação de um evento baseado no conjunto atual de conhecimentos acumulados, este fato possui registros ao longo da história da humanidade, especialmente com a insistência em permanecer em paradigmas científicos ultrapassados na idade média, resultando em mortes e torturas, como a morte do italiano Giordano Bruno e a caça às bruxas.
-
-Assim como no passado, a mesma situação pode estar ocorrendo neste exato momento, em que situações e fenômenos ocorrem sem que o corpo atual de conhecimento mais atual e mais aceito da humanidade seja capaz de fornecer uma explicação satisfatória para estes, sendo então buscar alternativas menos reconhecidas pelas linhas de pensamento dominantes da ciência.
-
-Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão. 
-
-
-13 - Teoria da realidade simulacional
-
-Seguindo a linha de raciocínio da humildade situacional, podemos conceber civilizações futuras com mais conhecimento e técnicas e menos limitações do que nós temos hoje, sendo capazes de realizar os feitos descritos na seção de parametrização universal, com manipulação de leis da física, objetos inanimados e seres vivos.
-
-Para realizar este objetivo, recursos computacionais seriam gastos, respeitando 
-
+Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades. 
 
 14 - Registros universais
 
@@ -291,6 +332,12 @@ Estes registros são equivalentes aos chamados pelas regiliões de registros aka
 13 - Múltiplas linhas do tempo
 
 A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
+
+Corolário: Causalidade cíclica
+
+Do limite da unicidade de eventos, seu primeiro corolário e das múltiplas linhas do tempo, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que também não seja causa de algo posterior.
+
+Todos os eventos estão interligados em um sistema fechado e sua hierarquia causal é um efeito apenas local, pois em escala global todos os eventos possuem o mesmo grau de importância.
 
 
 19 - Limite das manipulações
@@ -353,35 +400,36 @@ Fatos fundamentais
 
 1. É necessário pelo menos 3 tipos de cargas, duas cargas pelo axioma do duplo parâmetro, de efeitos opostos e uma terceira carga neutra, para explicar a existência do núcleo;
 2. Existe um campo elétrico homogêneo que permeia todo o espaço de forma uniforme;
-3. O formato mais prováel das partículas ou cargas fundamentais é também o mais simples, esférico;
+3. O formato mais provável das partículas ou cargas fundamentais é também o mais simples, esférico;
 4. A inserção das partículas no campo geram efeitos neste de acordo com o formato e carga das partículas;
 5. O campo elétrico pode ser representado por um campo vetorial, no qual cada vetor possui direção, sentido e módulo e dita o movimento das partículas fundamentais de acordo com a carga delas.
-6. Partículas de carga positiva reajusta o campo elétrico de modo que todos os vetores apontem do centro da esfera para fora, em direção radial;
+6. Partículas de carga positiva reajustam o campo elétrico de modo que todos os vetores apontem do centro da esfera para fora, em direção radial;
 7. Partículas neutras não alteram o campo;
 8. Partículas negativas causam o mesmo efeito no campo que as positivas. exceto pelo sentido oposto dos vetores. de fora para o centro da esfera;
-9. Partículas positivas são aceleradas na direção e sentido dos vetores, partículas negativas também, porém no sentido oposto;
+9. Partículas positivas são aceleradas na direção e sentido dos vetores, partículas negativas são aceleradas na direção dos vetores, porém no sentido oposto;
 10. Partículas neutras não são afetadas pelo campo.
 
 Consequências lógicas dos fatos fundamentais e definições arbitrárias
 
 1. Partículas de cargas iguais se repelem devido aos efeitos gerados no campo, assim como partículas de cargas opostas se atraem;
-2. Em um espaço com pouca ou nenhuma resistência, a coexistência de múltiplas partículas pode gerar movimentos caóticos, correntes elétricas ou agrupamentos em redes, a depender do tipo de agrupamento de cargas;
+2. A coexistência de múltiplas partículas pode gerar movimentos caóticos, correntes elétricas ou agrupamentos em redes, a depender do tipo de agrupamento de cargas e do ambiente ao redor das cargas;
 3. Uma partícula carregada em movimento retilíneo uniforme gera um efeito no campo elétrico, no qual vetores na mesma direção do movimento se cancelam e vetores em direções perpendiculares se somam, em decorência da simetria esférica, esse efeito é semelhante ao movimento causado na água pelo trajeto de uma bala e recebe o nome de campo magnético nesta teoria;
 4. Quando uma partícula oscila em uma direção fixa, vibrações são geradas em todas as direções no plano perpendicular à linha de movimento da oscilação, assim como uma pedra caindo em 90 graus na água gera ondas concêntricas, esse é o efeito de geração de ondas eletromagnéticas por meio da aceleração de uma carga explicada de forma simplificada;
 5. A aceleração de partículas gera um movimento reverso no campo elétrico que reduz a velocidade das partículas, semelhante a um amortecimento de um oscilador harmônico;
 6. Uma carga com movimento oscilatório no eixo z e movimento retilíneo uniforme no eixo y gera, por simetria e cancelamento de vetores, oscilações de mesmo período e amplitude no eixo x, esta é a razão pela qual o campo elétrico e magnético são perpendiculares entre si em uma onda eletromagnética;
-7. As partículas do núcleo estão conectadas porque é atribuido a elas um coeficiente de solidez menor que 1, permitindo que uma atravesse a outra sem que sejam repelidas pela força elétrica;
+7. As partículas do núcleo estão conectadas porque é atribuido a elas um coeficiente de solidez menor que 1, permitindo que uma atravesse a outra com certo grau de dificuldade sem que sejam repelidas pela força elétrica;
 8. Os neutrons estão presentes no núcleo porque um menor coeficiente de solidez para os protons não é suficiente para impedir uma repulsão entre eles, portanto eles atuam como uma cola entre as partículas;
 9. A razão para a existência de um núcleo dessa forma se deve à enorme quantidade de energia armarzenada neste, sendo útil para a criação de armas nucleares como bombas;
 10. Uma vez que o movimento orbital dos elétrons envolve aceleração radial, os elétrons perdem energia cinética devido ao fato explicado na consequência 5;
 11. Essa perda de energia reduz a distância radial dos elétrons ao núcleo, que no caso limite resultaria em todos os elétrons sendo absorvidos pelo núcleo, impedindo a formação de moléculas, pois eventualmente tudo se agregaria como um único corpo;
 12. Sendo inevitável a perda de energia dos elétrons de acordo com o desenvolvimento lógico dos próprios fatos fundamentais da teoria, é necessário aplicar uma explicação teleológica, na qual a energia dos elétrons é devolvida por meio de uma linha de código de computador na simulação externa, aumentando o raio de sua órbita;
-13. O movimento probabilístico dos elétrons se deve a uma linha de código que translada os elétrons automaticamente sempre que eles estão perto de se colidir, evitando novamente a perda de energia e a situação descrita na consequência 13;
+13. O movimento probabilístico dos elétrons se deve a uma linha de código que teleporta os elétrons para a região vazia mais próxima automaticamente sempre que eles estão perto de se colidir, evitando novamente a perda de energia e a situação descrita na consequência 11;
 14. Os elétrons seguem o princípio da incerteza de Heisenberg, sendo assim não é possível saber sua posição e velocidade vetorial ao mesmo tempo;
 15. Quando um elétron é visto de forma estática, como em uma foto, é possível saber sua posição mas não sua velocidade;
 16. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
-17. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão tanto a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
+17. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão e ao mesmo tempo a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
 
 
 24 - Teoria fundamental
-É uma teoria que afirmam que os eventos são consequências lógicas fatos fundamentais de natureza permanente e matemática, além de possuírem evidências empíricas de nível local e também global, recorrendo ao fato da causalidade cíclica através de uma regressão entrópica em múltiplas linhas do tempo que percorrem múltiplas camadas de simulação.
+
+É uma teoria que afirma que os eventos são consequências lógicas fatos fundamentais de natureza permanente e matemática, além de possuírem evidências empíricas de nível local e também global, recorrendo ao fato da causalidade cíclica através de uma regressão entrópica em múltiplas linhas do tempo que percorrem múltiplas camadas de simulação.
