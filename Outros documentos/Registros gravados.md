@@ -2,6 +2,7 @@
 
 
 
+
 Canais no youtube e twitch
 
 https://www.youtube.com/@Independent-nc6lf
@@ -75,12 +76,16 @@ Link: https://screenrec.com/share/flLOEIbd2u
 Conteúdo: comportamento detalhado do site time.is - Parte 2
 Link: https://screenrec.com/share/QgM1KWYaqe
 
-Comparar ambos os vídeos com o vídeo https://screenrec.com/share/jabiP30TKB para notar o comportamento inconsistente.
+Comparar ambos os vídeos com o primeiro vídeo do dia 17/05 e notar o comportamento inconsistente do site.  
 
 
 Registros no celular
 
+Registros mistos
 https://photos.app.goo.gl/5z95H5QT7wqsJ5Jo8
+
+Gravações de tela
+https://photos.app.goo.gl/us5Q7wH86LvvfyD98
 
 
 Caso do controle remoto
