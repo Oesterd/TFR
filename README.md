@@ -14,8 +14,6 @@ Segue abaixo links que descrevem as experiências que me levaram a tirar estas c
 
 ## [Perguntas importante em relação à TFR e outras teorias](https://www.evernote.com/shard/s483/sh/f2af07c0-bc01-8dc2-6942-e4401d0e6b84/Pk8TopEZBG4D0pJNw3seHgajrAKVY_4yrpFbzXI-eS8gww9frGkuZX0q7w)
 
-## [Fatores manipuláveis na simulação](https://www.evernote.com/shard/s483/sh/5bf149f1-d17f-7239-96b2-ba803247c620/3YLZbyYuIizXR-Dy8FTkWgKiOE0wnGQb6Uvtv1HCkQtScvHWcveuiGq1VQ)
-
 ## [Como funciona o jogo de interesses nas simulações](https://www.evernote.com/shard/s483/sh/df23663e-0ea4-77d4-7302-11f51a541835/NAl7MjBsAl2gMj4ohcbYSI0-9ZHnv7SeKTKbXm2FxFOw8Jj6aeLshrssFA)
 
 ## [Refutando o criacionismo](https://www.evernote.com/shard/s483/sh/1e032ea1-7590-5b8a-efbd-606966c64dfb/QZ2KkMcyWcd1POacBJpCTHtUo9MVHyudoC6rLZ6bJOc9KMYd54Qr22FUQg)
