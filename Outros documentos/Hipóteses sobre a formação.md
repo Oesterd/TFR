@@ -1,15 +1,30 @@
-# Refutando o criacionismo
+# Hipóteses sobre a formação de todas as coisas
+
+
+## Um único universo
+
+- Formação espontânea absoluta: toda a vida e estruturas complexas do universo se desenvolveram a partir de flutuações quânticas de energia em um estado de entropia máxima;
+- Origem única inteligente: tudo o que conhecemos foi criado e planejado por uma consciência altamente desenvolvida que sempre existiu.
+
+## Múltiplos universos interconectados
+
+- Formação espontânea relativa: todas as estruturas complexas de um universo local podem ter se desenvolvido do estado de entropia máxima bem como de estados mais evoluídos de outros universos graças a interconexão;
+- Causalidade cíclica: a maior parte dos universos possui uma contribuição naturalista bem como uma contribuição proposital na formação de tudo o que existe;
+- Origem inteligente: todas as coisas em um universo local foram criadas por um ou vários seres que detém todo o conhecimento das leis da física e dos seres vivos.
+
+
+
+
+## Refutando a hipótese da origem única inteligente (criacionismo)
 
 Essa refutação não irá usar argumentos éticos e morais ou fatos científicos mas argumentos puramente lógicos, o Deus usado nessa argumentação será o Deus cristão, mas a argumentação serve para todas as religiões que descrevem a criação do universo como originária de um único evento, ou mais específicamente, de um único ser ou consciência.
 
 
-
-
-Se Deus criou tudo, quem criou Deus?
+## Se Deus criou tudo, quem criou Deus?
 
 
 
-1. Deus se criou sozinho
+### 1. Deus se criou sozinho
 
 - Então Deus nunca foi criado.
 - E se for qual o problema?
@@ -17,7 +32,7 @@ Se Deus criou tudo, quem criou Deus?
 
 
 
-2. Deus é eterno
+### 2. Deus é eterno
 
 - O que existia antes de Deus criar tudo?
 - Nada, Deus criou tudo do zero.
@@ -35,7 +50,7 @@ Se Deus criou tudo, quem criou Deus?
 
 
 
-3. Deus foi criado sozinho
+### 3. Deus foi criado sozinho
 
 - O que existia antes de Deus ser criado?
 - Nada, Deus foi a primeira coisa a existir.
@@ -50,7 +65,7 @@ Se Deus criou tudo, quem criou Deus?
 
 
 
-4. Isso é muito para nós seres humanos sabermos
+### 4. Isso é muito para nós seres humanos sabermos
 
 - Então porque Deus nos deu a capacidade de pensar e fazer perguntas?
 - Deus nos deu essa capacidade para sermos capazes de guiarmos nossa própria evolução, não pra questionarmos sua existência.
@@ -64,7 +79,7 @@ Se Deus criou tudo, quem criou Deus?
 
 
 
-5. Deus sabe de todas as coisas
+### 5. Deus sabe de todas as coisas
 
 - Mas Deus já tem o grau máximo de evolução.
 - Então porque ele não nos criou igual a ele, para que não precisassemos sofrer?
