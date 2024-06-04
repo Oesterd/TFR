@@ -28,7 +28,7 @@ Segue abaixo links que descrevem as experiências que me levaram a tirar estas c
 
 ## [Registros dos ocorridos](https://www.evernote.com/shard/s483/sh/0edd5ceb-b06c-d219-e128-9064df36e574/sbJOkHLkuocdfjA-JT3WUYp0MJh0xOocfZKX8JXcBwdkhOSE0IfJSHkCOg)
 
-## [Laudo clínico cerebral](https://github.com/Oesterd/TFR/blob/003559915c01a0140f19d744c854af1181339e06/Outros%20documentos/Cl%C3%ADnica%20S%C3%A3o%20Marcelo%20(Marista)%20-%2013-05-2014%20-%20Resson%C3%A2ncia%20Magn%C3%A9tica.pdf)
+## [Laudos, atestados e exames](https://www.evernote.com/shard/s483/sh/1a172dc3-a7a1-e318-433c-011a436bd809/16NMave6Gru9imcKaZXVZF3utZ9ekutkL6zBoxmuUmQIEma2-QjvZXs_vA)
 
 # Fluxogramas
 
