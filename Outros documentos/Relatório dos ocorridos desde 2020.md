@@ -1,6 +1,5 @@
 # Relatório dos ocorridos desde 2020
 
-
 2020:
 
 - Comecei a entender conceitos de psicologia como: síndrome do impostor, vieses cognitivos e efeito duning-Krueger
@@ -147,7 +146,7 @@ Enquanto eu contava minha história para minha mãe, escutei isso:
 
 Algumas críticas e provocações que eu recebia eram:
 
-1. Os mesmos elogios porém de forma irônica
+1. Os mesmos elogios de antes porém de forma irônica
 2. "Sabichão mesmo"
 3. "Ele me apavora com a velocidade com que ele liga os pontos"
 4. "Ele desconfia de tudo"
@@ -156,7 +155,7 @@ Algumas críticas e provocações que eu recebia eram:
 7. "Você nem tem TDAH ou autismo"
 8. "Ele(a) te apavora facinho"
 9. "Valentão"
-10. "Quantas minorias você já ofendeu hoje?", uma suposta conversa interna com o objetivo de chegar até mim
+10. "Quantas minorias você já ofendeu hoje?", uma suposta conversa interna de outras pessoas com o objetivo de chegar até mim
 11. "Ninguém suporta essa mulher", em relação a versão da história em que eu era diretora de uma empresa
 12. "A vida é sua" / "Problema seu" / "Você quem sabe" / "Só não vem reclamar depois"
 13. "Fica triste não"
@@ -164,7 +163,7 @@ Algumas críticas e provocações que eu recebia eram:
 
 
 
-Registro nomes e expressões que já ouvi através das vozes da minha cabeça, com seu registro de frequência relativo ou absoluto:
+Parte 1 - Registro nomes e expressões que já ouvi através das vozes da minha cabeça, com seu registro de frequência relativo ou absoluto:
 
 1. "Cavaleiro do zodiáco" (7/10)
 2. "Tira esse ____ da cabeça" (7/10)
@@ -267,11 +266,12 @@ Registro nomes e expressões que já ouvi através das vozes da minha cabeça, c
 99. "Ele(a) acha que você aumentou os detalhes pra deixar engraçado/aparecer" (3/10)
 100. "Era pra você ter ganhado na loteria essa semana/semana passada" (3/10)
 101. "Eu sou seu/sua amigo(a) aqui fora" (2/10)
-102. "Você tem espírito superprotetor" (2/10)
+102. "Você tem um espírito superprotetor (te protegendo)" (2/10)
 103. "Campeonatinho japonês de inventar mentira" (4/10)
 104. "Frequência vibratória meu ovo" (1 vez)
 105. "A gente fabricou essa história de..." (4/10)
 106. "Tá deixando aparecer seu caráter" (1 vez)
+
 
 
 Durante o final de 2022 até o momento atual, me fizeram acreditar nas seguintes histórias:
@@ -285,7 +285,7 @@ Durante o final de 2022 até o momento atual, me fizeram acreditar nas seguintes
 
 
 
-Durante todos estes fatos recentes do final do mês de abril até agora, as vozes continuam, mesmo nesse exato momento, me dando sugestões, enquanto eu levo pequenos choques pelo corpo em momentos aleatórios. Por fim, a luz do monitor continua piscando branco de forma imprevisível somente quando eu escrevo algo nesse site, assim como te mostrei no vídeo, tendo já piscado umas 5 vezes só enquanto escrevia isso.
+Durante todos estes fatos recentes do final do mês de abril até agora, as vozes continuam, mesmo nesse exato momento, me dando sugestões, enquanto eu levo pequenos choques pelo corpo em momentos aleatórios. Por fim, a luz do monitor continua piscando branco de forma imprevisível somente quando eu escrevo algo nesse site, assim como foi mostrado no vídeo, tendo já piscado umas 5 vezes só enquanto escrevia isso.
 
 
 
