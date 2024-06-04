@@ -5,7 +5,7 @@
 
 ### Github: https://github.com/Oesterd/TFR/blob/main/Outros%20documentos/Cl%C3%ADnica%20S%C3%A3o%20Marcelo%20(Marista)%20-%2013-05-2014%20-%20Resson%C3%A2ncia%20Magn%C3%A9tica.pdf
 
-### Google Drive: https://drive.google.com/file/d/1VRqXsBw9AD_G2So3f42QH1qlztUec6a9/view?usp=drive_link
+### Google Drive: https://drive.google.com/drive/folders/1wzKE1ezfucIOVlMBZuy3kckBr5sChe6e?usp=drive_link
 
 ## Exames de sangue
 
