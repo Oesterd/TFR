@@ -7,6 +7,9 @@
 
 ### Google Drive: https://drive.google.com/drive/folders/1wzKE1ezfucIOVlMBZuy3kckBr5sChe6e?usp=drive_link
 
+## Atestado médico
+### https://drive.google.com/file/d/1tlkM-wL7c-fIVcTGACoU3mQSMitmSTMf/view?usp=drive_link
+
 ## Exames de sangue
 
 ### 23/11/2019 - https://drive.google.com/file/d/1CC6O4I_qLvWGgYxxoJlhKNMsaCTQYfLY/view?usp=drive_link
