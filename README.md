@@ -20,11 +20,11 @@ Segue abaixo links que descrevem as experiências que me levaram a tirar estas c
 
 # Registros de eventos
 
-## [Laudos, atestados e exames](https://www.evernote.com/shard/s483/sh/1a172dc3-a7a1-e318-433c-011a436bd809/16NMave6Gru9imcKaZXVZF3utZ9ekutkL6zBoxmuUmQIEma2-QjvZXs_vA)
+## [Relatos semelhantes ao redor do mundo](https://www.evernote.com/shard/s483/sh/1e544938-d2da-bcf8-bcbd-22e31b30d982/C9RXMUB7GX4cOANwnyD3-IGvgunhw6-tduyI7uJzgT392BVMfnu0DGOEzw)
 
 ## [Registros dos ocorridos](https://www.evernote.com/shard/s483/sh/0edd5ceb-b06c-d219-e128-9064df36e574/sbJOkHLkuocdfjA-JT3WUYp0MJh0xOocfZKX8JXcBwdkhOSE0IfJSHkCOg)
 
-## [Relatos semelhantes ao redor do mundo](https://www.evernote.com/shard/s483/sh/1e544938-d2da-bcf8-bcbd-22e31b30d982/C9RXMUB7GX4cOANwnyD3-IGvgunhw6-tduyI7uJzgT392BVMfnu0DGOEzw)
+## [Laudos, atestados e exames](https://www.evernote.com/shard/s483/sh/1a172dc3-a7a1-e318-433c-011a436bd809/16NMave6Gru9imcKaZXVZF3utZ9ekutkL6zBoxmuUmQIEma2-QjvZXs_vA)
 
 ## [Movimento de ascensão planetária / Lei da atração / Leis herméticas](https://www.evernote.com/shard/s483/sh/2657ea45-8dae-4a7f-e249-4f8e03a3131a/12GJCpsT8ZtYObhg5q845_bhdGv_Bud3gGGh1oBV1rsI9OEA0jrpwQ6lyw)
 
