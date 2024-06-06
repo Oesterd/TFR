@@ -13,6 +13,29 @@
 - Origem inteligente: todas as coisas em um universo local foram criadas por um ou vários seres que detém todo o conhecimento das leis da física e dos seres vivos.
 
 
+## Refutando a hipótese da formação espontânea absoluta
+
+O que essa hipótese assume como verdade
+1. Só existe um único universo;
+2. Nenhum valor de uma constante fundamental é especial;
+3. As estruturas são formadas através de flutuações energéticas no vácuo.
+
+Analisando nosso próprio universo, sabemos que caso as constantes fundamentais tivessem valores diferentes, a vida como conhecemos não seria possível, em especial a constante de estrutura fina, impossibilitando a formação de estruturas moleculares complexas ou de corpos astronômicos como estrelas.
+
+No entanto, nosso universo não nos permite assumir que o valor destas constantes é necessáriamente constante no tempo, apenas que não é totalmente aleatório. Sendo possível definir função que descreve a variação temporal destas constantes, é possível testar se esta hipótese é verdadeira ou não.
+
+
+### Se as constantes fundamentais forem totalmente constantes no tempo
+
+1. Encontrar a proporção entre o número de valores das constantes que permitem a existência da formação de estruturas complexas e o número de valores que impedem a sua existência;
+2. Se o número de valores que impedem sua existência for muito maior do que o que permitem, então a hipótese é falsa.
+
+### Se as constantes fundamentais não forem constantes no tempo
+
+1. Encontrar a proporção entre o número de valores das constantes que permitem a existência da formação de estruturas complexas e o número de valores que impedem a sua existência;
+2. Realizar uma estimativa com base em cálculos de quanto tempo um universo como o nosso poderia existir baseado nesta proporção e na função que descreve a variação das constantes no tempo;
+3. Comparar com o atual tempo estimado de existência dessas estruturas no nosso universo, se o tempo calculado for muito menor que o estimado, então a hipótese é falsa.
+
 
 
 ## Refutando a hipótese da origem única inteligente (criacionismo)
