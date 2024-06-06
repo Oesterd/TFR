@@ -49,16 +49,15 @@ Essa refutação não irá usar argumentos éticos e morais ou fatos científico
 
 ### 1. Deus se criou sozinho
 
-- Então Deus nunca foi criado.
-- E se for qual o problema?
-- Então estamos falando do caso do Deus eterno.
+Criar uma é uma ação e requer que Deus existisse antes dela, contradição matemática.
+
+### 2. Deus surgiu espontaneamente no completo vazio
+
+Neste caso a lei de surgimento espontâneo está acima de Deus, sendo Deus uma exceção ou não a essa lei, portanto Deus não pode ser responsável por criar todas as coisas tendo sua existência dependente de uma lei exterior e anterior a este.
 
 
+### 3. Deus é eterno
 
-### 2. Deus é eterno
-
-- O que existia antes de Deus criar tudo?
-- Nada, Deus criou tudo do zero.
 - Como Deus teve ideia de criar as coisas se ele nunca viu elas antes porque nada existia antes dele criá-las?
 - Todas as coisas já existem na mente de Deus.
 - Você quer dizer que Deus consegue ter uma mente mesmo sem nenhum dos sentidos físicos?
