@@ -1,13 +1,13 @@
 # Como funciona o jogo de interesses nas simulações
 
 
-Podemos dividir os seres e as civilizações baseadas no nível de experiência, inteligência analítica e emocional, devido ao efeitos psicológicos como Dunning-Krueger e viéses cognitivos, como o viés de confirmação, podemos utilizar o princípio da humildade situacional.
+Podemos dividir os seres e as civilizações baseadas no nível de experiência, inteligência analítica e emocional, devido ao efeitos psicológicos como Dunning-Krueger e viéses cognitivos, como o viés de confirmação, podemos utilizar o princípio da humildade situacional para imaginar a existência de civilizações mais avançadas intelectual, emocional e tecnologicamente do que nós.
 
-As inteligências analítica e emocional devem ser medida e analisada por seres e civilizações que se provararam superiores em ambas de forma constante por um longo prazo, seguindo uma distribuição probabilística que confirme a competência desses seres para estabelecer um padrão objetivo destas inteligências que possa ser generalizado universalmente.
+As inteligências analítica e emocional devem ser medida e analisada de forma objetiva com modelos matemáticos com consistência lógica, embasados em teorias comprovadas e que são empiricamente verificáveis com grandes amostras suficientemente diversas.
 
 Várias métricas podem ser estabelecidas, no qual os números que ditam os níveis mínimo e máximo de inteligência são, a princípio, arbitrários, no entanto, nem todas as escolhas são igualmente eficientes e úteis, a métrica deve ser escolhida de modo a minimizar ambas ambiguidade e redundância.
 
-Uma boa candidata para essa métrica otimizada é a que vai do número 1 ao 99, no qual estes números representam os níveis mínimos e máximos da inteligência escolhida a ser analisada e, naturalmente, seres e civilizações de inteligência superior podem se passar por seres menos inteligentes, mas não o contrário, sendo essa uma das principais estratégias utilizadas.
+Uma candidata razoável para essa métrica otimizada é a que vai do número 1 ao 99, no qual estes números representam os níveis mínimos e máximos da inteligência escolhida a ser analisada e, naturalmente, seres e civilizações de inteligência superior podem se passar por seres menos inteligentes, mas não o contrário, sendo essa uma das principais estratégias utilizadas.
 
 Agrupamento de seres e civilizações por níveis de inteligência
 
@@ -70,7 +70,7 @@ Como dito anteriormente, todos os tipos de ataques possuem limitações fundamen
 
 Há duas principais ferramentas utilizadas para detectar armadilhas e mentiras:
 
-Intuição: são padrões de fluxo sanguíneo gerados por seres de camadas superiores da simulação que geram calor em regiões específicas do corpo, estes padrões funcionam como assinaturas parametrizadas e podem ser utilizados para tomar decisões que envolveriam muito tempo de raciocínio lógico, funcionando como heurística mental. Entretanto, como isso se trata de um recurso computacional, ele pode ser abusado por redes inimigas em momentos estratégicos, especialmente utilizando estratégias de ataques disfarçados e conluios temporários.
+Intuição: como explicado no documento de fatores manipuláveis na simulação, a intuição pode ser usada como heurística mental, correndo também o risco de ser abusada e portanto, gerar conclusões falsas.
 
 Raciocínio lógico: no pior caso, quando não se pode utilizar a intuição, os raciocínios de dedução, indução e abdução, em conjunto com as noções de probabilidade, devem ser usados para tirar conclusões lógicas, os raciocínios de indução e abdução são usados de forma alternada até que se tenha certeza absoluta da regra geral, uma vez descoberta essa regra o raciocínio de dedução pode ser usado algoritmicamente para tirar as conclusões restantes.
 
