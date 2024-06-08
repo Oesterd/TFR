@@ -1,6 +1,5 @@
 # Princípios e provas da teoria fundamental
 
-
 Versão em PDF: https://www.overleaf.com/read/hhycyndmwcgg#d30c97
 
 
@@ -160,6 +159,8 @@ Uma gama de conceitos pode ser explicados através da entropia como:
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
+
+
 11 - Parametrização de consciência por entropia
 
 Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
@@ -193,15 +194,39 @@ Exceções do livre arbítrio (reduzido ou nulo):
 - Bebês.
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
-13 - Teoria polivagal
-
-As emoções possuem uma vantagem sobre a razão e a parte racional do cérebro em uma razão de 4 para 1, ou seja, 80% do tempo as emoções exercem controle sobre a parte racional do tempo, enquanto 20% do tempo o inverso acontece.
 
 
-Esse fato é capaz de explicar porque muitas as ações humanas são irracionais e contraditórias e também é um pré-requisito para entender o condicionamento clássico.
-13 - Teoria do reforço de comportamento e IAs
+13 - Funcionamento e evolução de uma consciência
 
-https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
+Proporção de controle entre razão e emoção
+
+De acordo com a teoria polivagal, as emoções possuem uma vantagem sobre a razão e a parte racional do cérebro em uma razão de 4 para 1, ou seja, 80% do tempo as emoções exercem controle sobre a parte racional do cérebro, enquanto 20% do tempo o inverso acontece.
+
+
+Esse fato é capaz de explicar porque muitas as ações humanas são irracionais e contraditórias, como a perpetuação do ciclo de violência entre gerações em famílias e instituições, bem como vícios e ciclos de autossabotagem.
+
+Condicionamento clássico e reforço de comportamento
+
+Comportamentos podem ser reforçados quando há uma associação positiva a eles, como uma emoção de prazer ou recompensa e podem ser desestimulados quando há uma associação negativa, como emoções de dor ou vergonha.
+
+Este é o mesmo princípio utilizado para treinar animais, condicionando um estímulo neutro (como um som, um sino, um gesto) a um estímulo positivo ou negativo, fazendo com que os animais antecipem o segundo estímulo através do primeiro.
+
+Este mesmo princípio também está por trás na criação memórias positivas ou traumáticas e de preferências, se constituindo sempre de uma associação entre um evento e uma emoção ou sensação.
+
+Aprendizado por reforço
+
+O aprendizado de um ser vivo pode ser comparado ao de uma inteligência artificial no modelo de aprendizado por reforço, cujo objetivo é maximizar a recompensa, que no caso de um ser humano é a sensação de prazer e felicidade.
+
+Para o caso de uma inteligência artificial, para cada conjunto de ações é atribuído um valor positivo ou negativo, cuja variação depende do quão longe o resultado desse conjunto de ações foi do objetivo a ser alcançado, ações em que o resultado esteve próximo do objetivo recebem um valor positivo e vice-versa. Deste modo, ao tentar obter maior recompensa possível, que é equivalente a um valor positivo, a inteligência artificial irá priorizar ações que maximizem este valor.
+
+Da mesma forma, os seres vivos tendem a tomar decisões que levem a um maior nível de conforto e prazer no curto prazo, quando influenciados pela emoção e no longo prazo quando influenciados pela razão, sendo a base para este fenômeno a proporção de controle entre razão e emoção.
+
+
+https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7
+
+https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6
+
+https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
 
 
 15 - Humildade situacional
@@ -309,17 +334,25 @@ Falsos estados emocionais: assim como no caso anterior, cada estado emocional po
 Possíveis evidências espalhadas pela internet: 
 
 Exemplos do mundo real
+
 https://www.youtube.com/watch?v=2YZJt_Bw3eo
+
 https://www.youtube.com/watch?v=wZZ4Vf3HinA
+
 https://www.youtube.com/watch?v=HjoCEpTH8YgFonte: https://handaru.net/?p=166
 
 https://www.youtube.com/watch?v=ZkxUzDzwexE
+
 https://www.youtube.com/watch?v=TYbRNQ3LxwU
+
 https://www.youtube.com/watch?v=8BrLNgKLWzs
 
 
-Steins;Gate 
-https://www.youtube.com/watch?v=FeG4JH9f180Na letra há uma parte que diz: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida", dando indícios que essa é a forma com que sinais do universos são captadas pelos seres humanos.
+Steins;Gate
+
+https://www.youtube.com/watch?v=FeG4JH9f180Na
+
+letra há uma parte que diz: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida", dando indícios que essa é a forma com que sinais do universos são captadas pelos seres humanos.
 
 Gantz
 
