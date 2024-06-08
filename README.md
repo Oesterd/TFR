@@ -26,7 +26,7 @@ Segue abaixo links que descrevem as experiências que me levaram a tirar estas c
 
 ## [Laudos, atestados e exames](https://www.evernote.com/shard/s483/sh/1a172dc3-a7a1-e318-433c-011a436bd809/16NMave6Gru9imcKaZXVZF3utZ9ekutkL6zBoxmuUmQIEma2-QjvZXs_vA)
 
-## [Movimento de ascensão planetária / Lei da atração / Leis herméticas](https://www.evernote.com/shard/s483/sh/2657ea45-8dae-4a7f-e249-4f8e03a3131a/12GJCpsT8ZtYObhg5q845_bhdGv_Bud3gGGh1oBV1rsI9OEA0jrpwQ6lyw)
+## [Movimento de ascensão planetária / Lei da atração](https://www.evernote.com/shard/s483/sh/2657ea45-8dae-4a7f-e249-4f8e03a3131a/12GJCpsT8ZtYObhg5q845_bhdGv_Bud3gGGh1oBV1rsI9OEA0jrpwQ6lyw)
 
 ## [Relatório dos ocorridos desde 2020](https://www.evernote.com/shard/s483/sh/0e8c9043-41f2-91f2-dae3-87edd4524cfc/3qUpZPunAgkfq7gUI5EM639LKOjeQ9LOfSPnPksCf7j_GaZul_HEQfpvUA)
 
