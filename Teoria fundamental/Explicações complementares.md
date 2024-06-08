@@ -1,4 +1,5 @@
 # Teoria fundamental da realidade
+
 1. Todos os fatos dessa primeira lista são verdades absolutas, em qualquer universo concebível, pois são verdades de nível lógico e matemático;
 2. Como a teoria se refere a tudo o que existe ou pode existir, ela não pode ser provada se apoiando em fatos externos ou teorias complementares; (Em resposta ao TIG*)
 3. A teoria pode ser provada verdadeira se existir um número finito de eventos não redudantes para todos os possíveis universos com seus respectivos conjunto de leis e constantes da física, se a teoria for provada como verdadeira e a única verdadeira em cada uma dessas possibilidades, então ela foi provada como verdadeira por falta de alternativas; (Em resposta ao TIG*)
