@@ -1,5 +1,6 @@
 # Princípios e provas da teoria fundamental
 
+
 Versão em PDF: https://www.overleaf.com/read/hhycyndmwcgg#d30c97
 
 
@@ -93,8 +94,44 @@ Exemplos:
 6. Criação de um idioma;
 7. Distribuição de energia.
 
+7 - Parametrização de todos os eventos
 
-7 - Teorema da incompletude de Godel 
+Retornando ao limite de unicidade de eventos junto ao seu corolário, é possível definir unicamente cada evento, objeto ou conceito em uma combinação específica de fatores fundamentais e irredutíveis, configurando uma posição única para este evento no mapa de eventos.
+
+Será dada abaixo uma sequência de exemplos, que partem do caso geral para o particular, de como parametrizar qualquer evento ou conceito:
+
+
+Parametrização de universos
+
+1. Combinação única de leis e constantes da física;
+2. Pela sequência exata de eventos que se deu em um grande intervalo de tempo.
+
+Parametrização de objetos
+
+1. Conjunto de constituíntes fundamentais;
+2. Configuração microscópica.
+
+Parametrização de um ser vivo
+
+1. Composição química, qualitativa e quantitativamente;
+2. Neurobiologia;
+3. Padrões de comportamento em um intervalo considerável.
+
+Parametrização de estados físicos ou mentais
+
+Um estado físico ou mental, quando analizado no intervalo de sua duração, pode ser decomposto nos seguinte fatores, em ordem de confiabilidade:
+
+1. Conjunto e quantidade de neurotransmissores presentes no cérebro;
+2. Batimentos cardíacos;
+3. Fluxo e pressão sanguínea;
+4. Coloração da pele, especialmente no rosto;
+5. Contração dos pelos pelo corpo;
+6. Expressões corporais;
+7. Taxa de respiração;
+8. Expressão facial;
+
+
+8 - Teorema da incompletude de Godel 
 
 
 O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível.
@@ -159,8 +196,6 @@ Uma gama de conceitos pode ser explicados através da entropia como:
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-
-
 11 - Parametrização de consciência por entropia
 
 Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
@@ -194,8 +229,6 @@ Exceções do livre arbítrio (reduzido ou nulo):
 - Bebês.
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
-
-
 13 - Funcionamento e evolução de uma consciência
 
 Proporção de controle entre razão e emoção
@@ -222,77 +255,19 @@ Para o caso de uma inteligência artificial, para cada conjunto de ações é at
 Da mesma forma, os seres vivos tendem a tomar decisões que levem a um maior nível de conforto e prazer no curto prazo, quando influenciados pela emoção e no longo prazo quando influenciados pela razão, sendo a base para este fenômeno a proporção de controle entre razão e emoção.
 
 
-https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7
+https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
 
-https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6
+13 - Hipótese do universo computacional
 
-https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
+Reunindo os conceitos do conjunto fechado de todos os eventos e da parametrização universal com a proximidade entre a computação e a matemática, especialmente na fatoração binária de qualquer evento dentro de um computador, é possível sugerir que todos os eventos tenham natureza computacional e possam ser simulados.
 
+Essa hipótese se embasa no fato que tudo pode ser parametrizado em correntes elétricas em transistores e linhas de código de alto nível no computador ou rede de computadores responsáveis por gerenciar a simulação de nível inferior. A administração de uma simulação permite controlar todos os parâmetros visíveis da simulação que não sejam fatos fundamentais de nível matemático e lógico.
 
-15 - Humildade situacional
-
-Nem sempre se pode tirar conclusões sobre a explicação de um evento baseado no conjunto atual de conhecimentos acumulados, este fato possui registros ao longo da história da humanidade, especialmente com a insistência em permanecer em paradigmas científicos ultrapassados na idade média, resultando em mortes e torturas, como a morte do italiano Giordano Bruno e a caça às bruxas.
-
-Assim como no passado, a mesma situação pode estar ocorrendo neste exato momento, em que situações e fenômenos ocorrem sem que o corpo atual de conhecimento mais atual e mais aceito da humanidade seja capaz de fornecer uma explicação satisfatória para estes, sendo então buscar alternativas menos reconhecidas pelas linhas de pensamento dominantes da ciência.
-
-Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão. 
-
-
-16 - Hipótese do universo matemático
-
-Seguindo a linha de raciocínio da humildade situacional, podemos conceber civilizações futuras com mais conhecimento e técnicas e menos limitações do que nós temos hoje, sendo capazes de realizar os feitos descritos na seção de parametrização universal, com manipulação de leis da física, objetos inanimados e seres vivos.
-
-Para realizar este objetivo, recursos computacionais seriam gastos, respeitando 
-
-17 - Parametrização universal
-
-Retornando ao limite de unicidade de eventos junto ao seu corolário, é possível definir unicamente cada evento, objeto ou conceito em uma combinação específica de fatores fundamentais e irredutíveis, configurando uma posição única para este evento no mapa de eventos.
-
-Será dada abaixo uma sequência de exemplos, que partem do caso geral para o particular, de como parametrizar qualquer evento ou conceito:
-
-
-Parametrização de universos
-
-1. Combinação única de leis e constantes da física;
-2. Pela sequência exata de eventos que se deu em um grande intervalo de tempo.
-
-Parametrização de objetos
-
-1. Conjunto de constituíntes fundamentais;
-2. Configuração microscópica.
-
-Parametrização de um ser vivo
-
-1. Composição química, qualitativa e quantitativamente;
-2. Neurobiologia;
-3. Padrões de comportamento em um intervalo considerável.
-
-Parametrização de estados físicos ou mentais
-
-Um estado físico ou mental, quando analizado no intervalo de sua duração, pode ser decomposto nos seguinte fatores, em ordem de confiabilidade:
-
-1. Conjunto e quantidade de neurotransmissores presentes no cérebro;
-2. Batimentos cardíacos;
-3. Fluxo e pressão sanguínea;
-4. Coloração da pele, especialmente no rosto;
-5. Contração dos pelos pelo corpo;
-6. Expressões corporais;
-7. Taxa de respiração;
-8. Expressão facial;
+As listas abaixo se referem a fatores que podem ser manipulados em uma simulação:
 
 
 
-
-
-
-
-13 - Manipulação universal
-
-O paradgima do universo simulacional se embasa no fato que tudo pode ser parametrizado em correntes elétricas em transistores e linhas de código de alto nível no computador responsável por gerenciar a simulação de nível inferior. A administração de uma simulação permite controlar todos os parâmetros visíveis da simulação que não sejam fatos fundamentais de nível matemático e lógico, seguem abaixo listas de fatores que podem ser manipulados em uma simulação.
-
-
-
-Fatores externos:
+Fatores externos
 
 1. Parâmetros matemáticos de objetos;
 2. Conservação local de energia, massa e carga;
@@ -301,7 +276,7 @@ Fatores externos:
 5. Leis e constantes da física.
 
 
-Consequências das manipulações de fatores externos:
+Consequências das manipulações de fatores externos
 
 Movimento, aparecimento e desaparecimento de objetos: objetos físicos podem ser parametrizados em correntes elétricas em um computador, sendo tratados como objetos matemáticos que podem ser manipulados que podem ser associados uma posição, velocidade e existência local. O movimento dos objeto pode explicado como uma alteração nos dois primeiros fatores, enquanto o  aparecimento e desparecimento de objetos pode ser explicado através das múltiplas camadas de simulações, na qual cada uma corresponde a um universo local, a movimentação de um objeto entre estas camadas gera o efeito de aparecimento e desaparecimento.
 
@@ -312,7 +287,7 @@ Diferentes equações e constantes fundamentais da física: leis e constantes da
 Alteração na composição e funcionamento interno de objetos: a manipulação da composição e funcionamento interno de objetos consiste na alteração de parâmetros de classe globais e de parâmetros matemáticos como posição, velocidade e existência local dos componentes que compoem o objeto em questão, resultando em alterações macroscópicas através de manipulações de ordem microscópica.
 
 
-Seres vivos:
+Seres vivos
 
 1. Reações químicas no cérebro;
 2. Contração muscular;
@@ -320,7 +295,7 @@ Seres vivos:
 4. Metabolismo;
 5. Sentidos físicos.
 
-Consequências das manipulações de seres vivos:
+Consequências das manipulações de seres vivos
 
 Alucinações sensoriais: existe uma assinatura de corrente elétrica e sensações corporais para cada imagem, som, tato, paladar e olfato percebidos pelo cérebro, este padrão pode ser recriado com grande precisão, a depender dos recursos utilizados na manipulação destes fatores, criando portanto alucinações nos 5 sentidos.
 
@@ -334,25 +309,17 @@ Falsos estados emocionais: assim como no caso anterior, cada estado emocional po
 Possíveis evidências espalhadas pela internet: 
 
 Exemplos do mundo real
-
 https://www.youtube.com/watch?v=2YZJt_Bw3eo
-
 https://www.youtube.com/watch?v=wZZ4Vf3HinA
-
 https://www.youtube.com/watch?v=HjoCEpTH8YgFonte: https://handaru.net/?p=166
 
 https://www.youtube.com/watch?v=ZkxUzDzwexE
-
 https://www.youtube.com/watch?v=TYbRNQ3LxwU
-
 https://www.youtube.com/watch?v=8BrLNgKLWzs
 
 
-Steins;Gate
-
-https://www.youtube.com/watch?v=FeG4JH9f180Na
-
-letra há uma parte que diz: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida", dando indícios que essa é a forma com que sinais do universos são captadas pelos seres humanos.
+Steins;Gate 
+https://www.youtube.com/watch?v=FeG4JH9f180Na letra há uma parte que diz: "Domination of the 5 senses that cannot be noticed" que em português significa "Dominação dos 5 sentidos que não pode ser percebida", dando indícios que essa é a forma com que sinais do universos são captadas pelos seres humanos.
 
 Gantz
 
