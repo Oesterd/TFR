@@ -6,11 +6,12 @@ Segue abaixo links que descrevem as experiências que me levaram a tirar estas c
 
 # Teoria fundamental da realidade
 
-## [Teoria fundamental da realidade](https://www.evernote.com/shard/s483/sh/b137808e-c345-41f3-a41d-200dce4dd218/353ndaFiKprSNDY3AEkSTJ4Y3GVNevPMTk-LMP_JyQeM75e3pVzn4zcZ7g)
 
-## [Princípios e provas da teoria fundamental](https://www.evernote.com/shard/s483/sh/37e26fb8-7928-9bf0-a3bb-4d3cf3d1cb4c/YJzZyEbvD3DGuz5NkGKYaeBahBPR_ev_ApDJati2L36OIGMhrIOvBJdzeg)
+## [Teoria fundamental da realidade](https://www.evernote.com/shard/s483/sh/37e26fb8-7928-9bf0-a3bb-4d3cf3d1cb4c/YJzZyEbvD3DGuz5NkGKYaeBahBPR_ev_ApDJati2L36OIGMhrIOvBJdzeg)
 
 ## [Fatos fundamentais e permanentes](https://www.evernote.com/shard/s483/sh/39299f2c-1975-be12-e55e-a6debe81a2d6/nbItm3o3X2CF2kDBkXg_hQcGELJNmt9lxzXnn4AdK99u0dK8UxP-_XUQqQ)
+
+## [Explicações complementares para a TFR](https://www.evernote.com/shard/s483/sh/b137808e-c345-41f3-a41d-200dce4dd218/353ndaFiKprSNDY3AEkSTJ4Y3GVNevPMTk-LMP_JyQeM75e3pVzn4zcZ7g)
 
 ## [Perguntas importante em relação à TFR e outras teorias](https://www.evernote.com/shard/s483/sh/f2af07c0-bc01-8dc2-6942-e4401d0e6b84/Pk8TopEZBG4D0pJNw3seHgajrAKVY_4yrpFbzXI-eS8gww9frGkuZX0q7w)
 
