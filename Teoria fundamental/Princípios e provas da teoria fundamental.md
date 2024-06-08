@@ -1,6 +1,8 @@
 # Princípios e provas da teoria fundamental
 
 
+Versão em PDF: https://www.overleaf.com/read/hhycyndmwcgg#d30c97
+
 
 1 - Teoria de conjuntos e domínio de validade
 
@@ -20,7 +22,7 @@ Exemplos:
 2. Escolha do sistema de coordenadas e sua origem;
 3. Representações de um número decimal;
 4. Escolha de palavras para denominar um objeto, conceito, ser vivo, situação;
-5. Alguns conjuntos de regras gramaticais;
+5. Alguns conjuntos de regras gramaticais.
 
 
 Conceitos fundamentais: são conceitos de existência permanente e independentes da existência de qualquer consciência, estes conceitos podem ser descobertos, compreendidos e definidos, mas nunca criados.
@@ -48,7 +50,7 @@ Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento 
 Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
 
 
-4 - Dedução, indução e causa
+4 - Dedução, indução e abdução
 
 Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
 
@@ -70,7 +72,7 @@ Além disso, esse limite pode ser associado a um número natural a depender do c
 
 Corolário: Conjunto fechado de todos os eventos
 
-A partir do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada.
+A partir do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada, com cada evento sendo um ponto desta figura geométrica.
 
 
 6 - Formas de categorização/agrupamento/distribuição
@@ -98,7 +100,7 @@ Exemplos:
 
 O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível.
 
-Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois partindo do limite da unicidade de eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com todos os eventos únicos da realidade, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
+Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois a teoria engloba todas as outras e portanto não pode se apoiar em uma teoria externa e independente, além disso partindo do conjunto fechado de todos os eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com um número suficiente de eventos únicos da realidade, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
 
 https://www.youtube.com/watch?v=I4pQbo5MQOs
 
@@ -158,7 +160,7 @@ Uma gama de conceitos pode ser explicados através da entropia como:
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-11 - O crescimento gradual da consciência
+11 - Parametrização de consciência por entropia
 
 Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
 
@@ -166,7 +168,7 @@ Segue abaixo uma sequência de 3 níveis de consciência, do nível mais baixo p
 
 Consciência nula (caso ideal): não há sentidos físicos e estímulos externos, de qualquer intensidade e duração, nem mesmo vindo de flutuações fundamentais de energia.
 
-Consciência mínima temporal: há apenas um sentido físico e estímulos externos que variam de modo totalmente homogêneo no espaço, deixando apenas uma noção de tempo para a consciência em questão.
+Consciência mínima temporal: há apenas um sentido físico e estímulos externos variam de modo totalmente homogêneo no espaço, deixando apenas uma noção de tempo para a consciência em questão.
 
 Consciência mínima temporal-espacial: pode haver um ou mais sentidos, com estímulos externos que possuem algum grau de heterogeneidade espacial, concedendo desta vez uma noção de espaço para a consciência.
 
@@ -188,11 +190,15 @@ Exceções do livre arbítrio (reduzido ou nulo):
 - Qualquer ser em estado de sono;
 - Pessoas com deformações no cérebro;
 - Pessoas sob efeito de álcool ou drogas;
-- Bebês;
+- Bebês.
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
 13 - Teoria polivagal
 
+As emoções possuem uma vantagem sobre a razão e a parte racional do cérebro em uma razão de 4 para 1, ou seja, 80% do tempo as emoções exercem controle sobre a parte racional do tempo, enquanto 20% do tempo o inverso acontece.
+
+
+Esse fato é capaz de explicar porque muitas as ações humanas são irracionais e contraditórias e também é um pré-requisito para entender o condicionamento clássico.
 13 - Teoria do reforço de comportamento e IAs
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
@@ -207,7 +213,7 @@ Assim como no passado, a mesma situação pode estar ocorrendo neste exato momen
 Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão. 
 
 
-16 - Teoria da realidade simulacional
+16 - Hipótese do universo matemático
 
 Seguindo a linha de raciocínio da humildade situacional, podemos conceber civilizações futuras com mais conhecimento e técnicas e menos limitações do que nós temos hoje, sendo capazes de realizar os feitos descritos na seção de parametrização universal, com manipulação de leis da física, objetos inanimados e seres vivos.
 
@@ -323,32 +329,71 @@ Ler os capítulos 368 ao 372 do mangá Gantz, o contexto anterior não tem muita
 
 Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades. 
 
-14 - Registros universais
+Limitações fundamentais da realidade
 
-Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
+Alguns fatos de natureza matemática são verdadeiros em todas as simulações, cuja prova de sua existência é de maneira circular, como no coerentismo:
 
-Estes registros são equivalentes aos chamados pelas regiliões de registros akashicos.
+1. Conservação de quantidades fundamentais, como energia, massa e carga;
+2. Conservação de informação;
+3. A segunda lei da termodinâmica e a seta do tempo;
+4. Flutuações quânticas de energia.
 
-13 - Múltiplas linhas do tempo
-
-A mudança de linhas do tempo em primeira pessoa se parecem com o vídeo abaixo, porém com uma qualidade muito superior, de modo a se tornar inperceptível na maioria dos casos para a maioria das pessoas.
-
-Corolário: Causalidade cíclica
-
-Do limite da unicidade de eventos, seu primeiro corolário e das múltiplas linhas do tempo, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que também não seja causa de algo posterior.
-
-Todos os eventos estão interligados em um sistema fechado e sua hierarquia causal é um efeito apenas local, pois em escala global todos os eventos possuem o mesmo grau de importância.
+Qualquer violação destes limites é apenas local e aparente, requerindo grandes quantidades de energia para sua realização.
 
 
-19 - Limite das manipulações
+Corolário - Limite das manipulações
 
 Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos concluir que a teoria da realidade simulada não permite que qualquer evento seja possível e que todos os eventos tenham a mesma probabilidade de acontecer, fatos matemáticos serão verdadeiros em qualquer universo enquanto fabricações e manipulações da realidade, individuais ou coletivas, possuem limites a depender do nível de complexidade condicional da manipulação.
 
 - Eventos de curta duração são mais fáceis de serem fabricados do que eventos de longa duração;
 - Manipulações que se aproveitam de fatos recorrentes ou acontecimentos no presente também são comuns do que manipulações que envolvem criar algo completamente novo ou fora do padrão;
 - Arquivos e documentos salvos em servidores interligados espalhados pelo mundo são significativamente maís difíceis de serem manipulados;
-- Manuscritos são mais seguros do que documentos eletrônicos em geral;
+- Manuscritos são mais difíceis de serem manipulados do que documentos eletrônicos em geral;
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
+
+14 - Registros universais
+
+Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
+
+Estes registros são equivalentes aos chamados pelas religiões de registros akashicos e sua quantidade depende do avanço tecnológico de uma simulação, respeitando os limites fundamentais da realidade.
+
+Além de registrar o passado e o presente, é possível também analisar eventos futuros relativos a uma linha do tempo de uma camada inferior, com base em probabilidades, no qual cada evento ou conjunto de eventos é associado a uma probabilidade de ocorrência.
+
+No entanto, é impossível prever ou calcular o futuro de uma linha do tempo em uma mesma hierarquia de simulação, pois o tempo de um nível superior sempre engloba o tempo dos níveis inferiores. 
+
+13 - Múltiplas linhas do tempo
+
+O conceito de múltiplas linhas do tempo permite uma explicação não contraditória para a coexistência de múltiplos estados aparentemente opostos, como múltiplas personalidades variando de tempos em tempos em uma mesma pessoa e da retrocausalidade aparente que acontece com a interação de duas linhas do tempo similares.
+
+O que constitui uma linha do tempo
+
+Cada linha do tempo é definida únicamente pela sequência de eventos em um intervalo de tempocom extremidades arbitrárias, cada evento diferente em um dado ponto no tempo representa uma bifurcação na linha do tempo, configurando uma linha do tempo diferente.
+
+Essa definição pode ter um caráter quantitativo se uma determinado conjunto de regras for atribuido para todas as linhas do tempo, medindo a diferença entre cada uma como o conjunto de eventos diferentes entre elas, sendo então associado um número natural ou racional para essa diferença.
+
+A diferença de eventos entre duas linhas do tempo será chamada de diferença ontológica entre as linhas do tempo.
+
+Entropia e a seta do tempo
+
+Novamente com o conceito de entropia, a assimetria do tempo é definida pelas diferentes probabilidades de diferentes sequências de eventos ocorrem, neste caso as duas sequências comparadas são exatamente o mesmo conjunto de eventos porém em ordem invertida.
+
+Como a maior parte dos eventos possui uma assimetria, este fato pode ser utilizado estratégicamente na análise dos registros universais de uma linha do tempo particular, pois ao observar os eventos de uma linha do tempo em sua ordem inversa, a probabilidade de esta sequência de eventos ter sido criada artificialmente decai exponencialmente de acordo com o tamanho da sequência a ser vista nesta ordem.
+
+Portanto, a forma mais confiável de observar os eventos de uma história é do presente para o passado.
+
+Retrocausalidade aparente
+
+Se pensarmos em duas ou mais linhas do tempo com um nível de semelhança de 95% entre elas, supondo que pontos do futuro de uma linha do tempo tenham capacidade tecnológica de interagir com outras linhas do tempo, incluindo em pontos do passado, é possível que uma linha do tempo envie informações relevantes para outras linhas do tempo com proximidade ontológica, alterando assim a direção da linha do tempo alvo.
+
+Como a comunicação foi entre duas linhas do tempo semelhantes porém não idênticas, não há paradoxo ou contradição matemática e nem retrocausalidade de fato.  
+
+
+Corolário: Causalidade cíclica (paradoxo de Bootstrap)
+
+Do limite da unicidade de eventos, seu primeiro corolário e das múltiplas linhas do tempo, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que também não seja causa de algo posterior.
+
+Todos os eventos estão interligados em um sistema fechado e sua hierarquia causal é um efeito apenas local, pois em escala global todos os eventos possuem o mesmo grau de importância.
+
 
 
 20 - Mapa universal de eventos únicos
@@ -428,8 +473,3 @@ Consequências lógicas dos fatos fundamentais e definições arbitrárias
 15. Quando um elétron é visto de forma estática, como em uma foto, é possível saber sua posição mas não sua velocidade;
 16. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
 17. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão e ao mesmo tempo a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
-
-
-24 - Teoria fundamental
-
-É uma teoria que afirma que os eventos são consequências lógicas fatos fundamentais de natureza permanente e matemática, além de possuírem evidências empíricas de nível local e também global, recorrendo ao fato da causalidade cíclica através de uma regressão entrópica em múltiplas linhas do tempo que percorrem múltiplas camadas de simulação.
