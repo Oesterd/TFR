@@ -16,10 +16,15 @@ Screenrec
 Legenda para relevância do conteúdo
 
 1/5 - Pouquíssimo importante
+
 2/5 - Pouco importante
+
 3/5 - Importante
+
 4/5 - Muito importante
+
 5/5 - Extremamente importante
+
 09/05/2024
 
 1 - (1/5)
@@ -32,11 +37,13 @@ Link: https://screenrec.com/share/LnCHc4NsJv
 10/05/2024
 
 1 - (2/5)
+
 Conteúdo: gravação das mensagens do canalista Daniel Scranton em todas as fontes, em caso de apagão dos registros.
 
 Link: https://screenrec.com/share/87RFbPzxwc
 
 2 - (2/5)
+
 Conteúdo: gravação das mensagens do canalista Daniel Scranton em todas as fontes, em caso de apagão dos registros.
 
 Link: https://screenrec.com/share/wEbseOPLT4
@@ -46,29 +53,34 @@ Link: https://screenrec.com/share/wEbseOPLT4
  
 
 1 - (2/5)
+
 Conteúdo: registro da produção dos textos no Evernote, caso manipulações cibernéticas ocorressem durante a gravação do vídeo
 
 Link: https://screenrec.com/share/4JsrZvqBxi
 
 2 - (2/5)
+
 Conteúdo: registro da produção dos textos no Evernote, caso manipulações cibernéticas ocorressem durante a gravação do vídeo
 
- https://screenrec.com/share/FWo0bjVy1z
+https://screenrec.com/share/FWo0bjVy1z
 
 3 - (5/5)
+
 Conteúdo: o vídeo em questão aparece como uma gravação finalizada dentro do próprio vídeo e alguns brilhos repentinos na tela ocorreram
 
 Link: https://screenrec.com/share/AJ4R1dOX6j
 
 4 - (1/5)
+
 Conteúdo: gravação da realização de múltiplos backups, em caso de manipulação posterior dos títulos dos vídeos.
 
- https://screenrec.com/share/H13mjnvUrb
+https://screenrec.com/share/H13mjnvUrb
 
 
 14/05/2024
 
 1 - (2/5)
+
 Conteúdo: o login do site só funciona após errar propositalmente os dados e corrigí-los, possivelmente só quando corrigidos um por vez.
 
 Link: https://screenrec.com/share/DAB1tWXlZE 
@@ -77,9 +89,11 @@ Link: https://screenrec.com/share/DAB1tWXlZE
 17/05/2024
 
 1 - (4/5)
+
 Conteúdo: os atalhos do site funcionam de maneira imprevisível, como se nota pelo registro de teclas no canto inferior direito da tela
 
 Atalhos: 
+
 Shift + S = Ativa/desativa o som
 
 Shift + D = Ativa/desativa o modo escuro
@@ -89,6 +103,7 @@ Shift + B = Mostra/esconde o resto do layout
 Link: https://screenrec.com/share/jabiP30TKB
 
 2 - (2/5)
+
 Conteúdo: tentativa frustrada de triangular a fonte de manipulação (usando o mesmo princípio de triangulação com torres de sinal) utilizando o padrão sonoro produzido pelos 3 vídeos sendo reproduzidos simultaneamente como auxílio
 
 Link: https://screenrec.com/share/itCQ7mzfTK
@@ -96,18 +111,21 @@ Link: https://screenrec.com/share/itCQ7mzfTK
 29/05/2024
 
 1 - (3/5)
+
 Conteúdo: o site está faltando conteúdo que só aparece somente quando pesquisado.
 
- https://screenrec.com/share/f5sgx6bQi0
+https://screenrec.com/share/f5sgx6bQi0
 
 02/06/2024
 
 1 - (4/5)
+
 Conteúdo: comportamento detalhado do site time.is
 
 Link: https://screenrec.com/share/flLOEIbd2u
 
 2 - (4/5)
+
 Conteúdo: comportamento detalhado do site time.is - Parte 2
 
 Link: https://screenrec.com/share/QgM1KWYaqe
@@ -122,9 +140,11 @@ Descrição completa do site em arquivo txt
 Registros no celular
 
 Registros mistos
+
 https://photos.app.goo.gl/5z95H5QT7wqsJ5Jo8
 
 Gravações de tela
+
 https://photos.app.goo.gl/us5Q7wH86LvvfyD98
 
 
@@ -138,6 +158,7 @@ Fatos físicos
 
 
 Fontes:
+
 https://en.wikipedia.org/wiki/Contactless_payment
 
 David Griffiths - Introduction to Electrodynamics - Section 9.4.1
@@ -178,6 +199,7 @@ Especificações da TV e do controle remoto
 https://drive.google.com/drive/folders/1byCY7Bfh6FAxP6A7a9roc4wgkx3IW6iY?usp=drive_link
 
 Fontes:
+
 https://device.report/samsung-electronics-co-l-t-d/tm2360e
 
 https://device.report/m/f0838031ae6262d3de730a3d4b79facc85aeaab02665d8d05fff33e07a206cbb.pdf
