@@ -8,7 +8,11 @@ Versão em PDF: https://www.overleaf.com/read/hhycyndmwcgg#d30c97
 
 Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, a única forma de chegar em uma resposta uniforme e objetiva é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
 
-Deste modo, a forma mais eficiente de descobrir a melhor teoria para um fenômeno é tentar descartar todas as teorias concorrentes até que reste apenas a teoria mais provável.
+Se pensarmos em termos de conjuntos, podemos ter um conjunto universal de todos os fenômenos observáveis Ω e três conjuntos A, B e C, pertencente a três teorias e que correspondem à quantidade de fenômenos do conjunto universal que cada teoria é capaz de explicar, também chamado de domínio de validade.
+
+Sob essa perspectiva, a maneira eficiente de descobrir a melhor teoria para explicar um fenômeno ou conjunto de fenômenos é testar a falseabilidade de uma teoria, descartando todas que se provam falsa até que reste a melhor.
+
+
 
 
 
@@ -432,11 +436,11 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-20 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista (rascunho)
+20 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
 A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
-20.1 - Teoria eletromagnética naturalista
+20.1 - Teoria eletromagnética naturalista (rascunho)
 
 A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância, quando todas as explicações naturais cessaram.
 
