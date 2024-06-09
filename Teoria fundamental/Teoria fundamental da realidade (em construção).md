@@ -432,7 +432,7 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-20 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
+20 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista (rascunho)
 
 A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
