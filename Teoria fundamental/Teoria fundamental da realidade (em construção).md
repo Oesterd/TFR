@@ -131,15 +131,6 @@ Um estado físico ou mental, quando analizado no intervalo de sua duração, pod
 8. Expressão facial;
 
 
-8 - Teorema da incompletude de Godel 
-
-
-O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível.
-
-Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois a teoria engloba todas as outras e portanto não pode se apoiar em uma teoria externa e independente, além disso partindo do conjunto fechado de todos os eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com um número suficiente de eventos únicos da realidade, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
-
-https://www.youtube.com/watch?v=I4pQbo5MQOs
-
 8 - Correlação e causalidade
 
 Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
@@ -200,7 +191,7 @@ https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTro
 
 Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
 
-Segue abaixo uma sequência de 3 níveis de consciência, do nível mais baixo para o mais alto:
+Segue abaixo uma sequência de 3 níveis básicos de consciência, do nível mais baixo para o mais alto:
 
 Consciência nula (caso ideal): não há sentidos físicos e estímulos externos, de qualquer intensidade e duração, nem mesmo vindo de flutuações fundamentais de energia.
 
@@ -256,8 +247,15 @@ Da mesma forma, os seres vivos tendem a tomar decisões que levem a um maior ní
 
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
+14 - Humildade situacional
 
-13 - Hipótese do universo computacional
+Nem sempre se pode tirar conclusões sobre a explicação de um evento baseado no conjunto atual de conhecimentos acumulados, este fato possui registros ao longo da história da humanidade, especialmente com a insistência em permanecer em paradigmas científicos ultrapassados na idade média, resultando em mortes e torturas, como a morte do italiano Giordano Bruno e a caça às bruxas.
+
+Assim como no passado, a mesma situação pode estar ocorrendo neste exato momento, em que situações e fenômenos ocorrem sem que o corpo atual de conhecimento mais atual e mais aceito da humanidade seja capaz de fornecer uma explicação satisfatória para estes, sendo então buscar alternativas menos reconhecidas pelas linhas de pensamento dominantes da ciência.
+
+Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão.
+
+15 - Hipótese do universo computacional
 
 Reunindo os conceitos do conjunto fechado de todos os eventos e da parametrização universal com a proximidade entre a computação e a matemática, especialmente na fatoração binária de qualquer evento dentro de um computador, é possível sugerir que todos os eventos tenham natureza computacional e possam ser simulados.
 
@@ -361,7 +359,7 @@ Além de registrar o passado e o presente, é possível também analisar eventos
 
 No entanto, é impossível prever ou calcular o futuro de uma linha do tempo em uma mesma hierarquia de simulação, pois o tempo de um nível superior sempre engloba o tempo dos níveis inferiores. 
 
-13 - Múltiplas linhas do tempo
+16 - Múltiplas linhas do tempo
 
 O conceito de múltiplas linhas do tempo permite uma explicação não contraditória para a coexistência de múltiplos estados aparentemente opostos, como múltiplas personalidades variando de tempos em tempos em uma mesma pessoa e da retrocausalidade aparente que acontece com a interação de duas linhas do tempo similares.
 
@@ -396,7 +394,7 @@ Todos os eventos estão interligados em um sistema fechado e sua hierarquia caus
 
 
 
-20 - Mapa universal de eventos únicos
+17 - Mapa universal de eventos únicos
 
 Sabendo que há um limite de eventos de acordo com o limite de unicidade e aplicando a teoria de reforço de comportamento com a distribuição de probabilidades, chegamos na conclusão que todas as combinações de eventos existem, em diferentes proporções conforme o desdobramento local da causa e efeito.
 
@@ -411,7 +409,18 @@ Outra forma de representar seria dividir a esfera em hemisférios, quadrantes ou
 Esta mesma esfera de estados universais pode estar representada no vídeo contendo o encerramento de Steins Gate 0 acima, na parte "Órbita de fotos e universo", sugerindo que assim como a órbita de partículas ocorrem em átomos, objetos e seres orbitam a esfera de eventos, e cada curva nesta esfera corresponde a uma sequência única de eventos, conhecida como linha do tempo.
 
 
-22 - Jogo de interesses na criação e administração de simulações
+18 - Teorema da incompletude de Godel 
+
+
+O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível.
+
+Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois a teoria engloba todas as outras e portanto não pode se apoiar em uma teoria externa e independente, além disso partindo do conjunto fechado de todos os eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com um número suficiente de eventos únicos da realidade, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
+
+https://www.youtube.com/watch?v=I4pQbo5MQOs
+
+
+
+19 - Jogo de interesses na criação e administração de simulações
 
 Partindo do princípio do limite de unicidade, sabendo que todos os seres estão sujeitos ao mesmo conjunto finito sensações físicas, sentimentos, pensamentos, desejos e ambições, pode-se induzir que todo o jogo de interesses que é observado na história e no presente deste planeta pode ser estendido para todos os seres sencientes de todos os universos.
 
@@ -423,11 +432,11 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-23 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
+20 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
 A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
-23.1 - Teoria eletromagnética naturalista
+20.1 - Teoria eletromagnética naturalista
 
 A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância, quando todas as explicações naturais cessaram.
 
