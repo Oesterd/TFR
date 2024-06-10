@@ -28,7 +28,7 @@
 
 
 
-Como funciona a teoria da simulação:
+## Como funciona a teoria da simulação:
 
 - Um universo inteiro pode ser criado como uma simulação de computador;
 - Existem infinitas simulações;
@@ -38,7 +38,7 @@ Como funciona a teoria da simulação:
 
 
 
-Como funciona a teoria das múltiplas linhas do tempo:
+## Como funciona a teoria das múltiplas linhas do tempo:
 
 - Cada entidade no universo constitui uma linha do tempo única;
 - Cada linha do tempo é definida unicamente de modo retroativo pela sua sequência de eventos, ou seja, um ponto no tempo é escolhido arbitrariamente e os eventos são analisados deste ponto em direção ao passado;
@@ -51,7 +51,7 @@ Como funciona a teoria das múltiplas linhas do tempo:
 
 
 
-Como funciona o ser humano computacional:
+## Como funciona o ser humano computacional:
 
 - Cada parte do ser humano pode ser controlada por corrente elétrica;
 - A consciência de um ser humano pode ser comparada a uma inteligência artificial, diferenciados principalmente pela existência ou não de sentimentos;
@@ -65,7 +65,7 @@ Por essa razão, um ser humano ou uma inteligência artificial nunca perceberiam
 
 
 
-Porque o universo é do jeito que é?
+## Porque o universo é do jeito que é?
 
 Sabendo que um universo pode ser construído do 0 dentro de uma simulação com qualquer conjunto de leis e constantes da física ou mesmo sem nenhuma limitação, por que o universo no qual estamos inseridos possui as características que tem? 
 
@@ -73,13 +73,13 @@ Essa é uma pergunta difícil de se responder sem evidências e sem saber o que 
 
 
 
-Alguém foi obrigado a entrar na simulação?
+## Alguém foi obrigado a entrar na simulação?
 
 Provavelmente sim e em múltiplas situações, ainda assim é razoável assumir que exista um mecanismo legal que impeça isto de acontecer, embora a resposta mais provável é que a maior parte das consciências em uma simulação tenham surgido e se desenvolvido dentro da própria simulação.
 
 
 
-O que pode ser dito em relação aos milagres?
+## O que pode ser dito em relação aos milagres?
 
 São alterações temporárias nos parâmetros da simulação, visto que qualquer fator físico, químico e/ou biológico são apenas linhas de código dentro de um computador, qualquer situação de interesse religioso pode ser explicada dentro dos termos da teoria da simulação.
 
@@ -87,7 +87,7 @@ Os tipos de mediunidade podem ser explicados como aparatos tecnológicos dentro 
 
 
 
-Porque leis tão complicadas?
+## Porque leis tão complicadas?
 
 A razão mais provável para esta pergunta é para eliminar quaisquer suspeitas de design inteligente entre os seres dentro da simulação, fazendo com o que o universo apareça como um conjunto complexo de acontecimentos sem nenhuma intenção por trás de sua existência.
 
@@ -97,7 +97,7 @@ Supondo que o objetivo principal seja manter as pessoas adormecidas dentro da si
 
 
 
-Porque nunca tentaram interferir no processo de evolução dos seres desse universo?
+## Porque nunca tentaram interferir no processo de evolução dos seres desse universo?
 
 É possível inferir que hajam grandes disputas de caráter político por trás do controle de qualquer universo, no qual uma interferência externa por qualquer uma das partes geraria um conflito de grande nível, uma geração de narrativas com o objetivo de tomar o poder para si e um possível desastre de escala universal. 
 
@@ -105,7 +105,7 @@ Isto equivale assumir que este universo está sobre administração de seres exp
 
 
 
-Como funciona o karma dentro dessa teoria?
+## Como funciona o karma dentro dessa teoria?
 
 Cada ação, fala e pensamento de todos os seres podem ser observados por qualquer pessoa que tenha conhecimento de como funcionam as simulações e tenham acesso aos registros, dessa forma nenhum crime ou boa ação passam despercebidos. 
 
@@ -118,7 +118,7 @@ Assim como na resposta anterior, existe um grande jogo de interesses por trás d
 - Obs: esse padrão de karma é semelhante ao karma explicado na tradição budista, especialmente do segmento Theravada, com a exceção que as simulações e registros provêm a explicação para o funcionamento matemático  probabilístico.
 
 
-E fora da simulação (sem limitações)?
+## E fora da simulação (sem limitações)?
 
 Devido às circustâncias diferentes, cada pessoa pode ser cobrada pelos seus atos por qualquer um caso esteja fora dos olhos de quem está no poder e dependerá da própria sorte, uma vez conhecido o caso a justiça é aplicada da mesma forma que no caso anterior, caso estejamos falando de uma governança experiente.
 
@@ -129,29 +129,26 @@ Assim como na Terra, as consequências e julgamentos podem ser burlados estrateg
 
 
 
-Qual o objetivo por trás das encarnações?
+## Qual o objetivo por trás das encarnações?
 
 É provável que a maior parte das encarnações tenha como objetivo reparar os erros anteriores e gerar aprendizado individual, uma pequena parte está experimentando as limitações pela primeira vez, enquanto duas parcelas estão focadas em manter as pessoas adormecidas ou despertá-las.
 
 
+## Como a percepção da realidade é alterada?
 
-O que é impossível dentro da teoria da simulação?
+Utilizando os princípios da parametrização e manipulação humana explicados na seções "Parametrização universal" e "Hipótese do universo matemático" do documento "Teoria fundamental da realidade".
+
+
+
+## O que é impossível dentro da teoria da simulação?
 
 Violar princípios matemáticos que não dependem de nada além de pura lógica:
 
 - 1 + 1 = n, com n diferente de 2 e qualquer fato matemático semelhante;
-- Todos os fatos da primeira lista;
+- Todos os fatos da primeira lista neste documento;
 
 
 O principal exemplo seria uma violação da evolução gradual da consciência, nenhuma tecnologia é capaz de transformar a consciência de uma formiga em uma consciência de um ser humano adulto em um prazo irrazoavelmente curto;
-
-
-
-Registros cronológicos deste documento
-
-09/05/2024:
-Screenrec - https://screenrec.com/share/LnCHc4NsJv
-Câmera do celular - https://drive.proton.me/urls/PNWNKF0P1W#g5zFATZPfzzh
 
 
 
