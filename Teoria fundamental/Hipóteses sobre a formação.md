@@ -1,6 +1,18 @@
 # Hipóteses sobre a formação de todas as coisas
 
 
+## Passos para testar a teoria fundamental da realidade:
+
+- Provar por contradição que a realidade é um conjunto fechado e finito de eventos únicos;
+- Provar por contradição que o coerentismo é a melhor alternativa em contraste com o infinitismo e o dogmatismo;
+- Usar o domínio de validade de uma teoria como primeiro critério de desempate;
+- Usar o número de parâmetros livres e regras arbitrárias em uma teoria como segundo critério de desempate;
+
+
+As possíveis teorias fundamentais da realidade podem ser divididas em dois grupos principais, as que aceitam e as que rejeitam a ideia de múltiplos universos.
+
+
+
 ## Um único universo
 
 - Formação espontânea absoluta: toda a vida e estruturas complexas do universo se desenvolveram a partir de flutuações quânticas de energia em um estado de entropia máxima;
@@ -36,6 +48,7 @@ No entanto, nosso universo não nos permite assumir que o valor destas constante
 2. Realizar uma estimativa com base em cálculos de quanto tempo um universo como o nosso poderia existir baseado nesta proporção e na função que descreve a variação das constantes no tempo;
 3. Comparar com o atual tempo estimado de existência dessas estruturas no nosso universo, se o tempo calculado for muito menor que o estimado, então a hipótese é falsa.
 
+** As teorias sobre formação espontânea são semelhantes ao teorema do macaco infinito, porém envolvendo a formação de estruturas complexas e vida a partir de flutuações probabilísticas.
 
 
 ## Refutando a hipótese da origem única inteligente (criacionismo)
