@@ -93,8 +93,8 @@ Exemplos:
 1. Círculo de personalidades: 16 personalities vs Big Five;
 2. Sistema internacional de unidades vs sistema americano de unidades;
 3. Bases numéricas;
-6. Criação de um idioma;
-7. Distribuição de energia.
+4. Criação de um idioma;
+5. Distribuição de energia.
 
 7 - Parametrização de todos os eventos
 
@@ -259,7 +259,7 @@ Um dos passos mais importantes para evitar este erro é nunca projetar seu próp
 
 15 - Hipótese do universo computacional
 
-Reunindo os conceitos do conjunto fechado de todos os eventos e da parametrização universal com a proximidade entre a computação e a matemática, especialmente na fatoração binária de qualquer evento dentro de um computador, é possível sugerir que todos os eventos tenham natureza computacional e possam ser simulados.
+Reunindo os conceitos do conjunto fechado de todos os eventos e da parametrização universal com a proximidade entre a computação e a matemática, especialmente na fatoração binária de qualquer evento dentro de um computador, é possível sugerir que todos os eventos tenham natureza computacional e possam ser simulados até certo nível de precisão.
 
 Essa hipótese se embasa no fato que tudo pode ser parametrizado em correntes elétricas em transistores e linhas de código de alto nível no computador ou rede de computadores responsáveis por gerenciar a simulação de nível inferior. A administração de uma simulação permite controlar todos os parâmetros visíveis da simulação que não sejam fatos fundamentais de nível matemático e lógico.
 
@@ -351,6 +351,11 @@ Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos
 - Manuscritos são mais difíceis de serem manipulados do que documentos eletrônicos em geral;
 - Em todas os casos, a informação deve estar espalhada em fontes interligadas como forma de proteção 
 
+Teorias semelhantes ou idênticas: 
+
+Parametrização - Church-Turing-Deutsch Principle
+Ajuste das constantes e leis físicas - Fine tuned universe
+
 14 - Registros universais
 
 Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
@@ -393,6 +398,8 @@ Corolário: Causalidade cíclica (paradoxo de Bootstrap)
 Do limite da unicidade de eventos, seu primeiro corolário e das múltiplas linhas do tempo, deduzimos que todos os eventos já estão definidos e ocorrendo no passado, presente e futuro, perpetuamente, de forma equivalente, não há origem causal de dos todos os eventos sem causa anterior e não há um fim universal para onde todos os eventos converjam que também não seja causa de algo posterior.
 
 Todos os eventos estão interligados em um sistema fechado e sua hierarquia causal é um efeito apenas local, pois em escala global todos os eventos possuem o mesmo grau de importância.
+
+Teoria semelhante ou idêntica: eternismo (block universe)
 
 
 
