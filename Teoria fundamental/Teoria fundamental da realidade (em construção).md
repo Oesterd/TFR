@@ -93,8 +93,6 @@ Exemplos:
 1. Círculo de personalidades: 16 personalities vs Big Five;
 2. Sistema internacional de unidades vs sistema americano de unidades;
 3. Bases numéricas;
-4. Distribuição de renda;
-5. Teoria de gênero;
 6. Criação de um idioma;
 7. Distribuição de energia.
 
