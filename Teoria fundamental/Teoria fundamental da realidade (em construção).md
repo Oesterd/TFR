@@ -441,53 +441,11 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-20 - Teoria eletromagnética e gravitação universal sob um ponto de vista naturalista
 
-A versão naturalista destas teorias irá se basear em fatos fundamentais e que possam ser comprovadas através de uma comparação com os fenômenos observáveis deste universo, até o momento em que seja realmente necessário utilizar um argumento teleológico, cuja explicação se baseia em decisões tomadas na simulação superior responsável pela criação deste universo, por razões estratégicas de longo prazo.
 
-20.1 - Teoria eletromagnética naturalista (rascunho)
+20 - Reinterpretação das teorias da física sob um viés de simetria
 
-A teoria electromagnética naturalista, como dito anteriormente, irá partir de fatos fundamentais empiricamente verificáveis e deduzir todas as suas consequências lógicas a partir destes, recorrendo a definições arbitrárias em última instância, quando todas as explicações naturais cessaram.
-
-Definições arbitrárias
-
-1. Os nomes carga positiva e negativa;
-2. Os efeitos gerados pelas cargas no campo homogêneo, a princípio;
-3. A simetria entre campo e carga, no que se refere aos efeitos que um gera no outro, também a princípio
-4. As partículas fundamentais possuem um coeficiente de solidez, que varia de 0 a 1, no qual 0 define uma partícula completamente gasosa e 1 define uma partícula completamente sólida, recorrência matemática é necessária nesse caso.
-5. Um espaço arbitrário definido como átomo é composto de um núcleo e uma nuvem eletrônica;
-6. O núcleo é composto de protons e neutrons conectados entre si;
-7. A nuvem eletrônica é composta de elétrons que orbitam o núcleo com um movimento probabilístico e imprevisível;
-
-Fatos fundamentais
-
-1. É necessário pelo menos 3 tipos de cargas, duas cargas pelo axioma do duplo parâmetro, de efeitos opostos e uma terceira carga neutra, para explicar a existência do núcleo;
-2. Existe um campo elétrico homogêneo que permeia todo o espaço de forma uniforme;
-3. O formato mais provável das partículas ou cargas fundamentais é também o mais simples, esférico;
-4. A inserção das partículas no campo geram efeitos neste de acordo com o formato e carga das partículas;
-5. O campo elétrico pode ser representado por um campo vetorial, no qual cada vetor possui direção, sentido e módulo e dita o movimento das partículas fundamentais de acordo com a carga delas.
-6. Partículas de carga positiva reajustam o campo elétrico de modo que todos os vetores apontem do centro da esfera para fora, em direção radial;
-7. Partículas neutras não alteram o campo;
-8. Partículas negativas causam o mesmo efeito no campo que as positivas. exceto pelo sentido oposto dos vetores. de fora para o centro da esfera;
-9. Partículas positivas são aceleradas na direção e sentido dos vetores, partículas negativas são aceleradas na direção dos vetores, porém no sentido oposto;
-10. Partículas neutras não são afetadas pelo campo.
-
-Consequências lógicas dos fatos fundamentais e definições arbitrárias
-
-1. Partículas de cargas iguais se repelem devido aos efeitos gerados no campo, assim como partículas de cargas opostas se atraem;
-2. A coexistência de múltiplas partículas pode gerar movimentos caóticos, correntes elétricas ou agrupamentos em redes, a depender do tipo de agrupamento de cargas e do ambiente ao redor das cargas;
-3. Uma partícula carregada em movimento retilíneo uniforme gera um efeito no campo elétrico, no qual vetores na mesma direção do movimento se cancelam e vetores em direções perpendiculares se somam, em decorência da simetria esférica, esse efeito é semelhante ao movimento causado na água pelo trajeto de uma bala e recebe o nome de campo magnético nesta teoria;
-4. Quando uma partícula oscila em uma direção fixa, vibrações são geradas em todas as direções no plano perpendicular à linha de movimento da oscilação, assim como uma pedra caindo em 90 graus na água gera ondas concêntricas, esse é o efeito de geração de ondas eletromagnéticas por meio da aceleração de uma carga explicada de forma simplificada;
-5. A aceleração de partículas gera um movimento reverso no campo elétrico que reduz a velocidade das partículas, semelhante a um amortecimento de um oscilador harmônico;
-6. Uma carga com movimento oscilatório no eixo z e movimento retilíneo uniforme no eixo y gera, por simetria e cancelamento de vetores, oscilações de mesmo período e amplitude no eixo x, esta é a razão pela qual o campo elétrico e magnético são perpendiculares entre si em uma onda eletromagnética;
-7. As partículas do núcleo estão conectadas porque é atribuido a elas um coeficiente de solidez menor que 1, permitindo que uma atravesse a outra com certo grau de dificuldade sem que sejam repelidas pela força elétrica;
-8. Os neutrons estão presentes no núcleo porque um menor coeficiente de solidez para os protons não é suficiente para impedir uma repulsão entre eles, portanto eles atuam como uma cola entre as partículas;
-9. A razão para a existência de um núcleo dessa forma se deve à enorme quantidade de energia armarzenada neste, sendo útil para a criação de armas nucleares como bombas;
-10. Uma vez que o movimento orbital dos elétrons envolve aceleração radial, os elétrons perdem energia cinética devido ao fato explicado na consequência 5;
-11. Essa perda de energia reduz a distância radial dos elétrons ao núcleo, que no caso limite resultaria em todos os elétrons sendo absorvidos pelo núcleo, impedindo a formação de moléculas, pois eventualmente tudo se agregaria como um único corpo;
-12. Sendo inevitável a perda de energia dos elétrons de acordo com o desenvolvimento lógico dos próprios fatos fundamentais da teoria, é necessário aplicar uma explicação teleológica, na qual a energia dos elétrons é devolvida por meio de uma linha de código de computador na simulação externa, aumentando o raio de sua órbita;
-13. O movimento probabilístico dos elétrons se deve a uma linha de código que teleporta os elétrons para a região vazia mais próxima automaticamente sempre que eles estão perto de se colidir, evitando novamente a perda de energia e a situação descrita na consequência 11;
-14. Os elétrons seguem o princípio da incerteza de Heisenberg, sendo assim não é possível saber sua posição e velocidade vetorial ao mesmo tempo;
-15. Quando um elétron é visto de forma estática, como em uma foto, é possível saber sua posição mas não sua velocidade;
-16. Quando um elétron está fora da visão, é possível observar o rastro deixado no campo elétrico, sendo possível inferir sua direção de movimento e velocidade através da direção e formato do rastro, sem saber no entanto sua posição;
-17. O movimento probabilístico dos elétrons é responsável pela dificuldade de saber com alta precisão e ao mesmo tempo a posição quanto o movimento dos elétrons, pois é mais difícil analisar um instante em que a posição e o rastro estejam igualmente bem definidos, portanto muito difícil reconstruir a trajetória de um elétron observando-o junto com o seu rastro;
+- Estudar o básico de teoria de grupo;
+- Estudar as teorias quânticas: QED, QCD e especialmente QFT;
+- Tentar aplicar os princípios anteriories nas leis da física;
+- Verificar se existem múltiplas estruturas matemáticas e padrões de leis da física que produzem resultados semelhantes, dentro de um limiar de erro.
