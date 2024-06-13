@@ -69,7 +69,18 @@ Por essa razão, um ser humano ou uma inteligência artificial nunca perceberiam
 
 Sabendo que um universo pode ser construído do 0 dentro de uma simulação com qualquer conjunto de leis e constantes da física ou mesmo sem nenhuma limitação, por que o universo no qual estamos inseridos possui as características que tem? 
 
-Essa é uma pergunta difícil de se responder sem evidências e sem saber o que aconteceu antes da criação deste universo, mas um palpite razoável é que a existência de limitações deixa os seres conscientes com menos escolhas e unicamente identificáveis, tornando mais fácil de estudá-los, reunindo os dados é possível formular teorias sobre o comportamento dos seres e aplicá-las em seus próprios universos.
+Essa é uma pergunta difícil de se responder sem evidências e sem saber o que aconteceu antes da criação deste universo, mas um palpite razoável é que a existência de limitações é essencial porque tem menor gasto energético para manter no longo prazo e por questões estratégicas, impedindo o abuso na criação de universos com baixas limitações, permitindo a identificação e estudo dos seres simulados, suas ações e pensamentos.
+
+Supondo que o universo em que habitamos seja uma simulação comum, sem objetivos tirânicos ou utópicos por trás de sua existência, o principal propósito seria o de abrigar vida e permitir seu desenvolvimento, para atingir esse objetivo as leis e constante da física devem estar de acordo com essa possibilidade.
+
+Se as constantes da física, especialmente a constante de estrutura fina, fossem ligeiramente diferentes do que são, a vida no universo como conhecemos seria impossível, impedindo a formação de estruturas complexas como moléculas estáveis.
+
+
+
+
+## Como alguém pode entrar em uma simulação de nível inferior?
+
+O meio mais provável de entrar em uma camada inferior de simulação, de modo a experienciar sua realidade, seria semelhante ao processo de realidade aumentada/virtual hoje existente, mas que fosse capaz de atuar nos 5 sentidos ao mesmo tempo, sobrepondo os estímulos da camada superior que chegam até os sentidos.
 
 
 
@@ -84,16 +95,6 @@ Provavelmente sim e em múltiplas situações, ainda assim é razoável assumir 
 São alterações temporárias nos parâmetros da simulação, visto que qualquer fator físico, químico e/ou biológico são apenas linhas de código dentro de um computador, qualquer situação de interesse religioso pode ser explicada dentro dos termos da teoria da simulação.
 
 Os tipos de mediunidade podem ser explicados como aparatos tecnológicos dentro do corpo humano que podem ser ativados e desativados ou inexistentes, dependendo da pessoa.
-
-
-
-## Porque leis tão complicadas?
-
-A razão mais provável para esta pergunta é para eliminar quaisquer suspeitas de design inteligente entre os seres dentro da simulação, fazendo com o que o universo apareça como um conjunto complexo de acontecimentos sem nenhuma intenção por trás de sua existência.
-
-Então qual é o propósito da aparição de pessoas que quebraram alguns limites da física?
-
-Supondo que o objetivo principal seja manter as pessoas adormecidas dentro da simulação, a aparição destas pessoas provavelmente está ligada a grupos de oposição ao status quo da política por trás da simulação, com o objetivo de despertar as pessoas dentro do limite legal de interferência externa. (Explicação insuficiente, a ser trabalhada posteriormente)
 
 
 
