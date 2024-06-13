@@ -3,58 +3,14 @@
 
 Versão em PDF: https://www.overleaf.com/read/hhycyndmwcgg#d30c97
 
+1 - A lógica que rege a realidade
 
-1 - Teoria de conjuntos e domínio de validade
+O paradoxo da lógica
 
-Em um cenário aonde existem várias teorias em embate pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, a única forma de chegar em uma resposta uniforme e objetiva é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
-
-Se pensarmos em termos de conjuntos, podemos ter um conjunto universal de todos os fenômenos observáveis Ω e três conjuntos A, B e C, pertencente a três teorias e que correspondem à quantidade de fenômenos do conjunto universal que cada teoria é capaz de explicar, também chamado de domínio de validade.
-
-Sob essa perspectiva, a maneira eficiente de descobrir a melhor teoria para explicar um fenômeno ou conjunto de fenômenos é testar a falseabilidade de uma teoria, descartando todas que se provam falsa até que reste a melhor.
+Se supormos que toda a realidade não é regida por lógica, devemos excluir em que ela é regida por lógica, assumindo portanto a existência de opções mutuamente exclusivas e portanto, a existência de lógica, resultando em um paradoxo.
 
 
-
-
-
-2 - Diferença entre conceitos arbitrários e fundamentais
-
-Conceitos arbitrários: são conceitos criados pela consciência humana e que possuem essência vazia, ou seja, podem ser substituídos por qualquer equivalente.
-
-Exemplos:
-
-1. A definição de unidades físicas (metro, segundo, kilo, celsius, ampere, etc);
-2. Escolha do sistema de coordenadas e sua origem;
-3. Representações de um número decimal;
-4. Escolha de palavras para denominar um objeto, conceito, ser vivo, situação;
-5. Alguns conjuntos de regras gramaticais.
-
-
-Conceitos fundamentais: são conceitos de existência permanente e independentes da existência de qualquer consciência, estes conceitos podem ser descobertos, compreendidos e definidos, mas nunca criados.
-
-Exemplos:
-
-1. Conservação de quantidades fundamentais: energia, massa e carga;
-2. Espaço e tempo;
-3. Consciência;
-4. Limite de unicidade de eventos;
-
-Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes.
-
-
-3 - Teorias naturalistas e teleológicas
-
-Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de leis presentes na natureza e possuem evidências empíricas.
-
-Exemplos: teoria da seleção natural, condicionamento clássico e behaviorismo, versão probabilística da termodinâmica.
-
-Teorias teleológicas: teorias que possuem definições arbitrárias como postulados e explicações para os eventos, porém sem nenhuma evidência empírica.
-
-Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento antivacina.
-
-Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
-
-
-4 - Dedução, indução e abdução
+Os três processos de inferência
 
 Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
 
@@ -64,9 +20,9 @@ Abdução: é o processo de encontrar a melhor premissa que explique um evento, 
 
 https://www.youtube.com/watch?v=9xWZ4Pixo70
 
-5 - Limite de unicidade de eventos
+2 - Limite de unicidade de eventos
 
-Suponhamos que o número de eventos únicos ou estados de existência completamente originais seja infinito, isto significa que na prática, hajam infinitos formatos geométricos, cores, tipos de sons, processos químicos e biológicos, expressões faciais, emoções, idiomas e modos de agir, havendo portanto infinitas combinações desses eventos, resultando em infinitas sequências de eventos originais, cuja redudância seja completamente nula.
+Partindo da existência de uma lógica que rege a realidade, iremos supor que o número de eventos únicos ou estados de existência completamente originais seja infinito, isto significa que na prática, hajam infinitos formatos geométricos, cores, tipos de sons, processos químicos e biológicos, expressões faciais, emoções, idiomas e modos de agir, havendo portanto infinitas combinações desses eventos, resultando em infinitas sequências de eventos originais, cuja redudância seja completamente nula.
 
 Os efeitos deste fato seriam uma impossibilidade da formação de vida complexa, uma vez que qualquer forma deste tipo depende de um nível mínimo de previsibilidade, seja em fatores externos ou internos ao próprio ser.
 
@@ -79,7 +35,7 @@ Corolário: Conjunto fechado de todos os eventos
 A partir do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada, com cada evento sendo um ponto desta figura geométrica.
 
 
-6 - Formas de categorização/agrupamento/distribuição
+3 - Formas de categorização/agrupamento/distribuição
 
 
 
@@ -90,13 +46,41 @@ Distribuições mais aprofundadas correm o risco de ser redundantes e distribui�
 
 Exemplos:
 
-1. Círculo de personalidades: 16 personalities vs Big Five;
-2. Sistema internacional de unidades vs sistema americano de unidades;
-3. Bases numéricas;
-4. Criação de um idioma;
-5. Distribuição de energia.
+1. Diferentes bases numéricas
+2. Diferentes sistema de unidades;
+3. Diferentes precisões de uma escala;
+4. Escolha de vocabulário e regras gramaticais em um idioma;
+5. Círculo de personalidades: 16 personalities vs Big Five
 
-7 - Parametrização de todos os eventos
+
+
+4 - Análise de teorias científicas
+
+Em um cenário aonde existem várias teorias que aparentam ser igualmente bem-sucedidas pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, um critério de desempate é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
+
+Se pensarmos em termos de conjuntos, podemos ter um conjunto universal de todos os fenômenos observáveis Ω e três conjuntos A, B e C, pertencente a três teorias e que correspondem à quantidade de fenômenos do conjunto universal que cada teoria é capaz de explicar, também chamado de domínio de validade.
+
+Sob essa perspectiva, a maneira eficiente de descobrir a melhor teoria para explicar um fenômeno ou conjunto de fenômenos é testar a falseabilidade de uma teoria, descartando todas que se provam falsa até que reste a melhor.
+
+
+
+
+
+
+Teorias naturalistas e teleológicas
+
+Teorias naturalistas: teorias que afirmam que os eventos são consequências lógicas de leis presentes na natureza e possuem evidências empíricas.
+
+Exemplos: teoria da seleção natural, condicionamento clássico e behaviorismo, versão probabilística da termodinâmica.
+
+Teorias teleológicas: teorias que possuem definições arbitrárias como postulados e explicações para os eventos, porém sem nenhuma evidência empírica.
+
+Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento antivacina.
+
+Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
+
+
+5 - Parametrização de todos os eventos
 
 Retornando ao limite de unicidade de eventos junto ao seu corolário, é possível definir unicamente cada evento, objeto ou conceito em uma combinação específica de fatores fundamentais e irredutíveis, configurando uma posição única para este evento no mapa de eventos.
 
@@ -133,7 +117,7 @@ Um estado físico ou mental, quando analizado no intervalo de sua duração, pod
 8. Expressão facial;
 
 
-8 - Correlação e causalidade
+6 - Correlação e causalidade
 
 Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
 
@@ -145,7 +129,7 @@ Definição geral: todas as vezes que A acontece, B também acontece, seja ao me
 
 https://www.youtube.com/watch?v=XRJuic6gURU
 
-9 - Probabilidades
+7 - Probabilidades
 
 Sempre que houver dificuldades de utilizar os raciocínios de indução e abdução, os conhecimentos de probabilidade descritos abaixo devem ser aplicados como forma de auxílio.
 
@@ -173,7 +157,7 @@ Exemplos:
 4. Distribuição de eventos de acordo com o nível de complexidade condicional.
 
 
-10 - Entropia e suas consequências lógicas
+8 - Entropia e suas consequências lógicas
 
 
 Entropia é um conceito fundamental relacionado a nível de ordem/desordem e probabilidades, o nível de organização de um sistema é inversamente proporcional à sua entropia, portanto estados de alta entropia são desorganizados e vice-versa. Por esta lógica, a entropia tende sempre a crescer ou se manter estável, pois levando em conta as probabilidades, a desordem tende sempre a aumentar e nunca diminuir, em qualquer sistema fechado.
@@ -189,7 +173,7 @@ Uma gama de conceitos pode ser explicados através da entropia como:
 
 
 https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-11 - Parametrização de consciência por entropia
+9 - Parametrização de consciência por entropia
 
 Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
 
@@ -204,9 +188,8 @@ Consciência mínima temporal-espacial: pode haver um ou mais sentidos, com est�
 A partir deste ponto, a consciência cresce em complexidade e organização a medida que seus sentidos se tornam mais complexos, se adaptam aos estímulos externos e informações são passadas de acordo com a genética e evolução natural dos seres.
 
 
-https://youtu.be/9ksLuRoEq6A
-
-12 - Aparente livre arbítrio
+https://youtu.be/9ksLuRoEq6Ahttps://www.youtube.com/watch?v=qUUn5COVYs0
+10 - Aparente livre arbítrio
 
 Se definirmos como livre arbítrio a capaidade de analisar entre possíveis decisões e realizá-las como uma propriedade intrínseca de todos os seres e independente de condições e causas anteriores, veremos que o livre-arbítrio de fato não existe, o que existe é uma gama de escolhas que tem uma aparente independência de qualquer fator externo ou anterior.
 
@@ -222,7 +205,7 @@ Exceções do livre arbítrio (reduzido ou nulo):
 - Bebês.
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
-13 - Funcionamento e evolução de uma consciência
+11 - Funcionamento e evolução de uma consciência
 
 Proporção de controle entre razão e emoção
 
@@ -249,7 +232,7 @@ Da mesma forma, os seres vivos tendem a tomar decisões que levem a um maior ní
 
 
 https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
-14 - Humildade situacional
+12 - Humildade situacional
 
 Nem sempre se pode tirar conclusões sobre a explicação de um evento baseado no conjunto atual de conhecimentos acumulados, este fato possui registros ao longo da história da humanidade, especialmente com a insistência em permanecer em paradigmas científicos ultrapassados na idade média, resultando em mortes e torturas, como a morte do italiano Giordano Bruno e a caça às bruxas.
 
@@ -257,7 +240,32 @@ Assim como no passado, a mesma situação pode estar ocorrendo neste exato momen
 
 Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão.
 
-15 - Hipótese do universo computacional
+13 - Diferença entre conceitos arbitrários e fundamentais
+
+Conceitos arbitrários: são conceitos criados pela consciência humana e que possuem essência vazia, ou seja, podem ser substituídos por qualquer equivalente.
+
+Exemplos:
+
+1. A definição de unidades físicas (metro, segundo, kilo, celsius, ampere, etc);
+2. Escolha do sistema de coordenadas e sua origem;
+3. Representações de um número decimal;
+4. Escolha de palavras para denominar um objeto, conceito, ser vivo, situação;
+5. Alguns conjuntos de regras gramaticais.
+
+
+Conceitos fundamentais: são conceitos de existência permanente e independentes da existência de qualquer consciência, estes conceitos podem ser descobertos, compreendidos e definidos, mas nunca criados.
+
+Exemplos:
+
+1. Conservação de quantidades fundamentais: energia, massa e carga;
+2. Espaço e tempo;
+3. Consciência;
+4. Limite de unicidade de eventos;
+
+Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes.
+
+
+14 - Hipótese do universo computacional
 
 Reunindo os conceitos do conjunto fechado de todos os eventos e da parametrização universal com a proximidade entre a computação e a matemática, especialmente na fatoração binária de qualquer evento dentro de um computador, é possível sugerir que todos os eventos tenham natureza computacional e possam ser simulados até certo nível de precisão.
 
@@ -353,10 +361,10 @@ Relacionando os conceitos de probabilidade e múltiplas linhas do tempo, podemos
 
 Teorias semelhantes ou idênticas: 
 
-Parametrização - Church-Turing-Deutsch Principle
+Parametrização e manipulação - Church-Turing-Deutsch Principle
 Ajuste das constantes e leis físicas - Fine tuned universe
 
-14 - Registros universais
+15 - Registros universais
 
 Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
 
@@ -421,9 +429,9 @@ Esta mesma esfera de estados universais pode estar representada no vídeo conten
 18 - Teorema da incompletude de Godel 
 
 
-O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível.
+O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível, necessitando este segundo sistema também um terceiro sistema para a sua prova e assim por diante.
 
-Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois a teoria engloba todas as outras e portanto não pode se apoiar em uma teoria externa e independente, além disso partindo do conjunto fechado de todos os eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com um número suficiente de eventos únicos da realidade, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
+Este fato não impede que a teoria fundamental da realidade seja provada como verdadeira, pois a teoria engloba todas as outras e portanto não pode se apoiar em uma teoria externa e independente, além disso partindo do conjunto fechado de todos os eventos, a teoria pode ser provada como verdadeira por indução, testando sua falsibilidade algoritmicamente com um número suficiente de eventos únicos da realidade ou universos, ou analiticamente, repetindo os testes até que ela seja provada como verdadeira em todos eles, realizando assim sua prova final.
 
 https://www.youtube.com/watch?v=I4pQbo5MQOs
 
@@ -441,11 +449,25 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-
-
 20 - Reinterpretação das teorias da física sob um viés de simetria
 
 - Estudar o básico de teoria de grupo;
 - Estudar as teorias quânticas: QED, QCD e especialmente QFT;
-- Tentar aplicar os princípios anteriories nas leis da física;
+- Tentar aplicar os princípios de realismo modal, universo matemático nível 3 e universo computacional nas leis da física;
 - Verificar se existem múltiplas estruturas matemáticas e padrões de leis da física que produzem resultados semelhantes, dentro de um limiar de erro.
+
+Fatos brutos absolutos
+
+1. O funcionamento dos 5 sentidos;
+2. A conservação de quantidades físicas;
+3. A segunda lei da termodinâmica (entropia);
+4. As 3 dimensões espaciais;
+
+Fatos brutos locais
+
+Estes fatos tem relação com as estruturas matemáticas que compõem o modelo físico de cada universo ou simulação, por exemplo, quais objetos são a origem causal em um modelo reducionista da realidade.
+
+1. Constantes da física, em especial a constante de estrutura fina;
+2. Relações entre carga e campo, como o fato de cargas positivas terem linhas de campo para fora e cargas negativas para dentro;
+3. A velocidade constante da causalidade, resultando na velocidade constante da luz e a interdependência entre tempo e espaço. 
+
