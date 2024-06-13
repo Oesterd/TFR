@@ -1,4 +1,4 @@
-# Princípios e provas da teoria fundamental
+# Teoria fundamental da realidade (em construção)
 
 
 Versão em PDF: https://www.overleaf.com/read/hhycyndmwcgg#d30c97
