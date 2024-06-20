@@ -147,14 +147,15 @@ Teorias de distribuição
 
 Todos os eventos na natureza possuem uma distribuição probabilística associado a sua frequência de ocorrência, da ordem microscópica à ordem macroscópica, quanto maior a complexidade condicional de um evento, maior a probabilidade de ocorrência e vice-versa, eventos de maior frequência são associados a teorias naturalistas, ao passo que eventos raros são naturalmente associados a teorias fundamentalistas ou religiosas.
 
-Esse raciocínio pode ser estendido para teoria da simulação, no qual existem universos mais prováveis e naturais e improváveis e artificiais, quanto maior a complexidade e arbitrariedade das leis que o regem, mais artificial e improvável e a existência desse universo.
-
 Exemplos:
 
 1. Distribuição de peso e altura em uma população;
 2. Distribuição de índole/caráter em uma população;
 3. Distribuição de resultados em um jogo de dois dados;
 4. Distribuição de eventos de acordo com o nível de complexidade condicional.
+
+
+Esse raciocínio pode ser estendido para teoria da simulação, no qual existem universos mais prováveis e naturais e improváveis e artificiais, quanto maior a complexidade e arbitrariedade das leis que o regem, mais artificial e improvável e a existência desse universo.
 
 
 8 - Entropia e suas consequências lógicas
