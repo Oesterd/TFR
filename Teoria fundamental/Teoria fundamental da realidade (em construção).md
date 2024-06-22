@@ -3,24 +3,17 @@
 
 Versão em PDF: https://www.overleaf.com/read/hhycyndmwcgg#d30c97
 
+Conceitos chaves: https://www.evernote.com/shard/s483/sh/c1ce0834-200d-d8c0-f4c0-89837e376d4b/1Tcn2aRpA0OIbS9z4BtRBTkgMNeiSMevlBqdhtQINfgDu4f5nMs1XWkjug
+
+
+
 1 - A lógica que rege a realidade
 
 O paradoxo da lógica
 
-Se supormos que toda a realidade não é regida por lógica, devemos excluir em que ela é regida por lógica, assumindo portanto a existência de opções mutuamente exclusivas e portanto, a existência de lógica, resultando em um paradoxo.
+Se supormos que toda a realidade não é regida por lógica, devemos excluir o caso em que ela é regida por lógica, assumindo portanto a existência de opções mutuamente exclusivas e portanto, a existência de lógica, resultando em um paradoxo.
 
-
-Os três processos de inferência
-
-Dedução: é o processo de partir de uma lei geral ou premissas básicas e inferir conclusões lógicas a partir destas.
-
-Indução: é o processo de formular uma lei geral a partir de uma sequência de eventos que seguem um padrão lógico, bastando apenas uma ocorrência fora do padrão para descartar a lei inferida como verdadeira.
-
-Abdução: é o processo de encontrar a melhor premissa que explique um evento, as hipóteses são testadas uma a uma e a melhor é encontrada como sendo a mais provável.
-
-https://www.youtube.com/watch?v=9xWZ4Pixo70
-
-2 - Limite de unicidade de eventos
+Limite de unicidade de eventos
 
 Partindo da existência de uma lógica que rege a realidade, iremos supor que o número de eventos únicos ou estados de existência completamente originais seja infinito, isto significa que na prática, hajam infinitos formatos geométricos, cores, tipos de sons, processos químicos e biológicos, expressões faciais, emoções, idiomas e modos de agir, havendo portanto infinitas combinações desses eventos, resultando em infinitas sequências de eventos originais, cuja redudância seja completamente nula.
 
@@ -35,7 +28,7 @@ Corolário: Conjunto fechado de todos os eventos
 A partir do limite de unicidade é possível definir todos os eventos de um determinado tipo de situação como um conjunto matemático fechado, onde cada evento corresponde a um elemento deste conjunto, este conjunto pode ser representado por uma figura geométrica também fechada, com cada evento sendo um ponto desta figura geométrica.
 
 
-3 - Formas de categorização/agrupamento/distribuição
+2 - Formas de categorização/agrupamento/distribuição
 
 
 
@@ -46,7 +39,7 @@ Distribuições mais aprofundadas correm o risco de ser redundantes e distribui�
 
 Exemplos:
 
-1. Diferentes bases numéricas
+1. Diferentes bases numéricas;
 2. Diferentes sistema de unidades;
 3. Diferentes precisões de uma escala;
 4. Escolha de vocabulário e regras gramaticais em um idioma;
@@ -54,7 +47,7 @@ Exemplos:
 
 
 
-4 - Análise de teorias científicas
+3 - Análise de teorias científicas
 
 Em um cenário aonde existem várias teorias que aparentam ser igualmente bem-sucedidas pra explicar o mesmo fenômeno, mesmo que este fenômeno seja a realidade como um todo, um critério de desempate é descobrir qual é a teoria que engloba todas as outras, ou seja, que seja capaz de explicar cobrir todos os fenômenos que as outras teorias explicam, incluindo o que elas não são capazes de explicar.
 
@@ -80,7 +73,7 @@ Exemplos: religiões, teoria de Lamarck, geocentrismo, terraplanismo, movimento 
 Em geral, teorias naturalistas são consideradas teorias científicas, enquanto teorias teológicas são classificadas como mitologia, pseudociência ou paradigmas científicos ultrapassados.
 
 
-5 - Parametrização de todos os eventos
+4 - Parametrização de todos os eventos
 
 Retornando ao limite de unicidade de eventos junto ao seu corolário, é possível definir unicamente cada evento, objeto ou conceito em uma combinação específica de fatores fundamentais e irredutíveis, configurando uma posição única para este evento no mapa de eventos.
 
@@ -100,14 +93,15 @@ Parametrização de objetos
 Parametrização de um ser vivo
 
 1. Composição química, qualitativa e quantitativamente;
-2. Neurobiologia;
-3. Padrões de comportamento em um intervalo considerável.
+2. Caminhos neurais;
+3. Morfologia (externa e interna);
+4. Padrões de comportamento em um intervalo considerável.
 
 Parametrização de estados físicos ou mentais
 
 Um estado físico ou mental, quando analizado no intervalo de sua duração, pode ser decomposto nos seguinte fatores, em ordem de confiabilidade:
 
-1. Conjunto e quantidade de neurotransmissores presentes no cérebro;
+1. Padrão de correntes elétricas e neurotransmissores no cérebro; 
 2. Batimentos cardíacos;
 3. Fluxo e pressão sanguínea;
 4. Coloração da pele, especialmente no rosto;
@@ -117,68 +111,12 @@ Um estado físico ou mental, quando analizado no intervalo de sua duração, pod
 8. Expressão facial;
 
 
-6 - Correlação e causalidade
 
-Correlação: são eventos que podem ocorrer simultaneamente, quando isto não acontece a explicação é a existência de um terceiro evento ligado a ambos.
-
-Definição geral: frequentemente quando A acontece, B também acontece, quando o padrão é quebrado a explicação se deve a um evento C que é a causa comum de ambos.
-
-Causalidade: são eventos interdependentes, um dos eventos só pode existir com a ocorrência com do outro.
-
-Definição geral: todas as vezes que A acontece, B também acontece, seja ao mesmo tempo ou em sequência.
-
-https://www.youtube.com/watch?v=XRJuic6gURU
-
-7 - Probabilidades
-
-Sempre que houver dificuldades de utilizar os raciocínios de indução e abdução, os conhecimentos de probabilidade descritos abaixo devem ser aplicados como forma de auxílio.
-
-Teorema da multiplicação de probabilidades
-
-Complexidade condicional se refere ao conjunto de condições presentes simultaneamentes, seguindo a regra do E e diminuindo a probabilidade em progressão geométrica de acordo com o número de condições simultâneas.
-
-Sendo Pi a probabilidade de cada condição, a probabilidade Pn de um evento com n condições é dada por:
-
-Pn = P1 x P2 x P3 x ... x Pn
-
-Teorias de distribuição
-
-
-
-Todos os eventos na natureza possuem uma distribuição probabilística associado a sua frequência de ocorrência, da ordem microscópica à ordem macroscópica, quanto maior a complexidade condicional de um evento, maior a probabilidade de ocorrência e vice-versa, eventos de maior frequência são associados a teorias naturalistas, ao passo que eventos raros são naturalmente associados a teorias fundamentalistas ou religiosas.
-
-Exemplos:
-
-1. Distribuição de peso e altura em uma população;
-2. Distribuição de índole/caráter em uma população;
-3. Distribuição de resultados em um jogo de dois dados;
-4. Distribuição de eventos de acordo com o nível de complexidade condicional.
-
-
-Esse raciocínio pode ser estendido para teoria da simulação, no qual existem universos mais prováveis e naturais e improváveis e artificiais, quanto maior a complexidade e arbitrariedade das leis que o regem, mais artificial e improvável e a existência desse universo.
-
-
-8 - Entropia e suas consequências lógicas
-
-
-Entropia é um conceito fundamental relacionado a nível de ordem/desordem e probabilidades, o nível de organização de um sistema é inversamente proporcional à sua entropia, portanto estados de alta entropia são desorganizados e vice-versa. Por esta lógica, a entropia tende sempre a crescer ou se manter estável, pois levando em conta as probabilidades, a desordem tende sempre a aumentar e nunca diminuir, em qualquer sistema fechado.
-
-A entropia pode ser reduzida localmente quando há gasto energético envolvido para aumentar a entropia de outro sistema, no qual o menor sistema que contém ambos o sistemas continua com o mesmo nível de entropia, esse processo de minimização de entropia também pode ser entendido como a maximização de energia, assim como o oposto também é verdade.
-
-Uma gama de conceitos pode ser explicados através da entropia como:
-
-1. Senso de tempo;
-2. Grau de complexidade de uma consciência;
-3. O fluxo de calor de meios mais quentes para mais frios;
-4. Os processos de difusão e osmose;
-
-
-https://www.youtube.com/watch?v=Ao6vQ7rxf8s&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=4
-9 - Parametrização de consciência por entropia
+5 - Parametrização de consciência por entropia
 
 Reunindo os conceitos de espaço e tempo explicados em fatos fundamentais e permanentes, com a explicação de entropia, pode-se concluir que a consciência é na verdade um espectro de processos interconectados, ao invés de um parâmetro totalmente discreto e binário.
 
-Segue abaixo uma sequência de 3 níveis básicos de consciência, do nível mais baixo para o mais alto:
+Segue abaixo uma sequência de 3 níveis básicos de consciência, do nível mais baixo para o mais alto**:
 
 Consciência nula (caso ideal): não há sentidos físicos e estímulos externos, de qualquer intensidade e duração, nem mesmo vindo de flutuações fundamentais de energia.
 
@@ -186,11 +124,15 @@ Consciência mínima temporal: há apenas um sentido físico e estímulos extern
 
 Consciência mínima temporal-espacial: pode haver um ou mais sentidos, com estímulos externos que possuem algum grau de heterogeneidade espacial, concedendo desta vez uma noção de espaço para a consciência.
 
-A partir deste ponto, a consciência cresce em complexidade e organização a medida que seus sentidos se tornam mais complexos, se adaptam aos estímulos externos e informações são passadas de acordo com a genética e evolução natural dos seres.
+Consciência com memória: o próximo requisito para uma consciência avançada é a existência de memória (consciente ou inconsciente) das experiências, para que conhecimento e sabedoria possam ser acumulados.
+
+A partir deste ponto, a consciência cresce em complexidade a medida que interage com o mundo externo e passa pelo processo de seleção natural, se adaptando ao meio em que existe.
+
+** Ver heterogeneidde em fatos fundamentais e permanentes.
 
 
-https://youtu.be/9ksLuRoEq6Ahttps://www.youtube.com/watch?v=qUUn5COVYs0
-10 - Aparente livre arbítrio
+https://youtu.be/9ksLuRoEq6Ahttps://www.youtube.com/watch?v=GzCvlFRISIM
+6 - Aparente livre arbítrio
 
 Se definirmos como livre arbítrio a capaidade de analisar entre possíveis decisões e realizá-las como uma propriedade intrínseca de todos os seres e independente de condições e causas anteriores, veremos que o livre-arbítrio de fato não existe, o que existe é uma gama de escolhas que tem uma aparente independência de qualquer fator externo ou anterior.
 
@@ -206,7 +148,7 @@ Exceções do livre arbítrio (reduzido ou nulo):
 - Bebês.
 
 https://www.youtube.com/watch?v=sR5hPq7eev0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=3
-11 - Funcionamento e evolução de uma consciência
+7 - Funcionamento e evolução de uma consciência
 
 Proporção de controle entre razão e emoção
 
@@ -229,19 +171,12 @@ O aprendizado de um ser vivo pode ser comparado ao de uma inteligência artifici
 
 Para o caso de uma inteligência artificial, para cada conjunto de ações é atribuído um valor positivo ou negativo, cuja variação depende do quão longe o resultado desse conjunto de ações foi do objetivo a ser alcançado, ações em que o resultado esteve próximo do objetivo recebem um valor positivo e vice-versa. Deste modo, ao tentar obter maior recompensa possível, que é equivalente a um valor positivo, a inteligência artificial irá priorizar ações que maximizem este valor.
 
-Da mesma forma, os seres vivos tendem a tomar decisões que levem a um maior nível de conforto e prazer no curto prazo, quando influenciados pela emoção e no longo prazo quando influenciados pela razão, sendo a base para este fenômeno a proporção de controle entre razão e emoção.
+Da mesma forma, os seres vivos tendem a tomar decisões que levem a um maior nível de conforto e prazer no curto prazo, quando influenciados pela emoção e no longo prazo quando influenciados pela razão e sabedoria, sendo a base para este fenômeno a proporção de controle entre razão e emoção.
 
 
-https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1
-12 - Humildade situacional
+https://www.youtube.com/watch?v=2rXrGH52aoM&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=6https://www.youtube.com/watch?v=v3UBlEJDXR0&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=1https://www.youtube.com/watch?v=S_cczyvC5uk&list=PLFBzU9xjIOFw_wWmqaAfLt7ppJOTrokdA&index=7
 
-Nem sempre se pode tirar conclusões sobre a explicação de um evento baseado no conjunto atual de conhecimentos acumulados, este fato possui registros ao longo da história da humanidade, especialmente com a insistência em permanecer em paradigmas científicos ultrapassados na idade média, resultando em mortes e torturas, como a morte do italiano Giordano Bruno e a caça às bruxas.
-
-Assim como no passado, a mesma situação pode estar ocorrendo neste exato momento, em que situações e fenômenos ocorrem sem que o corpo atual de conhecimento mais atual e mais aceito da humanidade seja capaz de fornecer uma explicação satisfatória para estes, sendo então buscar alternativas menos reconhecidas pelas linhas de pensamento dominantes da ciência.
-
-Um dos passos mais importantes para evitar este erro é nunca projetar seu próprio conjunto de conhecimentos, técnicas e limitações como absoluto em todas as situações, mas adotar como possibilidade que esse conjunto seja um caso especial ou caso limite de um paradigma mais geral, no qual conhecimentos e técnicas mais avançadas, bem como sociedade com menos limitações possam existir para explicar a situação em questão.
-
-13 - Diferença entre conceitos arbitrários e fundamentais
+8 - Diferença entre conceitos arbitrários e fundamentais
 
 Conceitos arbitrários: são conceitos criados pela consciência humana e que possuem essência vazia, ou seja, podem ser substituídos por qualquer equivalente.
 
@@ -266,7 +201,7 @@ Exemplos:
 Para se aprofundar no assunto, leia o documento fatos fundamentais e permanentes.
 
 
-14 - Hipótese do universo computacional
+9 - Hipótese do universo computacional
 
 Reunindo os conceitos do conjunto fechado de todos os eventos e da parametrização universal com a proximidade entre a computação e a matemática, especialmente na fatoração binária de qualquer evento dentro de um computador, é possível sugerir que todos os eventos tenham natureza computacional e possam ser simulados até certo nível de precisão.
 
@@ -338,6 +273,8 @@ Ler os capítulos 368 ao 372 do mangá Gantz, o contexto anterior não tem muita
 
 Resumo dos capítulos: seres humanos são fabricados e destruídos sem explicação aparente, porém utilizando a conservação de energia, massa e carga e múltiplas linhas do tempo, a explicação mais razoável é que toda a massa biológica foi retirada de universos paralelos e toda a personalidade dos personagens já foi parametrizada e armazenada em um computador avançado anteriormente, podendo ser reproduzida dentro dos limites da lógica e das probabilidades. 
 
+Em uma versão alternativa o que pode ter acontecido é que versões dos seres humanos destruídos foram retirados de outras linhas do tempo.
+
 Limitações fundamentais da realidade
 
 Alguns fatos de natureza matemática são verdadeiros em todas as simulações, cuja prova de sua existência é de maneira circular, como no coerentismo:
@@ -365,7 +302,7 @@ Teorias semelhantes ou idênticas:
 Parametrização e manipulação - Church-Turing-Deutsch Principle
 Ajuste das constantes e leis físicas - Fine tuned universe
 
-15 - Registros universais
+10 - Registros universais
 
 Civilizações das camadas mais superiores da simulação possuem tecnologia para registrar uma enorme gama de eventos que ocorrem desta, que envolve todos os seres vivos, cada ação, fala e até mesmo pensamento, a depender do nível de tecnologia e habilidade do observador.
 
@@ -375,7 +312,7 @@ Além de registrar o passado e o presente, é possível também analisar eventos
 
 No entanto, é impossível prever ou calcular o futuro de uma linha do tempo em uma mesma hierarquia de simulação, pois o tempo de um nível superior sempre engloba o tempo dos níveis inferiores. 
 
-16 - Múltiplas linhas do tempo
+11 - Múltiplas linhas do tempo
 
 O conceito de múltiplas linhas do tempo permite uma explicação não contraditória para a coexistência de múltiplos estados aparentemente opostos, como múltiplas personalidades variando de tempos em tempos em uma mesma pessoa e da retrocausalidade aparente que acontece com a interação de duas linhas do tempo similares.
 
@@ -412,7 +349,7 @@ Teoria semelhante ou idêntica: eternismo (block universe)
 
 
 
-17 - Mapa universal de eventos únicos
+12 - Mapa universal de eventos únicos
 
 Sabendo que há um limite de eventos de acordo com o limite de unicidade e aplicando a teoria de reforço de comportamento com a distribuição de probabilidades, chegamos na conclusão que todas as combinações de eventos existem, em diferentes proporções conforme o desdobramento local da causa e efeito.
 
@@ -427,7 +364,7 @@ Outra forma de representar seria dividir a esfera em hemisférios, quadrantes ou
 Esta mesma esfera de estados universais pode estar representada no vídeo contendo o encerramento de Steins Gate 0 acima, na parte "Órbita de fotos e universo", sugerindo que assim como a órbita de partículas ocorrem em átomos, objetos e seres orbitam a esfera de eventos, e cada curva nesta esfera corresponde a uma sequência única de eventos, conhecida como linha do tempo.
 
 
-18 - Teorema da incompletude de Godel 
+13 - Teorema da incompletude de Godel 
 
 
 O teorema da incompletude de Godel afirma que nenhum sistema formal em matemática pode se provar verdadeiro baseado em suas próprias fundações lógicas, ou seja, nos axiomas que a constituem, necessitando de um sistema formal externo e independente, para que a prova seja possível, necessitando este segundo sistema também um terceiro sistema para a sua prova e assim por diante.
@@ -438,7 +375,7 @@ https://www.youtube.com/watch?v=I4pQbo5MQOs
 
 
 
-19 - Jogo de interesses na criação e administração de simulações
+14 - Jogo de interesses na criação e administração de simulações
 
 Partindo do princípio do limite de unicidade, sabendo que todos os seres estão sujeitos ao mesmo conjunto finito sensações físicas, sentimentos, pensamentos, desejos e ambições, pode-se induzir que todo o jogo de interesses que é observado na história e no presente deste planeta pode ser estendido para todos os seres sencientes de todos os universos.
 
@@ -450,25 +387,29 @@ No entanto, recorrendo à distribuição normal universal, pode-se deduzir que h
 
 Aprofundar em Como funciona o jogo de interesses nas simulações.
 
-20 - Reinterpretação das teorias da física sob um viés de simetria
+15 - Reinterpretação das teorias da física sob um viés de simetria
 
 - Estudar o básico de teoria de grupo;
 - Estudar as teorias quânticas: QED, QCD e especialmente QFT;
 - Tentar aplicar os princípios de realismo modal, universo matemático nível 3 e universo computacional nas leis da física;
 - Verificar se existem múltiplas estruturas matemáticas e padrões de leis da física que produzem resultados semelhantes, dentro de um limiar de erro.
 
-Fatos brutos absolutos
+Fatos fundamentais absolutos
 
 1. O funcionamento dos 5 sentidos;
-2. A conservação de quantidades físicas;
+2. A conservação de massa, carga e energia;
 3. A segunda lei da termodinâmica (entropia);
 4. As 3 dimensões espaciais;
 
-Fatos brutos locais
+Fatos fundamentais locais
 
 Estes fatos tem relação com as estruturas matemáticas que compõem o modelo físico de cada universo ou simulação, por exemplo, quais objetos são a origem causal em um modelo reducionista da realidade.
 
-1. Constantes da física, em especial a constante de estrutura fina;
+1. Constantes da física, em especial a constante de estrutura fina e a constante cosmológica;
 2. Relações entre carga e campo, como o fato de cargas positivas terem linhas de campo para fora e cargas negativas para dentro;
 3. A velocidade constante da causalidade, resultando na velocidade constante da luz e a interdependência entre tempo e espaço. 
 
+
+Hipóteses sobre a formação das coisas: https://www.evernote.com/shard/s483/sh/1e032ea1-7590-5b8a-efbd-606966c64dfb/QZ2KkMcyWcd1POacBJpCTHtUo9MVHyudoC6rLZ6bJOc9KMYd54Qr22FUQg
+
+Explicações complementares: https://www.evernote.com/shard/s483/sh/b137808e-c345-41f3-a41d-200dce4dd218/353ndaFiKprSNDY3AEkSTJ4Y3GVNevPMTk-LMP_JyQeM75e3pVzn4zcZ7g
